@@ -1,0 +1,352 @@
+[
+    {
+        "text": "This campaign, dubbed Operation GhostSecret, leverages multiple implants, tools, and malware variants associated with the state-sponsored cyber group Hidden Cobra.",
+        "triple_list": [
+            [
+                "Hidden Cobra",
+                "attack operation name",
+                "Operation GhostSecret"
+            ],
+            [
+                "Hidden Cobra",
+                "tools to use",
+                "implants"
+            ],
+            [
+                "Hidden Cobra",
+                "tools to use",
+                "tools"
+            ],
+            [
+                "Hidden Cobra",
+                "tools to use",
+                "malware variants"
+            ]
+        ]
+    },
+    {
+        "text": "This documentation provides new insight into intrusion efforts conducted by at least four discrete Iranian threat actors, Rocket Kitten, Infy, Sima, and Operation Cleaver, including groups and tools that have not been previously disclosed.",
+        "triple_list": [
+            [
+                "Rocket Kitten",
+                "target location",
+                "Iranian"
+            ],
+            [
+                "Infy",
+                "target location",
+                "Iranian"
+            ],
+            [
+                "Sima",
+                "target location",
+                "Iranian"
+            ],
+            [
+                "Operation Cleaver",
+                "target location",
+                "Iranian"
+            ]
+        ]
+    },
+    {
+        "text": "This report describes the details and type of operations carried out by Carbanak that focuses on financial industry, such as payment providers, retail industry and PR companies.",
+        "triple_list": [
+            [
+                "Carbanak",
+                "target industry",
+                "financial industry"
+            ],
+            [
+                "Carbanak",
+                "target industry",
+                "payment providers"
+            ],
+            [
+                "Carbanak",
+                "target industry",
+                "retail industry"
+            ],
+            [
+                "Carbanak",
+                "target industry",
+                "PR companies"
+            ]
+        ]
+    },
+    {
+        "text": "This seems confusing as FireEye earlier publicly declared the \"TRITON actor\" as a discrete entity, linked to a Russian research institution, and christened it as \"TEMP.Veles\".",
+        "triple_list": [
+            [
+                "TRITON actor",
+                "group alias",
+                "TEMP.Veles"
+            ],
+            [
+                "TRITON actor",
+                "background",
+                "Russian"
+            ],
+            [
+                "TEMP.Veles",
+                "background",
+                "Russian"
+            ],
+            [
+                "FireEye",
+                "investigate hacker group",
+                "TEMP.Veles"
+            ]
+        ]
+    },
+    {
+        "text": "This threat group has conducted broad targeting across a variety of industries, including financial, government, energy, chemical, and telecommunications.",
+        "triple_list": [
+            [
+                "threat group",
+                "target industry",
+                "government"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "energy"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "chemical"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "telecommunications"
+            ]
+        ]
+    },
+    {
+        "text": "This time, however, TA459 opportunistically used spear-phishing emails with a Microsoft Word attachment exploiting the recently patched CVE-2017-0199 to deploy the ZeroT Trojan, which in turn downloaded the PlugX Remote Access Trojan (RAT).",
+        "triple_list": [
+            [
+                "TA459",
+                "attack method",
+                "spear-phishing emails"
+            ],
+            [
+                "TA459",
+                "attack method",
+                "Microsoft Word attachment exploiting"
+            ],
+            [
+                "TA459",
+                "attack method",
+                "CVE-2017-0199"
+            ],
+            [
+                "TA459 ",
+                "attack method",
+                "deploy the ZeroT Trojan"
+            ]
+        ]
+    },
+    {
+        "text": "This tool was previously observed during a Mandiant incident response in 2018 and, to date, solely utilized by APT34.",
+        "triple_list": [
+            [
+                "APT34",
+                "tools to use",
+                "This tool"
+            ],
+            [
+                "APT34",
+                "attack operation name",
+                "Mandiant"
+            ],
+            [
+                "APT34",
+                "attack time",
+                "in 2018 "
+            ],
+            [
+                "Mandiant",
+                "investigate hacker group",
+                "APT34"
+            ]
+        ]
+    },
+    {
+        "text": "This week the experts at FireEye discovered that a group of Chinese-based hackers called admin@338 had sent multiple MH370-themed spear phishing emails, the attackers targeted government officials in Asia-Pacific, it is likely for cyber espionage purpose.",
+        "triple_list": [
+            [
+                "admin@338",
+                "target industry",
+                "government"
+            ],
+            [
+                "admin@338",
+                "target location",
+                "Asia-Pacific"
+            ],
+            [
+                "admin@338",
+                "attack method",
+                "spear phishing emails"
+            ],
+            [
+                "FireEye",
+                "investigate hacker group",
+                "admin@338"
+            ]
+        ]
+    },
+    {
+        "text": "To date, Whitefly has attacked organizations in the healthcare, media, telecommunications, and engineering sectors.",
+        "triple_list": [
+            [
+                "Whitefly",
+                "target industry",
+                "healthcare"
+            ],
+            [
+                "Whitefly",
+                "target industry",
+                "media"
+            ],
+            [
+                "Whitefly",
+                "target industry",
+                "telecommunications"
+            ],
+            [
+                "Whitefly",
+                "target industry",
+                "engineering sectors"
+            ]
+        ]
+    },
+    {
+        "text": "To maintain presence, APT41 relies on backdoors, a Sticky Keys vulnerability, scheduled tasks, bootkits, rootkits, registry modifications, and creating or modifying startup files.",
+        "triple_list": [
+            [
+                "APT41",
+                "tools to use",
+                "backdoors"
+            ],
+            [
+                "APT41",
+                "attack method",
+                "Sticky Keys vulnerability"
+            ],
+            [
+                "APT41",
+                "tools to use",
+                "bootkits"
+            ],
+            [
+                "APT41",
+                "tools to use",
+                "rootkits"
+            ]
+        ]
+    },
+    {
+        "text": "Unit 42 published a blog at the beginning of May titled \"Prince of Persia,\" in which we described the discovery of a decade-long campaign using a formerly unknown malware family, Infy, that targeted government and industry interests worldwide.",
+        "triple_list": [
+            [
+                "Prince of Persia",
+                "tools to use",
+                "Infy"
+            ],
+            [
+                "Prince of Persia",
+                "target industry",
+                "government "
+            ],
+            [
+                "Prince of Persia",
+                "target industry",
+                "industry interests worldwide"
+            ],
+            [
+                "Unit 42",
+                "investigate hacker group",
+                "Infy"
+            ]
+        ]
+    },
+    {
+        "text": "We believe that Lazarus will remain one of the biggest threats to the banking sector, finance, and trading companies, as well as casinos for the next few years.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "target industry",
+                "banking sector"
+            ],
+            [
+                "Lazarus",
+                "target industry",
+                "finance"
+            ],
+            [
+                "Lazarus",
+                "target industry",
+                "trading companies"
+            ],
+            [
+                "Lazarus",
+                "target industry",
+                "casinos"
+            ]
+        ]
+    },
+    {
+        "text": "We used a combination of tools such as NoFuserEx, ConfuserEx Fixer, ConfuserEx Switch Killer, and de4d0t in order to deobfuscate the code for in depth analysis.",
+        "triple_list": [
+            [
+                "We",
+                "tools to use",
+                "NoFuserEx"
+            ],
+            [
+                "We",
+                "tools to use",
+                "ConfuserEx Fixer"
+            ],
+            [
+                "We",
+                "tools to use",
+                "ConfuserEx Switch Killer"
+            ],
+            [
+                "We",
+                "tools to use",
+                "de4d0t"
+            ]
+        ]
+    },
+    {
+        "text": "We will see more from Zebrocy into 2019 on government and military related organizations.",
+        "triple_list": [
+            [
+                "Zebrocy",
+                "attack time",
+                "2019"
+            ],
+            [
+                "Zebrocy",
+                "target industry",
+                "government"
+            ],
+            [
+                "Zebrocy",
+                "target industry",
+                "military related organizations"
+            ],
+            [
+                "Zebrocy",
+                "target industry",
+                "military related organizations"
+            ]
+        ]
+    }
+]

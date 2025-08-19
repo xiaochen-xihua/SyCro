@@ -1,0 +1,719 @@
+"Agra Airport", {{"Agra Airport","operatingOrganisation","Indian Air Force"},{"Agra Airport","location","Agra"},{"Agra Airport","location","Uttar Pradesh"},{"Agra Airport","location","India"},{"Agra Airport","operatingOrganisation","Airports Authority of India"}}
+"A.S. Roma", {{"A.S. Roma","ground","Rome"},{"A.S. Roma","numberOfMembers","70634"},{"A.S. Roma","manager","Luciano Spalletti"},{"A.S. Roma","ground","Stadio Olimpico"},{"A.S. Roma","ground","``"}}
+"School of Business and Social Sciences at the Aarhus University", {{"School of Business and Social Sciences at the Aarhus University","city","Aarhus"},{"School of Business and Social Sciences at the Aarhus University","country","Denmark"}}
+"Spain", {{"Spain","language","Spanish"},{"Spain","ethnicGroup","Spaniards"},{"Spain","leaderName","Felipe VI of Spain"},{"Spain","leaderName","Felipe VI"},{"Spain","language","Spanish language"},{"Spain","leaderName","Felipe"}}
+"Arròs negre", {{"Arròs negre","country","Spain"},{"Arròs negre","region","Catalonia"},{"Arròs negre","ingredient","Cubanelle"},{"Arròs negre","region","Valencian"},{"Arròs negre","ingredient","Cephalopod ink"},{"Arròs negre","region","Valencian Community"},{"Arròs negre","ingredient","Cuttlefish"},{"Arròs negre","ingredient","White rice"}}
+"United States", {{"United States","capital","Washington"},{"United States","leaderName","Paul Ryan"},{"United States","leaderName","Barack Obama"},{"United States","language","English"},{"United States","ethnicGroup","Native Americans"},{"United States","leaderName","Joe Biden"},{"United States","ethnicGroup","Asian Americans"},{"United States","ethnicGroup","White Americans"},{"United States","ethnicGroup","African Americans"},{"United States","leaderTitle","President"},{"United States","leaderName","John Roberts"},{"United States","leaderTitle","President of the United States"},{"United States","capital","Washington,"},{"United States","ethnicGroup","African"},{"United States","language","English language"},{"United States","ethnicGroup","Asian"},{"United States","location","United States"},{"United States","capital","Washington,D.C."},{"United States","ethnicGroup","Native Americans in the United States"}}
+"250 Delaware Avenue", {{"250 Delaware Avenue","location","United States"},{"250 Delaware Avenue","location","Buffalo"},{"250 Delaware Avenue","location","Buffalo,New York"},{"250 Delaware Avenue","location","Buffalo,"}}
+"Amdavad ni Gufa", {{"Amdavad ni Gufa","location","Ahmedabad"},{"Amdavad ni Gufa","country","India"},{"Amdavad ni Gufa","location","Gujarat"}}
+"Beef kway teow", {{"Beef kway teow","ingredient","Palm sugar"},{"Beef kway teow","region","Indonesia"},{"Beef kway teow","country","Singapore"},{"Beef kway teow","region","Singapore"},{"Beef kway teow","ingredient","Sesame oil"},{"Beef kway teow","country","Indonesia"},{"Beef kway teow","ingredient","Oyster sauce"}}
+"Amsterdam Airport", {{"Amsterdam Airport","cityServed","Amsterdam"}}
+"103 Colmore Row", {{"103 Colmore Row","location","Colmore Row"},{"103 Colmore Row","location","Birmingham"}}
+"John Madin", {{"John Madin","birthPlace","Birmingham"}}
+"A Fortress of Grey Ice", {{"A Fortress of Grey Ice","language","English"},{"A Fortress of Grey Ice","country","United States"},{"A Fortress of Grey Ice","publisher","Tor Books"},{"A Fortress of Grey Ice","language","English language"},{"A Fortress of Grey Ice","country","United"}}
+"Atlantic City International", {{"Atlantic City International","cityServed","Atlantic City,New Jersey"},{"Atlantic City International","location","Egg Harbor Township,New Jersey"},{"Atlantic City International","operatingOrganisation","Port Authority of New York and New Jersey"}}
+"Atlantic City,New Jersey", {{"Atlantic City,New Jersey","country","United States"},{"Atlantic City,New Jersey","leaderName","Don Guardian"},{"Atlantic City,New Jersey","isPartOf","New Jersey"}}
+"Bandeja paisa", {{"Bandeja paisa","region","Antioquia Department"},{"Bandeja paisa","country","Columbian cuisine"},{"Bandeja paisa","ingredient","Arepa"},{"Bandeja paisa","country","Columbian"},{"Bandeja paisa","region","Paisa"},{"Bandeja paisa","ingredient","Avocado"},{"Bandeja paisa","ingredient","Fried egg"},{"Bandeja paisa","ingredient","Hogao"},{"Bandeja paisa","region","Antioquia"},{"Bandeja paisa","ingredient","Pork belly"},{"Bandeja paisa","ingredient","Lemon"},{"Bandeja paisa","ingredient","Chorizo"},{"Bandeja paisa","ingredient","Chicharrón"},{"Bandeja paisa","ingredient","Black pudding"},{"Bandeja paisa","ingredient","Cooking plantain"},{"Bandeja paisa","country","UNK"}}
+"Asam pedas", {{"Asam pedas","country","Malaysia"},{"Asam pedas","country","Indonesia"},{"Asam pedas","region","Sumatra"},{"Asam pedas","region","Malay Peninsula"},{"Asam pedas","region","Malay"}}
+"Malaysia", {{"Malaysia","leaderName","Abdul Halim of Kedah"},{"Malaysia","capital","Kuala Lumpur"},{"Malaysia","ethnicGroup","Malaysian Chinese"},{"Malaysia","leaderName","Arifin Zakaria"},{"Malaysia","ethnicGroup","Malaysian"},{"Malaysia","ethnicGroup","Malaysian Malay"},{"Malaysia","capital","Putrajaya"},{"Malaysia","ethnicGroup","Malaysian Indian"},{"Malaysia","leaderName","Najib Razak"},{"Malaysia","leaderName","Abu Zahar Ujang"}}
+"11th Mississippi Infantry Monument", {{"11th Mississippi Infantry Monument","location","Adams County,Pennsylvania"},{"11th Mississippi Infantry Monument","location","Adams County"},{"11th Mississippi Infantry Monument","location","Seminary Ridge"},{"11th Mississippi Infantry Monument","location","Adams County,"}}
+"Alpena County Regional Airport", {{"Alpena County Regional Airport","location","Wilson Township,Alpena County,Michigan"},{"Alpena County Regional Airport","location","Maple Ridge Township,Alpena County,Michigan"},{"Alpena County Regional Airport","cityServed","Alpena,Michigan"},{"Alpena County Regional Airport","location","Maple Ridge Township,Alpena County"},{"Alpena County Regional Airport","cityServed","Alpena"},{"Alpena County Regional Airport","location","Wilson Township,"},{"Alpena County Regional Airport","location","Maple Ridge Township,"},{"Alpena County Regional Airport","location","Wilson Township"}}
+"Wilson Township,Alpena County,Michigan", {{"Wilson Township,Alpena County,Michigan","country","United States"},{"Wilson Township,Alpena County,Michigan","isPartOf","United States"}}
+"Punjab", {{"Punjab","leaderName","Shehbaz Sharif"},{"Punjab","country","Pakistan"},{"Punjab","leaderTitle","Provincial Assembly of the Punjab"},{"Punjab","leaderName","Malik Muhammad Rafique Rajwana"}}
+"Allama Iqbal International Airport", {{"Allama Iqbal International Airport","location","Punjab"},{"Allama Iqbal International Airport","cityServed","Lahore"},{"Allama Iqbal International Airport","location","Punjab,Pakistan"},{"Allama Iqbal International Airport","operatingOrganisation","Pakistan Civil Aviation Authority"},{"Allama Iqbal International Airport","location","Pakistan"},{"Allama Iqbal International Airport","location","Punjab,"}}
+"Afonso Pena International", {{"Afonso Pena International","location","São José dos Pinhais"},{"Afonso Pena International","operatingOrganisation","Infraero"}}
+"Ayam penyet", {{"Ayam penyet","country","Java"},{"Ayam penyet","ingredient","Fried chicken"},{"Ayam penyet","region","Singapore"},{"Ayam penyet","region","Malaysia"},{"Ayam penyet","region","``"},{"Ayam penyet","country","Indonesia"},{"Ayam penyet","ingredient","Fried"}}
+"Campeonato Brasileiro Série C", {{"Campeonato Brasileiro Série C","country","Brazil"}}
+"Agremiação Sportiva Arapiraquense", {{"Agremiação Sportiva Arapiraquense","manager","Vica"},{"Agremiação Sportiva Arapiraquense","ground","Estádio Municipal Coaracy da Mata Fonseca"},{"Agremiação Sportiva Arapiraquense","numberOfMembers","17000"}}
+"Turkey", {{"Turkey","capital","Ankara"},{"Turkey","leaderTitle","President of Turkey"},{"Turkey","leaderName","Ahmet"},{"Turkey","leaderTitle","President"},{"Turkey","leaderName","Ahmet Davutoğlu"}}
+"Atatürk Monument ( İzmir )", {{"Atatürk Monument ( İzmir )","location","Turkey"}}
+"Abilene Regional Airport", {{"Abilene Regional Airport","cityServed","Abilene,Texas"},{"Abilene Regional Airport","cityServed","Abilene"},{"Abilene Regional Airport","cityServed","Abilene,"}}
+"William Anders", {{"William Anders","birthPlace","British Hong Kong"},{"William Anders","was a crew member of","Apollo 8"},{"William Anders","birthPlace","British Hong"},{"William Anders","was a crew member of","Apollo"}}
+"Bhajji", {{"Bhajji","country","India"},{"Bhajji","ingredient","Gram flour"},{"Bhajji","region","Karnataka"}}
+"Ampara Hospital", {{"Ampara Hospital","country","Sri Lanka"},{"Ampara Hospital","region","Ampara District"},{"Ampara Hospital","region","Ampara"},{"Ampara Hospital","location","Ampara"}}
+"Asser Levy Public Baths", {{"Asser Levy Public Baths","location","New York City"},{"Asser Levy Public Baths","location","Avenue A"},{"Asser Levy Public Baths","location","Manhattan"},{"Asser Levy Public Baths","location","23rd Street"},{"Asser Levy Public Baths","location","23rd Street ( Manhattan )"}}
+"New York City", {{"New York City","country","United States"},{"New York City","isPartOf","New York"},{"New York City","isPartOf","New Netherland"},{"New York City","isPartOf","Manhattan"},{"New York City","isPartOf","Brooklyn"}}
+"Accademia di Architettura di Mendrisio", {{"Accademia di Architettura di Mendrisio","country","Switzerland"},{"Accademia di Architettura di Mendrisio","location","Ticino"},{"Accademia di Architettura di Mendrisio","city","Mendrisio"}}
+"Switzerland", {{"Switzerland","leaderName","Johann Schneider-Ammann"},{"Switzerland","leaderTitle","Federal Chancellor"},{"Switzerland","leaderTitle","Federal"},{"Switzerland","leaderTitle","Federal Chancellor of Switzerland"},{"Switzerland","leaderName","Johann"},{"Switzerland","leaderTitle","Federal Chancellor of"}}
+"Philippines", {{"Philippines","language","Philippine English"},{"Philippines","language","Arabic"},{"Philippines","language","Philippine Spanish"},{"Philippines","ethnicGroup","Moro"},{"Philippines","ethnicGroup","Ilocano people"},{"Philippines","ethnicGroup","Igorot people"},{"Philippines","ethnicGroup","Zamboangans"},{"Philippines","ethnicGroup","Chinese Filipino"},{"Philippines","ethnicGroup","Igorot"},{"Philippines","ethnicGroup","Moro people"},{"Philippines","ethnicGroup","Chinese"},{"Philippines","ethnicGroup","Ilocano"}}
+"Ampara", {{"Ampara","country","Sri Lanka"}}
+"Eastern Province,Sri Lanka", {{"Eastern Province,Sri Lanka","leaderName","Austin Fernando"}}
+"Sri Lanka", {{"Sri Lanka","capital","Sri Jayawardenepura Kotte"},{"Sri Lanka","leaderName","Ranil Wickremesinghe"},{"Sri Lanka","language","Tamil language"},{"Sri Lanka","capital","Sri Jayawardenepura"},{"Sri Lanka","language","Tamil"}}
+"Asser Levy Public", {{"Asser Levy Public","location","New York City"}}
+"A Severed Wasp", {{"A Severed Wasp","country","United States"},{"A Severed Wasp","language","English"},{"A Severed Wasp","country","United"},{"A Severed Wasp","language","English language"},{"A Severed Wasp","publisher","Farrar,Straus and Giroux"}}
+"Uttar Pradesh", {{"Uttar Pradesh","isPartOf","Bundelkhand"},{"Uttar Pradesh","isPartOf","Awadh"},{"Uttar Pradesh","leaderName","Ram Naik"}}
+"Andrews County", {{"Andrews County","location","Texas"}}
+"Texas", {{"Texas","language","English"},{"Texas","capital","Austin"},{"Texas","country","United States"},{"Texas","capital","Austin,"},{"Texas","language","Spanish"},{"Texas","country","United"},{"Texas","capital","Austin,Texas"}}
+"Java", {{"Java","ethnicGroup","Banyumasan people"},{"Java","ethnicGroup","Banyumasan"},{"Java","ethnicGroup","Baduy"},{"Java","ethnicGroup","Javanese people"},{"Java","ethnicGroup","Javanese"}}
+"Singapore", {{"Singapore","leaderName","Halimah Yacob"},{"Singapore","leaderName","Tony Tan"},{"Singapore","language","Standard Chinese"},{"Singapore","language","English"},{"Singapore","language","English language"}}
+"Akron Summit Assault", {{"Akron Summit Assault","manager","Denzil Antonio"},{"Akron Summit Assault","numberOfMembers","3000"},{"Akron Summit Assault","ground","St."},{"Akron Summit Assault","ground","St. VincentSt Mary High School"},{"Akron Summit Assault","ground","Akron,Ohio"}}
+"Asher and Mary Isabelle Richardson House", {{"Asher and Mary Isabelle Richardson House","location","Asherton,Texas"},{"Asher and Mary Isabelle Richardson House","location","Asherton"},{"Asher and Mary Isabelle Richardson House","location","U.S. Route 83"},{"Asher and Mary Isabelle Richardson House","location","Asherton,"}}
+"Peter Stöger", {{"Peter Stöger","club","SK Rapid Wien"},{"Peter Stöger","club","SC Wiener Neustadt"},{"Peter Stöger","club","SK Vorwärts Steyr"},{"Peter Stöger","club","FC Admira Wacker"},{"Peter Stöger","club","First Vienna FC"},{"Peter Stöger","club","FK Austria Wien"},{"Peter Stöger","club","LASK Linz"},{"Peter Stöger","club","Favoritner AC"},{"Peter Stöger","club","Austria national football team"},{"Peter Stöger","club","FC Admira Wacker Mödling"},{"Peter Stöger","club","Austria"}}
+"Italy", {{"Italy","capital","Rome"},{"Italy","leaderName","Sergio Mattarella"},{"Italy","leaderName","Laura Boldrini"},{"Italy","language","Italian"},{"Italy","leaderName","Pietro Grasso"},{"Italy","leaderName","Matteo Renzi"},{"Italy","language","Italian language"}}
+"Amatriciana sauce", {{"Amatriciana sauce","country","Italy"},{"Amatriciana sauce","ingredient","Olive oil"},{"Amatriciana sauce","ingredient","Tomato"},{"Amatriciana sauce","region","Lazio"},{"Amatriciana sauce","ingredient","Pecorino Romano"},{"Amatriciana sauce","ingredient","Guanciale"},{"Amatriciana sauce","dishVariation","Onion"}}
+"Alan", {{"Alan","birthPlace","New Hampshire"},{"Alan","location","Virginia"},{"Alan","was a crew member of","Apollo 14"},{"Alan","was a crew member of","Apollo"},{"Alan","location","Williamsburg,Virginia"}}
+"Blockbuster", {{"Blockbuster","creator","Gardner Fox"},{"Blockbuster","creator","Roger Stern"},{"Blockbuster","creator","Carmine Infantino"},{"Blockbuster","creator","Tom Lyle"}}
+"AEK Athens", {{"AEK Athens","manager","Gus Poyet"},{"AEK Athens","ground","Greece"},{"AEK Athens","ground","Olympic Stadium"},{"AEK Athens","numberOfMembers","69618"},{"AEK Athens","ground","Olympic Stadium ( Athens )"},{"AEK Athens","ground","Athens"}}
+"Gus Poyet", {{"Gus Poyet","club","Chelsea"},{"Gus Poyet","club","Real Zaragoza"},{"Gus Poyet","club","AEK Athens"}}
+"Binignit", {{"Binignit","region","Visayas"},{"Binignit","country","Philippines"},{"Binignit","ingredient","Taro"},{"Binignit","region","Mindanao"},{"Binignit","ingredient","Sweet potato"},{"Binignit","ingredient","Coconut milk"},{"Binignit","ingredient","Sago"},{"Binignit","ingredient","Sweet"}}
+"Albany", {{"Albany","isPartOf","Linn County,Oregon"},{"Albany","isPartOf","Oregon"},{"Albany","isPartOf","Georgia"},{"Albany","isPartOf","Benton County"},{"Albany","isPartOf","Dougherty County,Georgia"}}
+"AWH Engineering College", {{"AWH Engineering College","country","India"}}
+"Baked Alaska", {{"Baked Alaska","ingredient","Ice cream"},{"Baked Alaska","country","France"},{"Baked Alaska","region","New York"},{"Baked Alaska","region","Hong Kong"},{"Baked Alaska","ingredient","Sponge cake"},{"Baked Alaska","country","China"},{"Baked Alaska","ingredient","Christmas pudding"},{"Baked Alaska","country","United States"},{"Baked Alaska","ingredient","Meringue"}}
+"Dane Whitman", {{"Dane Whitman","creator","John Buscema"},{"Dane Whitman","creator","Roy Thomas"}}
+"Anaheim", {{"Anaheim","isPartOf","Orange County"},{"Anaheim","isPartOf","California"}}
+"Batchoy", {{"Batchoy","country","Philippines"},{"Batchoy","region","La Paz,Iloilo City"},{"Batchoy","ingredient","Pork"},{"Batchoy","ingredient","Beef"},{"Batchoy","ingredient","Chicken"},{"Batchoy","ingredient","UNK"}}
+"Luciano Spalletti", {{"Luciano Spalletti","club","Udinese Calcio"},{"Luciano Spalletti","club","Virtus Entella"},{"Luciano Spalletti","club","Empoli"},{"Luciano Spalletti","club","A.S. Roma"}}
+"Ajoblanco", {{"Ajoblanco","country","Spain"},{"Ajoblanco","region","Andalusia"},{"Ajoblanco","ingredient","Olive oil"},{"Ajoblanco","ingredient","Bread"},{"Ajoblanco","ingredient","Almond"},{"Ajoblanco","ingredient","Garlic"},{"Ajoblanco","ingredient","Water"}}
+"Alan Shepard", {{"Alan Shepard","birthPlace","New Hampshire"},{"Alan Shepard","was a crew member of","Apollo 14"}}
+"Athens", {{"Athens","cityServed","Athens"},{"Athens","country","Greece"}}
+"A.S. Livorno Calcio", {{"A.S. Livorno Calcio","manager","Christian Panucci"},{"A.S. Livorno Calcio","ground","Stadio Armando Picchi"},{"A.S. Livorno Calcio","numberOfMembers","19238"},{"A.S. Livorno Calcio","ground","Livorno"}}
+"Christian Panucci", {{"Christian Panucci","club","Chelsea"},{"Christian Panucci","club","Genoa"},{"Christian Panucci","club","Real Madrid"},{"Christian Panucci","club","A.S. Roma"},{"Christian Panucci","club","Italy national football team"},{"Christian Panucci","club","Inter Milan"}}
+"Bacon Explosion", {{"Bacon Explosion","ingredient","Bacon"},{"Bacon Explosion","country","United States"},{"Bacon Explosion","region","Kansas City metropolitan area"},{"Bacon Explosion","region","Kansas City"},{"Bacon Explosion","region","Kansas"},{"Bacon Explosion","ingredient","Sausage"},{"Bacon Explosion","country","United"}}
+"Antioch,California", {{"Antioch,California","leaderTitle","United States House of Representatives"},{"Antioch,California","leaderTitle","California 's 11th State Assembly district"}}
+"Adolfo", {{"Adolfo","location","Madrid"},{"Adolfo","location","Paracuellos de Jarama"},{"Adolfo","operatingOrganisation","ENAIRE"},{"Adolfo","location","San"},{"Adolfo","location","Alcobendas"}}
+"Madrid", {{"Madrid","country","Spain"}}
+"Bionico", {{"Bionico","dishVariation","Cottage cheese"},{"Bionico","country","Mexico"},{"Bionico","ingredient","Granola"},{"Bionico","ingredient","Sour cream"},{"Bionico","ingredient","Condensed milk"},{"Bionico","region","Guadalajara"},{"Bionico","region","Jalisco"},{"Bionico","dishVariation","Honey"}}
+"Andalusia", {{"Andalusia","leaderName","Susana"}}
+"Batagor", {{"Batagor","country","Indonesia"},{"Batagor","dishVariation","Siomay"},{"Batagor","dishVariation","Shumai"},{"Batagor","ingredient","Peanut sauce"}}
+"A Long Long Way", {{"A Long Long Way","publisher","Viking Press"},{"A Long Long Way","country","Ireland"},{"A Long Long Way","language","English"},{"A Long Long Way","publisher","Viking"},{"A Long Long Way","language","English language"}}
+"Ireland", {{"Ireland","ethnicGroup","White people"},{"Ireland","location","Europe"}}
+"JobSearch WP Job Board WordPress Plugin v1.5.2", {{"JobSearch WP Job Board WordPress Plugin v1.5.2","uses","QakBot malware"},{"JobSearch WP Job Board WordPress Plugin v1.5.2","uses","Deserialization vulnerability depth"}}
+"QakBot malware", {{"QakBot malware","uses","JobSearch WP Job Board WordPress Plugin v1.5.2"},{"QakBot malware","uses","Deserialization vulnerability depth"}}
+"Deserialization vulnerability depth", {{"Deserialization vulnerability depth","uses","JobSearch WP Job Board WordPress Plugin v1.5.2"},{"Deserialization vulnerability depth","uses","QakBot malware"}}
+"Eric Flint", {{"Eric Flint","birthPlace","Burbank,California"},{"Eric Flint","birthPlace","Burbank"},{"Eric Flint","birthPlace","Burbank,"}}
+"Hong Kong", {{"Hong Kong","language","Chinese"},{"Hong Kong","leaderName","Carrie Lam"}}
+"shockwave virus", {{"shockwave virus","uses","openssl "Heartbleed" vulnerability"},{"shockwave virus","uses","glibc library ghost vulnerability"}}
+"glibc library ghost vulnerability", {{"glibc library ghost vulnerability","uses","shockwave virus"}}
+"Mexico", {{"Mexico","leaderName","Silvano Aureoles Conejo"},{"Mexico","language","Mexican Spanish"},{"Mexico","leaderName","Enrique"},{"Mexico","leaderName","Enrique Peña Nieto"},{"Mexico","language","Spanish"},{"Mexico","language","Mexican"}}
+"Acta Palaeontologica Polonica", {{"Acta Palaeontologica Polonica","publisher","Polish Academy of Sciences"},{"Acta Palaeontologica Polonica","publisher","Polish Academy of"}}
+"Akron", {{"Akron","location","Summit County,Ohio"},{"Akron","isPartOf","Summit County,Ohio"}}
+"St.", {{"St.","city","Akron"},{"St.","country","United States"},{"St.","city","Akron,Ohio"},{"St.","country","United"}}
+"India", {{"India","leaderName","Narendra Modi"},{"India","leaderName","Sumitra Mahajan"},{"India","leaderName","T. S. Thakur"}}
+"Ring of Fire II", {{"Ring of Fire II","language","English"}}
+"Dead", {{"Dead","location","England"}}
+"Barny", {{"Barny","country","France"},{"Barny","creator","Mondelez International"}}
+"France", {{"France","language","French"},{"France","leaderName","François Hollande"},{"France","leaderName","Claude Bartolone"},{"France","leaderName","Manuel Valls"},{"France","language","French language"},{"France","leaderName","Gérard Larcher"},{"France","leaderName","Claude"}}
+"20 Fenchurch Street", {{"20 Fenchurch Street","location","United Kingdom"},{"20 Fenchurch Street","location","London"}}
+"United Kingdom", {{"United Kingdom","leaderName","Elizabeth II"},{"United Kingdom","leaderName","David Cameron"},{"United Kingdom","language","English"},{"United Kingdom","capital","London"},{"United Kingdom","language","English language"},{"United Kingdom","leaderName","Elizabeth"}}
+"11 Diagonal Street", {{"11 Diagonal Street","location","South Africa"},{"11 Diagonal Street","location","South"},{"11 Diagonal Street","location","Johannesburg"}}
+"South Africa", {{"South Africa","leaderName","Cyril Ramaphosa"},{"South Africa","leaderName","Jacob Zuma"},{"South Africa","ethnicGroup","Asian South Africans"},{"South Africa","capital","Cape Town"},{"South Africa","ethnicGroup","Coloured"},{"South Africa","ethnicGroup","White South"},{"South Africa","leaderName","Cyril"},{"South Africa","capital","Cape"}}
+"Administrative Science Quarterly", {{"Administrative Science Quarterly","publisher","Cornell University"},{"Administrative Science Quarterly","publisher","SAGE Publications"},{"Administrative Science Quarterly","publisher","Cornell"},{"Administrative Science Quarterly","publisher","``"}}
+"Cornell University", {{"Cornell University","city","Ithaca,"},{"Cornell University","city","Ithaca,New York"}}
+"Ben Urich", {{"Ben Urich","creator","Roger McKenzie"},{"Ben Urich","creator","Gene Colan"},{"Ben Urich","creator","Roger"}}
+"Cleveland", {{"Cleveland","isPartOf","Ohio"},{"Cleveland","isPartOf","Cuyahoga County,Ohio"},{"Cleveland","country","United States"},{"Cleveland","isPartOf","Cuyahoga County"},{"Cleveland","leaderName","Frank"},{"Cleveland","isPartOf","Cuyahoga County,"},{"Cleveland","leaderName","Frank G. Jackson"}}
+"SonicWall SMA 100 vulnerability", {{"SonicWall SMA 100 vulnerability","targets","Shadowmove"}}
+"Shadowmove", {{"Shadowmove","targets","SonicWall SMA 100 vulnerability"}}
+"A.E Dimitra Efxeinoupolis", {{"A.E Dimitra Efxeinoupolis","location","Greece"},{"A.E Dimitra Efxeinoupolis","numberOfMembers","1500"},{"A.E Dimitra Efxeinoupolis","ground","Efxeinoupoli"}}
+"Greece", {{"Greece","language","Greek language"},{"Greece","language","Greek"},{"Greece","capital","Athens"},{"Greece","leaderName","Prokopis Pavlopoulos"},{"Greece","leaderName","Nikos Voutsis"},{"Greece","leaderName","Alexis Tsipras"}}
+"Bakso", {{"Bakso","region","Indonesia"},{"Bakso","ingredient","Celery"},{"Bakso","country","Indonesia"},{"Bakso","ingredient","Beef"},{"Bakso","country","Chinese cuisine"},{"Bakso","ingredient","Vermicelli"},{"Bakso","ingredient","Ground beef"},{"Bakso","ingredient","Tapioca"},{"Bakso","country","Chinese"}}
+"Bolt", {{"Bolt","creator","Paris Cullins"},{"Bolt","creator","Ernie"},{"Bolt","creator","Gary Cohn"},{"Bolt","creator","Dan Mishkin"},{"Bolt","creator","Paris"}}
+"Bill Oddie", {{"Bill Oddie","birthPlace","Rochdale"},{"Bill Oddie","birthPlace","Lancashire"}}
+"Amsterdam Airport Schiphol", {{"Amsterdam Airport Schiphol","cityServed","Amsterdam"},{"Amsterdam Airport Schiphol","location","Haarlemmermeer"},{"Amsterdam Airport Schiphol","operatingOrganisation","Schiphol Group"},{"Amsterdam Airport Schiphol","operatingOrganisation","Schiphol"}}
+"Atlantic City International Airport", {{"Atlantic City International Airport","operatingOrganisation","Port Authority of New York and New Jersey"},{"Atlantic City International Airport","location","Egg Harbor Township,New Jersey"},{"Atlantic City International Airport","location","Egg Harbor Township,"},{"Atlantic City International Airport","location","Egg Harbor Township"},{"Atlantic City International Airport","operatingOrganisation","Port"},{"Atlantic City International Airport","cityServed","Atlantic City,New Jersey"},{"Atlantic City International Airport","cityServed","Atlantic City,"},{"Atlantic City International Airport","location","Egg Harbor Township,New"}}
+"Birmingham", {{"Birmingham","leaderName","John Clancy"},{"Birmingham","leaderName","Khalid Mahmood"},{"Birmingham","leaderName","Liberal Democrats"},{"Birmingham","leaderName","Labour Party"},{"Birmingham","leaderName","Khalid Mahmood ( British politician )"},{"Birmingham","leaderName","Andrew Mitchell"},{"Birmingham","leaderName","Conservative Party"},{"Birmingham","leaderName","Conservative Party ( UK )"},{"Birmingham","leaderName","Labour Party ( UK )"}}
+"1", {{"1","manager","Jens Härtel"},{"1","manager","Jens"},{"1","numberOfMembers","27250"},{"1","manager","Peter Stöger"}}
+"Jens Härtel", {{"Jens Härtel","club","SV Babelsberg 03"},{"Jens Härtel","club","Berliner AK 07"},{"Jens Härtel","club","FC Sachsen Leipzig"},{"Jens Härtel","club","1 . FC Lokomotive Leipzig"},{"Jens Härtel","club","1"},{"Jens Härtel","club","RB Leipzig"},{"Jens Härtel","club","1 . FC Union Berlin"},{"Jens Härtel","club","FSV Zwickau"},{"Jens Härtel","club","SV Germania"}}
+"All India Council for Technical Education", {{"All India Council for Technical Education","location","Mumbai"}}
+"London", {{"London","leaderTitle","Parliament of the United Kingdom"},{"London","leaderName","Boris Johnson"},{"London","leaderTitle","European Parliament"},{"London","leaderTitle","Parliament"}}
+"Antioquia Department", {{"Antioquia Department","country","Colombia"}}
+"Denmark", {{"Denmark","language","German"},{"Denmark","leaderName","Lars"},{"Denmark","language","Faroese language"},{"Denmark","language","Greenlandic"},{"Denmark","leaderName","Margrethe II of Denmark"},{"Denmark","leaderName","Lars Løkke Rasmussen"},{"Denmark","leaderName","Margrethe II"},{"Denmark","leaderTitle","Monarchy of Denmark"},{"Denmark","capital","Copenhagen"},{"Denmark","language","Danish language"},{"Denmark","language","Faroese"},{"Denmark","language","Danish"},{"Denmark","language","Greenlandic language"}}
+"AC Hotel Bella Sky", {{"AC Hotel Bella Sky","location","Denmark"},{"AC Hotel Bella Sky","location","Copenhagen"}}
+"Alan B. Miller Hall", {{"Alan B. Miller Hall","location","Williamsburg,Virginia"},{"Alan B. Miller Hall","location","Virginia"}}
+"1 . FC Köln", {{"1 . FC Köln","manager","Peter Stöger"},{"1 . FC Köln","numberOfMembers","50000"}}
+"Adirondack Regional Airport", {{"Adirondack Regional Airport","cityServed","Lake Placid"},{"Adirondack Regional Airport","cityServed","Saranac Lake,New York"},{"Adirondack Regional Airport","cityServed","Saranac Lake,"},{"Adirondack Regional Airport","cityServed","Saranac Lake"},{"Adirondack Regional Airport","location","Harrietstown,New York"},{"Adirondack Regional Airport","cityServed","Lake Placid,"},{"Adirondack Regional Airport","cityServed","Lake Placid,New York"}}
+"Visvesvaraya Technological University", {{"Visvesvaraya Technological University","city","Belgaum"}}
+"remote host", {{"remote host","targets","privilege escalation"}}
+"privilege escalation", {{"privilege escalation","targets","remote host"}}
+"Acharya Institute of Technology", {{"Acharya Institute of Technology","city","Bangalore"},{"Acharya Institute of Technology","country","``"}}
+"Addis Ababa", {{"Addis Ababa","country","Ethiopia"},{"Addis Ababa","isPartOf","Addis Ababa Stadium"},{"Addis Ababa","location","Addis Ababa"}}
+"AC Hotel Bella Sky Copenhagen", {{"AC Hotel Bella Sky Copenhagen","location","Copenhagen"},{"AC Hotel Bella Sky Copenhagen","location","Denmark"}}
+"John Cowper Powys", {{"John Cowper Powys","birthPlace","Shirley"},{"John Cowper Powys","birthPlace","Shirley,Derbyshire"}}
+"Jens", {{"Jens","club","FSV Zwickau"},{"Jens","club","Berliner AK 07"},{"Jens","club","SV Babelsberg 03"},{"Jens","club","FC Sachsen Leipzig"},{"Jens","club","1"},{"Jens","club","1 . FC Union Berlin"},{"Jens","club","SV Germania"},{"Jens","club","RB Leipzig"}}
+"Buzz Aldrin", {{"Buzz Aldrin","birthPlace","Glen Ridge,New Jersey"},{"Buzz Aldrin","was a crew member of","Apollo 11"},{"Buzz Aldrin","birthPlace","Glen Ridge,"},{"Buzz Aldrin","birthPlace","Glen Ridge,New"},{"Buzz Aldrin","birthPlace","Glen Ridge"}}
+"Stuxnet event timeline", {{"Stuxnet event timeline","uses","C4I force"}}
+"C4I force", {{"C4I force","uses","Stuxnet event timeline"}}
+"Aarhus Airport", {{"Aarhus Airport","operatingOrganisation","Aktieselskab"},{"Aarhus Airport","location","Tirstrup"}}
+"Alan Bean", {{"Alan Bean","birthPlace","Wheeler,Texas"},{"Alan Bean","was a crew member of","Apollo 12"},{"Alan Bean","birthPlace","Wheeler"}}
+"Lahore", {{"Lahore","country","Pakistan"}}
+"Allama Iqbal International", {{"Allama Iqbal International","location","Punjab"},{"Allama Iqbal International","cityServed","Lahore"},{"Allama Iqbal International","location","Pakistan"},{"Allama Iqbal International","location","Punjab,Pakistan"},{"Allama Iqbal International","operatingOrganisation","Pakistan Civil Aviation Authority"}}
+"Pakistan", {{"Pakistan","leaderName","Nawaz Sharif"},{"Pakistan","leaderName","Mamnoon Hussain"},{"Pakistan","leaderName","Sardar Ayaz Sadiq"},{"Pakistan","leaderName","Nawaz"},{"Pakistan","leaderName","Anwar Zaheer Jamali"}}
+"A Loyal Character Dancer", {{"A Loyal Character Dancer","language","English language"},{"A Loyal Character Dancer","publisher","Soho Press"},{"A Loyal Character Dancer","country","United States"},{"A Loyal Character Dancer","language","English"}}
+"Harrietstown,New York", {{"Harrietstown,New York","isPartOf","New York"},{"Harrietstown,New York","isPartOf","United States"}}
+"Anderson,Indiana", {{"Anderson,Indiana","isPartOf","Union Township,Madison County"},{"Anderson,Indiana","isPartOf","Anderson Township,Madison County,Indiana"},{"Anderson,Indiana","isPartOf","Lafayette Township,Madison County,Indiana"},{"Anderson,Indiana","isPartOf","Fall Creek Township,Madison County,Indiana"}}
+"AZ Alkmaar", {{"AZ Alkmaar","manager","John van den Brom"},{"AZ Alkmaar","numberOfMembers","17023"},{"AZ Alkmaar","ground","AFAS Stadion"}}
+"John van den Brom", {{"John van den Brom","club","Vitesse Arnhem"},{"John van den Brom","club","ADO Den Haag"},{"John van den Brom","club","İstanbulspor"},{"John van den Brom","club","AFC Ajax"},{"John van den Brom","club","R.S.C . Anderlecht"},{"John van den Brom","club","De Graafschap"},{"John van den Brom","club","Jong Ajax"},{"John van den Brom","club","Netherlands national football team"},{"John van den Brom","club","AFC"},{"John van den Brom","club","AZ Alkmaar"}}
+"Rolando Maran", {{"Rolando Maran","club","Unione Triestina 2012"},{"Rolando Maran","club","Carrarese Calcio"},{"Rolando Maran","club","Vicenza Calcio"},{"Rolando Maran","club","Varese Calcio"},{"Rolando Maran","club","Calcio"},{"Rolando Maran","club","Calcio Catania"},{"Rolando Maran","club","F.C . Bari 1908"},{"Rolando Maran","club","A.C. Chievo Verona"},{"Rolando Maran","club","Varese Calcio S.S.D."}}
+"Japan", {{"Japan","ethnicGroup","Vietnamese people in Japan"},{"Japan","ethnicGroup","Filipinos"},{"Japan","ethnicGroup","Vietnamese people"},{"Japan","ethnicGroup","Chinese people in Japan"},{"Japan","ethnicGroup","Koreans in Japan"},{"Japan","ethnicGroup","Brazilians"},{"Japan","leaderName","Akihito"},{"Japan","ethnicGroup","Japanese"},{"Japan","ethnicGroup","Chinese people"},{"Japan","leaderName","Shinzō Abe"},{"Japan","ethnicGroup","Koreans"},{"Japan","leaderName","Tarō Asō"}}
+"Dead Man", {{"Dead Man","location","England"}}
+"England", {{"England","capital","London"}}
+"Saranac Lake,", {{"Saranac Lake,","isPartOf","Harrietstown,"},{"Saranac Lake,","isPartOf","Essex County,New York"},{"Saranac Lake,","isPartOf","Harrietstown,New York"},{"Saranac Lake,","country","United States"},{"Saranac Lake,","isPartOf","Harrietstown"}}
+"Arion", {{"Arion","creator","Jan Duursema"},{"Arion","creator","Paul Kupperberg"}}
+"Orange County,California", {{"Orange County,California","isPartOf","Greater Los Angeles"}}
+"Julia Morgan", {{"Julia Morgan","birthPlace","San Francisco"},{"Julia Morgan","birthPlace","California"},{"Julia Morgan","birthPlace","San"}}
+"300 North LaSalle", {{"300 North LaSalle","location","Illinois"},{"300 North LaSalle","location","Chicago"}}
+"Abilene,Texas", {{"Abilene,Texas","country","United States"},{"Abilene,Texas","isPartOf","Texas"},{"Abilene,Texas","isPartOf","Taylor County,Texas"},{"Abilene,Texas","isPartOf","Jones County,Texas"}}
+"A.C. Lumezzane", {{"A.C. Lumezzane","ground","Italy"},{"A.C. Lumezzane","numberOfMembers","4150"},{"A.C. Lumezzane","manager","Michele Marcolini"}}
+"Romania", {{"Romania","ethnicGroup","Germans of Romania"},{"Romania","leaderTitle","Prime Minister"},{"Romania","leaderName","Klaus"},{"Romania","capital","Bucharest"},{"Romania","leaderName","Klaus Iohannis"},{"Romania","leaderTitle","Prime Minister of Romania"}}
+"1 Decembrie 1918 University", {{"1 Decembrie 1918 University","country","Romania"},{"1 Decembrie 1918 University","city","Alba Iulia"},{"1 Decembrie 1918 University","city","Alba"}}
+"Akron Summit", {{"Akron Summit","numberOfMembers","3000"},{"Akron Summit","manager","Denzil Antonio"}}
+"Arem-arem", {{"Arem-arem","country","Indonesia"},{"Arem-arem","region","Javanese cuisine"},{"Arem-arem","region","Javanese"},{"Arem-arem","ingredient","Banana leaf"},{"Arem-arem","region","Indonesia"}}
+"Indonesia", {{"Indonesia","leaderName","Joko Widodo"},{"Indonesia","language","Indonesian"},{"Indonesia","capital","Jakarta"},{"Indonesia","leaderName","Jusuf Kalla"},{"Indonesia","language","Indonesian language"},{"Indonesia","leaderName","Joko"}}
+"Saranac Lake", {{"Saranac Lake","isPartOf","Harrietstown,New York"},{"Saranac Lake","isPartOf","United States"},{"Saranac Lake","isPartOf","Harrietstown"},{"Saranac Lake","isPartOf","Essex County"},{"Saranac Lake","country","United States"},{"Saranac Lake","isPartOf","Essex County,New York"}}
+"Republic of Ireland", {{"Republic of Ireland","language","English"},{"Republic of Ireland","leaderName","Enda Kenny"},{"Republic of Ireland","language","Irish"}}
+"Adare Manor", {{"Adare Manor","country","Republic of Ireland"},{"Adare Manor","location","Adare"},{"Adare Manor","location","County Limerick"}}
+"AFC Ajax", {{"AFC Ajax","numberOfMembers","53502"},{"AFC Ajax","numberOfMembers","5000"},{"AFC Ajax","ground","Amsterdam"},{"AFC Ajax","manager","Frank de Boer"},{"AFC Ajax","ground","Sportpark De Toekomst"}}
+"Azerbaijan", {{"Azerbaijan","capital","Baku"},{"Azerbaijan","leaderName","Artur Rasizade"},{"Azerbaijan","leaderTitle","Prime Minister of Azerbaijan"},{"Azerbaijan","leaderTitle","Prime Minister"}}
+"Baku Turkish Martyrs", {{"Baku Turkish Martyrs","location","Azerbaijan"}}
+"Barny Cakes", {{"Barny Cakes","country","France"},{"Barny Cakes","creator","Mondelez International"},{"Barny Cakes","dishVariation","Strawberry"}}
+"Chicago", {{"Chicago","leaderName","Rahm Emanuel"},{"Chicago","isPartOf","Cook County"},{"Chicago","isPartOf","DuPage County"},{"Chicago","leaderName","Susana Mendoza"},{"Chicago","country","United States"},{"Chicago","isPartOf","Illinois"},{"Chicago","isPartOf","DuPage County,Illinois"},{"Chicago","isPartOf","Cook County,Illinois"},{"Chicago","isPartOf","Cook County,"}}
+"Arlington", {{"Arlington","isPartOf","Tarrant County"},{"Arlington","isPartOf","Texas"}}
+"Elliot See", {{"Elliot See","birthPlace","Dallas"}}
+"BLT", {{"BLT","dishVariation","Club sandwich"},{"BLT","ingredient","Tomato"},{"BLT","ingredient","Lettuce"},{"BLT","dishVariation","Club"}}
+"Bacon", {{"Bacon","dishVariation","BLT"},{"Bacon","country","United Kingdom"},{"Bacon","ingredient","Bacon"},{"Bacon","country","United States"}}
+"Bakewell pudding", {{"Bakewell pudding","region","Derbyshire Dales"},{"Bakewell pudding","dishVariation","Bakewell tart"},{"Bakewell pudding","region","Derbyshire"},{"Bakewell pudding","dishVariation","Bakewell"}}
+"200 Public", {{"200 Public","location","Cleveland"}}
+"1 . FC", {{"1 . FC","manager","Jens Härtel"},{"1 . FC","manager","Peter"},{"1 . FC","manager","Jens"},{"1 . FC","manager","Peter Stöger"},{"1 . FC","manager","Jens Hartel"}}
+"Afonso Pena International Airport", {{"Afonso Pena International Airport","operatingOrganisation","Infraero"},{"Afonso Pena International Airport","cityServed","Curitiba"},{"Afonso Pena International Airport","location","São José dos Pinhais"}}
+"Agra", {{"Agra","location","India"},{"Agra","operatingOrganisation","Airports Authority of India"},{"Agra","location","Uttar Pradesh"},{"Agra","location","Agra"},{"Agra","operatingOrganisation","Indian"},{"Agra","operatingOrganisation","Indian Air Force"}}
+"Akita Prefecture", {{"Akita Prefecture","country","Japan"}}
+"Akita Museum of Art", {{"Akita Museum of Art","location","Akita Prefecture"},{"Akita Museum of Art","location","Akita,"},{"Akita Museum of Art","location","Akita"},{"Akita Museum of Art","location","Akita,Akita"},{"Akita Museum of Art","country","Japan"}}
+"orm framework", {{"orm framework","targets","SQL statement"}}
+"SQL statement", {{"SQL statement","targets","orm framework"}}
+"Peter", {{"Peter","club","FK Austria Wien"},{"Peter","club","SK Rapid Wien"},{"Peter","club","Austria national football team"},{"Peter","club","SK"},{"Peter","club","SK Vorwärts Steyr"},{"Peter","club","First Vienna FC"},{"Peter","club","SC Wiener Neustadt"},{"Peter","club","Favoritner AC"},{"Peter","club","FC Admira Wacker"}}
+"Adisham Hall", {{"Adisham Hall","location","Haputale"},{"Adisham Hall","country","Sri Lanka"},{"Adisham Hall","location","``"},{"Adisham Hall","location","Sri Lanka"}}
+"A.C. Chievo Verona", {{"A.C. Chievo Verona","numberOfMembers","39371"},{"A.C. Chievo Verona","manager","Rolando Maran"},{"A.C. Chievo Verona","ground","Verona"},{"A.C. Chievo Verona","ground","Stadio"},{"A.C. Chievo Verona","ground","Stadio MarcAntonio Bentegodi"},{"A.C. Chievo Verona","ground","``"},{"A.C. Chievo Verona","ground","Stadio Marc Antonio Bentegodi"}}
+"St. Louis", {{"St. Louis","isPartOf","Kingdom of France"},{"St. Louis","leaderName","Francis G. Slay"}}
+"JWT vulnerability", {{"JWT vulnerability","uses","industrial automation system"}}
+"industrial automation system", {{"industrial automation system","uses","JWT vulnerability"}}
+"11th Mississippi Infantry", {{"11th Mississippi Infantry","location","Adams County"},{"11th Mississippi Infantry","location","Adams County,Pennsylvania"},{"11th Mississippi Infantry","location","Seminary Ridge"}}
+"Sumatra", {{"Sumatra","ethnicGroup","Batak"},{"Sumatra","ethnicGroup","Acehnese"},{"Sumatra","ethnicGroup","Malays"},{"Sumatra","ethnicGroup","Acehnese people"},{"Sumatra","ethnicGroup","Minangkabau people"},{"Sumatra","ethnicGroup","Minangkabau"}}
+"Brandon Sanderson", {{"Brandon Sanderson","birthPlace","Lincoln,Nebraska"},{"Brandon Sanderson","birthPlace","Lincoln"}}
+"Al Asad", {{"Al Asad","operatingOrganisation","United States Air Force"},{"Al Asad","location","Iraq"},{"Al Asad","operatingOrganisation","United"}}
+"Al Asad Airbase", {{"Al Asad Airbase","operatingOrganisation","United States Air Force"},{"Al Asad Airbase","location","Iraq"}}
+"Alcatraz Versus the Evil Librarians", {{"Alcatraz Versus the Evil Librarians","country","United"},{"Alcatraz Versus the Evil Librarians","language","English"},{"Alcatraz Versus the Evil Librarians","country","United States"},{"Alcatraz Versus the Evil Librarians","language","English language"}}
+"United", {{"United","ethnicGroup","African"},{"United","leaderName","Barack Obama"},{"United","language","English"}}
+"Stuart Parker", {{"Stuart Parker","club","Irlam Town"},{"Stuart Parker","club","Chesterfield"},{"Stuart Parker","club","KV Mechelen"},{"Stuart Parker","club","Blackburn Rovers"},{"Stuart Parker","club","Stockport County"},{"Stuart Parker","club","Runcorn"},{"Stuart Parker","club","Drogheda United"},{"Stuart Parker","club","Blackpool"},{"Stuart Parker","club","Bury"},{"Stuart Parker","club","A.F.C"},{"Stuart Parker","club","Sparta Rotterdam"},{"Stuart Parker","club","Runcorn F.C . Halton"}}
+"Massimo Drago", {{"Massimo Drago","club","S.S.D . Potenza Calcio"},{"Massimo Drago","club","S.S. Chieti Calcio"},{"Massimo Drago","club","A.S.D . S.S. Nola 1925"},{"Massimo Drago","club","U.S. Castrovillari Calcio"},{"Massimo Drago","club","Calcio Catania"},{"Massimo Drago","club","A.C. Cesena"},{"Massimo Drago","club","A.S.D . Licata 1931"},{"Massimo Drago","club","A.S.D ."},{"Massimo Drago","club","Vigor Lamezia"},{"Massimo Drago","club","Delfino Pescara 1936"}}
+"Antwerp International Airport", {{"Antwerp International Airport","cityServed","Antwerp"},{"Antwerp International Airport","operatingOrganisation","Flemish"},{"Antwerp International Airport","operatingOrganisation","Flemish Government"}}
+"Athens International Airport", {{"Athens International Airport","cityServed","Athens"},{"Athens International Airport","location","Spata"}}
+"Indiana", {{"Indiana","language","English"},{"Indiana","country","United States"},{"Indiana","capital","UNK"}}
+"Bakewell", {{"Bakewell","dishVariation","Bakewell tart"},{"Bakewell","region","Derbyshire Dales"},{"Bakewell","ingredient","Fruit preserves"}}
+"Bakewell tart", {{"Bakewell tart","region","Derbyshire Dales"},{"Bakewell tart","region","Derbyshire"},{"Bakewell tart","ingredient","Fruit preserves"},{"Bakewell tart","ingredient","Frangipane"}}
+"Derbyshire Dales", {{"Derbyshire Dales","isPartOf","Derbyshire"},{"Derbyshire Dales","leaderName","Patrick McLoughlin"},{"Derbyshire Dales","leaderName","Patrick"}}
+"1634", {{"1634","country","United States"},{"1634","language","English"}}
+"AIDS ( journal )", {{"AIDS ( journal )","publisher","Lippincott Williams & Wilkins"},{"AIDS ( journal )","publisher","Lippincott"},{"AIDS ( journal )","country","United Kingdom"}}
+"Belgium", {{"Belgium","leaderName","Philippe of Belgium"},{"Belgium","language","Dutch"},{"Belgium","leaderName","Charles Michel"},{"Belgium","language","French language"},{"Belgium","language","French"},{"Belgium","language","Dutch language"},{"Belgium","language","German"},{"Belgium","language","German language"}}
+"Antwerp", {{"Antwerp","country","Belgium"},{"Antwerp","operatingOrganisation","Flemish"}}
+"Appleton International Airport", {{"Appleton International Airport","operatingOrganisation","Outagamie County,Wisconsin"},{"Appleton International Airport","location","Greenville"},{"Appleton International Airport","cityServed","Appleton"},{"Appleton International Airport","location","Greenville,Wisconsin"},{"Appleton International Airport","cityServed","Appleton,Wisconsin"},{"Appleton International Airport","location","Greenville,"},{"Appleton International Airport","cityServed","Appleton,"}}
+"Buffalo,New York", {{"Buffalo,New York","isPartOf","New York"},{"Buffalo,New York","leaderName","Byron Brown"},{"Buffalo,New York","isPartOf","Erie County"}}
+"A", {{"A","publisher","Farrar,Straus and Giroux"},{"A","country","United States"},{"A","publisher","Soho Press"},{"A","language","English"}}
+"Allama Iqbal", {{"Allama Iqbal","location","Punjab"},{"Allama Iqbal","location","Pakistan"}}
+"office 365", {{"office 365","uses","WastedLocker"},{"office 365","targets","American organization"},{"office 365","uses","DLL hijacking and UAC"}}
+"APT organization HOLMIUM", {{"APT organization HOLMIUM","uses","WastedLocker"},{"APT organization HOLMIUM","targets","American organization"},{"APT organization HOLMIUM","uses","DLL hijacking and UAC"}}
+"WastedLocker", {{"WastedLocker","uses","office 365"},{"WastedLocker","uses","APT organization HOLMIUM"},{"WastedLocker","targets","American organization"},{"WastedLocker","uses","DLL hijacking and UAC"}}
+"American organization", {{"American organization","targets","office 365"},{"American organization","targets","APT organization HOLMIUM"},{"American organization","targets","WastedLocker"},{"American organization","targets","DLL hijacking and UAC"}}
+"DLL hijacking and UAC", {{"DLL hijacking and UAC","uses","office 365"},{"DLL hijacking and UAC","uses","APT organization HOLMIUM"},{"DLL hijacking and UAC","uses","WastedLocker"},{"DLL hijacking and UAC","targets","American organization"}}
+"The Arrow", {{"The Arrow","creator","Paul Gustavson"}}
+"Alpine Linux Docker Image", {{"Alpine Linux Docker Image","uses","Elastic Services Controller REST API Authentication Bypass Vulnerability"},{"Alpine Linux Docker Image","targets","CQTools"}}
+"Elastic Services Controller REST API Authentication Bypass Vulnerability", {{"Elastic Services Controller REST API Authentication Bypass Vulnerability","targets","CQTools"}}
+"CQTools", {{"CQTools","targets","Alpine Linux Docker Image"},{"CQTools","targets","Elastic Services Controller REST API Authentication Bypass Vulnerability"}}
+"Ashgabat International Airport", {{"Ashgabat International Airport","operatingOrganisation","Turkmenistan Airlines"},{"Ashgabat International Airport","location","Ashgabat"}}
+"Amatriciana", {{"Amatriciana","country","Italy"},{"Amatriciana","region","Lazio"},{"Amatriciana","ingredient","Olive oil"},{"Amatriciana","ingredient","Pecorino Romano"}}
+"AIDS", {{"AIDS","publisher","Lippincott"},{"AIDS","country","United Kingdom"},{"AIDS","publisher","Lippincott Williams & Wilkins"}}
+"A Wizard of Mars", {{"A Wizard of Mars","country","United States"},{"A Wizard of Mars","language","English"},{"A Wizard of Mars","publisher","Harcourt"}}
+"Aarhus", {{"Aarhus","location","Tirstrup"},{"Aarhus","leaderName","Jacob Bundsgaard"},{"Aarhus","cityServed","Aarhus"}}
+"Tirstrup", {{"Tirstrup","country","Denmark"},{"Tirstrup","isPartOf","Central Denmark"},{"Tirstrup","isPartOf","Central"},{"Tirstrup","isPartOf","Denmark"},{"Tirstrup","isPartOf","Central Denmark Region"}}
+"Threat actors", {{"Threat actors","uses","CVE-2020-14882 ultra critical vulnerability"},{"Threat actors","targets","Oracle WebLogic Server"}}
+"CVE-2020-14882 ultra critical vulnerability", {{"CVE-2020-14882 ultra critical vulnerability","uses","Threat actors"},{"CVE-2020-14882 ultra critical vulnerability","targets","Oracle WebLogic Server"}}
+"Alpharetta,", {{"Alpharetta,","isPartOf","Fulton County,"},{"Alpharetta,","country","United States"}}
+"Greenville", {{"Greenville","isPartOf","Ellington"},{"Greenville","isPartOf","Menasha ( town )"},{"Greenville","isPartOf","Grand Chute,Wisconsin"},{"Greenville","isPartOf","Grand Chute,"},{"Greenville","isPartOf","Ellington,Wisconsin"},{"Greenville","isPartOf","Grand Chute"},{"Greenville","isPartOf","Dale,Wisconsin"},{"Greenville","isPartOf","Menasha"},{"Greenville","country","United States"},{"Greenville","isPartOf","Clayton"}}
+"Appleton", {{"Appleton","isPartOf","Grand Chute"},{"Appleton","isPartOf","Kimberly"},{"Appleton","isPartOf","Little Chute,Wisconsin"},{"Appleton","cityServed","Appleton"},{"Appleton","isPartOf","Little Chute"},{"Appleton","cityServed","Appleton,Wisconsin"},{"Appleton","isPartOf","Kimberly,Wisconsin"}}
+"Kerala", {{"Kerala","leaderName","Kochi"}}
+"Appleton International", {{"Appleton International","location","Greenville"},{"Appleton International","cityServed","Appleton,Wisconsin"},{"Appleton International","cityServed","Appleton"},{"Appleton International","location","Greenville,Wisconsin"},{"Appleton International","location","Greenville,"}}
+"Addiction", {{"Addiction","publisher","Wiley-Blackwell"},{"Addiction","publisher","``"}}
+"South", {{"South","leaderName","Cyril Ramaphosa"},{"South","ethnicGroup","White South"}}
+"A.F.C . Blackpool", {{"A.F.C . Blackpool","ground","``"},{"A.F.C . Blackpool","numberOfMembers","1500"},{"A.F.C . Blackpool","ground","Blackpool"},{"A.F.C . Blackpool","manager","Stuart Parker ( footballer )"},{"A.F.C . Blackpool","manager","Stuart Parker"}}
+"Iraq", {{"Iraq","leaderName","Fuad Masum"},{"Iraq","language","Arabic"},{"Iraq","language","Kurdish"},{"Iraq","language","Kurdish languages"},{"Iraq","leaderName","Haider al-Abadi"},{"Iraq","leaderName","Haider"},{"Iraq","leaderName","Fuad"}}
+"Egg Harbor Township,New Jersey", {{"Egg Harbor Township,New Jersey","isPartOf","New Jersey"},{"Egg Harbor Township,New Jersey","country","United States"},{"Egg Harbor Township,New Jersey","isPartOf","Atlantic County,New Jersey"},{"Egg Harbor Township,New Jersey","isPartOf","Atlantic"}}
+"108", {{"108","location","Perth"}}
+"Bacon sandwich", {{"Bacon sandwich","country","United Kingdom"},{"Bacon sandwich","dishVariation","BLT"},{"Bacon sandwich","ingredient","Bacon"},{"Bacon sandwich","ingredient","Ketchup"},{"Bacon sandwich","ingredient","Bread"},{"Bacon sandwich","ingredient","Brown sauce"}}
+"AFC Ajax ( amateurs )", {{"AFC Ajax ( amateurs )","numberOfMembers","5000"},{"AFC Ajax ( amateurs )","ground","Amsterdam"},{"AFC Ajax ( amateurs )","ground","Sportpark De Toekomst"}}
+"South Jersey Transportation Authority", {{"South Jersey Transportation Authority","leaderName","Stephen Dilts"}}
+"Python Wheel hijacking", {{"Python Wheel hijacking","uses","ScamClub organization"}}
+"ScamClub organization", {{"ScamClub organization","uses","Python Wheel hijacking"}}
+"Dead Man 's Plack", {{"Dead Man 's Plack","location","England"}}
+"Angola,Indiana", {{"Angola,Indiana","country","United States"},{"Angola,Indiana","isPartOf","Steuben County,Indiana"}}
+"Soho Press", {{"Soho Press","country","United States"}}
+"AZAL PFK", {{"AZAL PFK","numberOfMembers","3500"},{"AZAL PFK","ground","AZAL Arena"}}
+"Akita", {{"Akita","isPartOf","Akita Prefecture"},{"Akita","country","Japan"}}
+"A.C. Cesena", {{"A.C. Cesena","manager","Massimo Drago"},{"A.C. Cesena","ground","Italy"},{"A.C. Cesena","ground","Stadio Dino Manuzzi"},{"A.C. Cesena","numberOfMembers","23900"},{"A.C. Cesena","ground","Cesena"}}
+"Illinois", {{"Illinois","language","English language"},{"Illinois","country","United States"},{"Illinois","capital","Springfield,Illinois"},{"Illinois","language","English"}}
+"Alderney", {{"Alderney","cityServed","Alderney"},{"Alderney","leaderName","Elizabeth II"},{"Alderney","language","English"},{"Alderney","capital","Saint Anne"}}
+"Asterix", {{"Asterix","creator","Albert Uderzo"},{"Asterix","creator","René Goscinny"}}
+"Lippincott Williams & Wilkins", {{"Lippincott Williams & Wilkins","country","United States"}}
+"Amsterdam", {{"Amsterdam","leaderName","Eberhard van der Laan"},{"Amsterdam","location","Haarlemmermeer"},{"Amsterdam","cityServed","Amsterdam"}}
+"Ayam", {{"Ayam","region","Malaysia"},{"Ayam","country","Indonesia"},{"Ayam","ingredient","Fried chicken"},{"Ayam","region","Singapore"},{"Ayam","country","Java"}}
+"Ashgabat International", {{"Ashgabat International","operatingOrganisation","Turkmenistan"},{"Ashgabat International","location","Ashgabat"}}
+"Karnataka", {{"Karnataka","leaderName","Vajubhai Vala"}}
+"Accademia di", {{"Accademia di","country","Switzerland"},{"Accademia di","city","Mendrisio"}}
+"200 Public Square", {{"200 Public Square","location","Cleveland"},{"200 Public Square","location","Public Square,Cleveland"}}
+"Akron,Ohio", {{"Akron,Ohio","location","United States"},{"Akron,Ohio","country","United States"},{"Akron,Ohio","isPartOf","Summit County"},{"Akron,Ohio","leaderTitle","Mayor"},{"Akron,Ohio","country","United"},{"Akron,Ohio","isPartOf","Summit County,"},{"Akron,Ohio","isPartOf","Summit County,Ohio"},{"Akron,Ohio","location","Summit County,Ohio"},{"Akron,Ohio","location","Summit County,"},{"Akron,Ohio","location","Summit County"}}
+"St. VincentSt Mary High School", {{"St. VincentSt Mary High School","city","Akron,Ohio"}}
+"Monocacy National Battlefield", {{"Monocacy National Battlefield","location","Frederick"},{"Monocacy National Battlefield","location","Frederick County,Maryland"}}
+"Protocol (CDP)", {{"Protocol (CDP)","uses","CVE 2017-13287"}}
+"CVE 2017-13287", {{"CVE 2017-13287","uses","Protocol (CDP)"}}
+"Greenville,Wisconsin", {{"Greenville,Wisconsin","isPartOf","Grand Chute"},{"Greenville,Wisconsin","isPartOf","Dale,Wisconsin"},{"Greenville,Wisconsin","country","United States"},{"Greenville,Wisconsin","isPartOf","Menasha"},{"Greenville,Wisconsin","isPartOf","Grand Chute,Wisconsin"},{"Greenville,Wisconsin","isPartOf","Ellington,Wisconsin"},{"Greenville,Wisconsin","isPartOf","Clayton"},{"Greenville,Wisconsin","isPartOf","Dale"}}
+"Biden's campaign company", {{"Biden's campaign company","targets","Russian hackers"}}
+"Russian hackers", {{"Russian hackers","targets","Biden's campaign company"}}
+"Viking Press", {{"Viking Press","country","United States"}}
+"Dublin", {{"Dublin","country","Republic of Ireland"},{"Dublin","isPartOf","Leinster"},{"Dublin","leaderTitle","Dáil Éireann"},{"Dublin","leaderTitle","European Parliament"},{"Dublin","leaderName","Críona Ní Dhálaigh"},{"Dublin","isPartOf","Republic of Ireland"}}
+"3Arena", {{"3Arena","location","Dublin"},{"3Arena","location","`` North Wall Quay ''"},{"3Arena","location","North Wall,Dublin"}}
+"Antwerp International", {{"Antwerp International","cityServed","Antwerp"},{"Antwerp International","operatingOrganisation","Flemish"}}
+"Siomay", {{"Siomay","dishVariation","Shumai"},{"Siomay","ingredient","Peanut sauce"},{"Siomay","dishVariation","Batagor"}}
+"Shumai", {{"Shumai","ingredient","Shiitake"},{"Shumai","dishVariation","Siomay"}}
+"Akita,Akita", {{"Akita,Akita","isPartOf","Akita Prefecture"},{"Akita,Akita","country","Japan"}}
+"African banks", {{"African banks","targets","Remote access trojans (RATs)"}}
+"Remote access trojans (RATs)", {{"Remote access trojans (RATs)","targets","African banks"}}
+"Arrabbiata", {{"Arrabbiata","country","Italy"},{"Arrabbiata","region","Rome"}}
+"Adolfo Suarez", {{"Adolfo Suarez","location","Paracuellos de Jarama"},{"Adolfo Suarez","location","Alcobendas"},{"Adolfo Suarez","operatingOrganisation","ENAIRE"}}
+"Paracuellos de Jarama", {{"Paracuellos de Jarama","country","Spain"}}
+"A.S. Gubbio 1910", {{"A.S. Gubbio 1910","ground","Italy"},{"A.S. Gubbio 1910","numberOfMembers","5300"},{"A.S. Gubbio 1910","ground","Gubbio"},{"A.S. Gubbio 1910","ground","Stadio Pietro Barbetti"}}
+"Python Wheel Hijacking", {{"Python Wheel Hijacking","targets","Kia America"},{"Python Wheel Hijacking","uses","ScamClub Organization"}}
+"Kia America", {{"Kia America","targets","Python Wheel Hijacking"},{"Kia America","targets","ScamClub Organization"}}
+"ScamClub Organization", {{"ScamClub Organization","uses","Python Wheel Hijacking"},{"ScamClub Organization","targets","Kia America"}}
+"George Winkler", {{"George Winkler","country","United States"}}
+"TA410 organization", {{"TA410 organization","uses","flash loan attack"}}
+"flash loan attack", {{"flash loan attack","uses","TA410 organization"}}
+"China", {{"China","language","Standard Chinese"}}
+"Atatürk Monument", {{"Atatürk Monument","location","Turkey"}}
+"Andrews County Airport", {{"Andrews County Airport","location","Texas"},{"Andrews County Airport","cityServed","Andrews,"},{"Andrews County Airport","cityServed","Andrews"},{"Andrews County Airport","cityServed","Andrews,Texas"}}
+"Manhattan", {{"Manhattan","leaderName","Cyrus Vance"},{"Manhattan","leaderName","Gale Brewer"},{"Manhattan","isPartOf","New York"}}
+"Adolfo Suarez MadridBarajas Airport", {{"Adolfo Suarez MadridBarajas Airport","location","San"},{"Adolfo Suarez MadridBarajas Airport","location","Paracuellos de Jarama"},{"Adolfo Suarez MadridBarajas Airport","location","San Sebastián de los Reyes"},{"Adolfo Suarez MadridBarajas Airport","operatingOrganisation","ENAIRE"},{"Adolfo Suarez MadridBarajas Airport","location","Madrid"},{"Adolfo Suarez MadridBarajas Airport","location","Alcobendas"}}
+"1634 : The Ram Rebellion", {{"1634 : The Ram Rebellion","language","English"}}
+"Asilomar Conference Grounds", {{"Asilomar Conference Grounds","location","Pacific Grove,California"},{"Asilomar Conference Grounds","location","``"},{"Asilomar Conference Grounds","location","Pacific Grove,"}}
+"Michele Marcolini", {{"Michele Marcolini","club","A.C. Chievo Verona"},{"Michele Marcolini","club","Atalanta"},{"Michele Marcolini","club","F.C . Bari 1908"},{"Michele Marcolini","club","Torino"},{"Michele Marcolini","club","Vicenza Calcio"},{"Michele Marcolini","club","A.C."}}
+"using brute force to guess passwords", {{"using brute force to guess passwords","uses","Routers"},{"using brute force to guess passwords","targets","IoT gateways"}}
+"Routers", {{"Routers","uses","using brute force to guess passwords"},{"Routers","targets","IoT gateways"}}
+"Catalonia", {{"Catalonia","leaderName","Parliament of Catalonia"},{"Catalonia","leaderName","Carles Puigdemont"},{"Catalonia","leaderName","Carles"}}
+"Baku Turkish Martyrs ' Memorial", {{"Baku Turkish Martyrs ' Memorial","location","Azerbaijan"}}
+"Qbot trojan", {{"Qbot trojan","uses","Qbot malware team"},{"Qbot trojan","uses","REvil ransomware team"}}
+"Qbot malware team", {{"Qbot malware team","uses","Qbot trojan"}}
+"REvil ransomware team", {{"REvil ransomware team","uses","Qbot trojan"}}
+"School of Business and Social Sciences", {{"School of Business and Social Sciences","city","Aarhus"},{"School of Business and Social Sciences","country","Denmark"}}
+"Olympic Stadium", {{"Olympic Stadium","location","Athens"},{"Olympic Stadium","location","Marousi"}}
+"Anaheim,California", {{"Anaheim,California","leaderTitle","California State Senate"},{"Anaheim,California","leaderTitle","United States House of Representatives"},{"Anaheim,California","leaderTitle","California State Assembly"}}
+"United States House of Representatives", {{"United States House of Representatives","isPartOf","United States Congress"}}
+"Alexandria", {{"Alexandria","isPartOf","Madison County,Indiana"},{"Alexandria","isPartOf","Monroe Township"},{"Alexandria","isPartOf","Indiana"}}
+"Bananaman", {{"Bananaman","creator","Steve Bright"},{"Bananaman","creator","John Geering"}}
+"Virginia", {{"Virginia","country","United States"}}
+"Balder", {{"Balder","creator","Jack Kirby"},{"Balder","creator","Stan Lee"}}
+"Stuart Parker ( footballer )", {{"Stuart Parker ( footballer )","club","KV Mechelen"},{"Stuart Parker ( footballer )","club","Runcorn"},{"Stuart Parker ( footballer )","club","Stockport County"},{"Stuart Parker ( footballer )","club","Blackburn Rovers"},{"Stuart Parker ( footballer )","club","Chesterfield"},{"Stuart Parker ( footballer )","club","Drogheda United"},{"Stuart Parker ( footballer )","club","Blackpool"},{"Stuart Parker ( footballer )","club","Bury"},{"Stuart Parker ( footballer )","club","Irlam Town"},{"Stuart Parker ( footballer )","club","Sparta Rotterdam"},{"Stuart Parker ( footballer )","club","Runcorn F.C . Halton"}}
+"A Glastonbury Romance", {{"A Glastonbury Romance","publisher","The Bodley Head"},{"A Glastonbury Romance","publisher","Simon & Schuster"}}
+"Atlantic City", {{"Atlantic City","isPartOf","Atlantic County,New Jersey"},{"Atlantic City","leaderTitle","Clerk"}}
+"Elliot", {{"Elliot","birthPlace","Dallas"}}
+"A.F.C . Fylde", {{"A.F.C . Fylde","numberOfMembers","3180"},{"A.F.C . Fylde","ground","Lancashire"},{"A.F.C . Fylde","manager","Dave Challinor"},{"A.F.C . Fylde","ground","``"},{"A.F.C . Fylde","ground","The Fylde"}}
+"Atlanta", {{"Atlanta","country","United States"},{"Atlanta","isPartOf","DeKalb County"},{"Atlanta","isPartOf","Georgia"},{"Atlanta","isPartOf","Fulton County"}}
+"A.D. Isidro", {{"A.D. Isidro","ground","``"},{"A.D. Isidro","numberOfMembers","10000"},{"A.D. Isidro","manager","Jorge Humberto"},{"A.D. Isidro","manager","Jorge Humberto Rodríguez"},{"A.D. Isidro","ground","Metapán"},{"A.D. Isidro","ground","Estadio Jorge Calero"}}
+"Arrabbiata sauce", {{"Arrabbiata sauce","ingredient","Olive oil"},{"Arrabbiata sauce","ingredient","Tomato"},{"Arrabbiata sauce","region","Rome"},{"Arrabbiata sauce","dishVariation","Basil"},{"Arrabbiata sauce","country","Italy"},{"Arrabbiata sauce","dishVariation","Oregano"},{"Arrabbiata sauce","ingredient","Garlic"},{"Arrabbiata sauce","ingredient","Chili pepper"}}
+"Austin,Texas", {{"Austin,Texas","country","United States"}}
+"Dave Challinor", {{"Dave Challinor","club","Colwyn Bay"},{"Dave Challinor","club","Tranmere Rovers"},{"Dave Challinor","club","Bury"},{"Dave Challinor","club","Tranmere Rovers F.C."},{"Dave Challinor","club","Stockport County"},{"Dave Challinor","club","A.F.C . Fylde"}}
+"California State Assembly", {{"California State Assembly","location","California State Capitol"},{"California State Assembly","isPartOf","California State Legislature"}}
+"Flash 0day vulnerabilities", {{"Flash 0day vulnerabilities","targets","APT attacks"},{"Flash 0day vulnerabilities","targets","Ukraine"}}
+"APT attacks", {{"APT attacks","targets","Flash 0day vulnerabilities"},{"APT attacks","targets","Ukraine"}}
+"Angola International Airport", {{"Angola International Airport","location","Ícolo e Bengo"},{"Angola International Airport","cityServed","Luanda"}}
+"Glen Ridge,", {{"Glen Ridge,","isPartOf","Essex County,New Jersey"}}
+"Ícolo e Bengo", {{"Ícolo e Bengo","country","Angola"},{"Ícolo e Bengo","isPartOf","Luanda Province"},{"Ícolo e Bengo","isPartOf","Luanda"}}
+"AZ", {{"AZ","manager","John van den Brom"}}
+"Aenir", {{"Aenir","country","Australians"},{"Aenir","language","English"}}
+"Mason School of Business", {{"Mason School of Business","country","United States"}}
+"Auron (", {{"Auron (","creator","Karl Kesel"},{"Auron (","creator","Walt Simonson"},{"Auron (","creator","Marv Wolfman"}}
+"Microsoft Exchange servers", {{"Microsoft Exchange servers","uses","new IceApple vulnerability attack"},{"Microsoft Exchange servers","targets","IceApple"}}
+"new IceApple vulnerability attack", {{"new IceApple vulnerability attack","uses","Microsoft Exchange servers"},{"new IceApple vulnerability attack","targets","IceApple"}}
+"IceApple", {{"IceApple","targets","Microsoft Exchange servers"},{"IceApple","targets","new IceApple vulnerability attack"}}
+"Alderney Airport", {{"Alderney Airport","cityServed","Alderney"}}
+"11th Mississippi", {{"11th Mississippi","location","Adams County,Pennsylvania"}}
+"Beef kway", {{"Beef kway","country","Singapore"}}
+"Bolt (", {{"Bolt (","creator","Paris Cullins"},{"Bolt (","creator","Ernie"}}
+"Ardmore Airport", {{"Ardmore Airport","operatingOrganisation","Civil Aviation Authority of"},{"Ardmore Airport","location","Auckland"},{"Ardmore Airport","operatingOrganisation","Civil Aviation Authority of New Zealand"},{"Ardmore Airport","operatingOrganisation","Civil Aviation Authority"}}
+"Civil Aviation Authority of", {{"Civil Aviation Authority of","location","Wellington"}}
+"Lake Placid,New York", {{"Lake Placid,New York","isPartOf","Essex County,New York"},{"Lake Placid,New York","country","United States"},{"Lake Placid,New York","isPartOf","New York"}}
+"Eastern", {{"Eastern","leaderName","Austin Fernando"}}
+"Al-Taqaddum Air Base", {{"Al-Taqaddum Air Base","cityServed","Fallujah"},{"Al-Taqaddum Air Base","location","Habbaniyah"}}
+"Fallujah", {{"Fallujah","country","Iraq"}}
+"Valencian Community", {{"Valencian Community","leaderName","Ximo Puig"}}
+"Pacific Grove,California", {{"Pacific Grove,California","country","United States"}}
+"Baku Turkish", {{"Baku Turkish","location","Azerbaijan"}}
+"AIP Advances", {{"AIP Advances","publisher","American Institute of Physics"}}
+"Frank de Boer", {{"Frank de Boer","club","Al-Shamal Sports Club"},{"Frank de Boer","club","FC Barcelona"},{"Frank de Boer","club","Netherlands national football team"},{"Frank de Boer","club","Ajax Youth Academy"},{"Frank de Boer","club","AFC Ajax"}}
+"Allama", {{"Allama","location","Pakistan"},{"Allama","operatingOrganisation","Pakistan Civil Aviation Authority"},{"Allama","cityServed","Lahore"}}
+"American Journal of Mathematics", {{"American Journal of Mathematics","publisher","Johns Hopkins University Press"},{"American Journal of Mathematics","publisher","Johns Hopkins University"}}
+"Johns Hopkins University Press", {{"Johns Hopkins University Press","country","United States"}}
+"Gujarat", {{"Gujarat","leaderName","Anandiben Patel"},{"Gujarat","leaderTitle","Gujarat Legislative Assembly"}}
+"Black Pirate", {{"Black Pirate","creator","Sheldon Moldoff"}}
+"Microsoft Exchange server", {{"Microsoft Exchange server","uses","SMBHost attacks"}}
+"SMBHost attacks", {{"SMBHost attacks","uses","Microsoft Exchange server"}}
+"Ethiopia", {{"Ethiopia","language","Amharic"},{"Ethiopia","leaderName","Mulatu Teshome"},{"Ethiopia","leaderName","Hailemariam Desalegn"}}
+"Estádio Municipal Coaracy da Mata Fonseca", {{"Estádio Municipal Coaracy da Mata Fonseca","location","Arapiraca"},{"Estádio Municipal Coaracy da Mata Fonseca","location","Alagoas"}}
+"Austin", {{"Austin","isPartOf","Hays County,Texas"},{"Austin","isPartOf","Williamson County,"},{"Austin","leaderTitle","Mayor"},{"Austin","isPartOf","Travis County,"}}
+"Alabama", {{"Alabama","country","United States"}}
+"Aurakles", {{"Aurakles","creator","Dick Dillin"},{"Aurakles","creator","Dick"},{"Aurakles","creator","Len Wein"}}
+"Egg Harbor Township,", {{"Egg Harbor Township,","country","United States"}}
+"Auron", {{"Auron","creator","Karl Kesel"},{"Auron","creator","Marv Wolfman"},{"Auron","creator","Walt Simonson"}}
+"Abilene", {{"Abilene","cityServed","Abilene,"},{"Abilene","country","United States"},{"Abilene","isPartOf","Jones County,Texas"},{"Abilene","isPartOf","Taylor County"},{"Abilene","cityServed","Abilene,Texas"},{"Abilene","isPartOf","Texas"},{"Abilene","cityServed","Abilene"},{"Abilene","isPartOf","Taylor County,Texas"},{"Abilene","isPartOf","Jones County"}}
+"Abilene,", {{"Abilene,","isPartOf","Texas"},{"Abilene,","isPartOf","Taylor County,Texas"},{"Abilene,","country","United States"},{"Abilene,","isPartOf","Jones County,Texas"},{"Abilene,","isPartOf","Taylor County"}}
+"Adare", {{"Adare","isPartOf","Munster"},{"Adare","location","Adare"}}
+"Serie A", {{"Serie A","country","Italy"}}
+"Randall County", {{"Randall County","country","United States"}}
+"Bibbo Bibbowski", {{"Bibbo Bibbowski","creator","Jerry Ordway"},{"Bibbo Bibbowski","creator","Marv Wolfman"}}
+"Olympic Stadium ( Athens )", {{"Olympic Stadium ( Athens )","location","Athens"},{"Olympic Stadium ( Athens )","location","Marousi"}}
+"Baymax", {{"Baymax","creator","Duncan Rouleau"},{"Baymax","creator","Steven T. Seagle"},{"Baymax","creator","Steven"}}
+"Angola", {{"Angola","isPartOf","United States"},{"Angola","isPartOf","Indiana"},{"Angola","isPartOf","UNK Township"}}
+"DeKalb County,Georgia", {{"DeKalb County,Georgia","country","United States"}}
+"Contra Costa County", {{"Contra Costa County","isPartOf","San Francisco Bay"}}
+"Washington", {{"Washington","capital","Olympia"},{"Washington","country","United States"}}
+"Perth", {{"Perth","country","Australia"}}
+"Harrietstown", {{"Harrietstown","isPartOf","United States"},{"Harrietstown","country","United States"},{"Harrietstown","isPartOf","New York"}}
+"Punjab,Pakistan", {{"Punjab,Pakistan","leaderTitle","Provincial Assembly of the Punjab"},{"Punjab,Pakistan","leaderName","Malik Muhammad Rafique Rajwana"},{"Punjab,Pakistan","leaderName","Shehbaz Sharif"},{"Punjab,Pakistan","country","Pakistan"}}
+"ACM Transactions on", {{"ACM Transactions on","publisher","Association for Computing Machinery"}}
+"São José dos Pinhais", {{"São José dos Pinhais","isPartOf","Paraná ( state )"}}
+"Curitiba", {{"Curitiba","isPartOf","South Region,Brazil"},{"Curitiba","leaderName","Democratic Labour Party ( Brazil )"},{"Curitiba","leaderName","Democratic Labour Party"},{"Curitiba","country","Brazil"},{"Curitiba","isPartOf","Paraná"}}
+"Alba Iulia", {{"Alba Iulia","isPartOf","Alba County"},{"Alba Iulia","country","Romania"},{"Alba Iulia","isPartOf","Alba"}}
+"Amazing-Man", {{"Amazing-Man","creator","Bill Everett"}}
+"GitHub", {{"GitHub","targets","Protocol (CDP"},{"GitHub","targets","Client arbitrary file reading attack chain"}}
+"Millions of devices", {{"Millions of devices","targets","Protocol (CDP"},{"Millions of devices","targets","Client arbitrary file reading attack chain"}}
+"Protocol (CDP", {{"Protocol (CDP","targets","GitHub"},{"Protocol (CDP","targets","Millions of devices"},{"Protocol (CDP","uses","Client arbitrary file reading attack chain"}}
+"Client arbitrary file reading attack chain", {{"Client arbitrary file reading attack chain","targets","GitHub"},{"Client arbitrary file reading attack chain","targets","Millions of devices"},{"Client arbitrary file reading attack chain","uses","Protocol (CDP"}}
+"School of Business and Social Sciences at", {{"School of Business and Social Sciences at","city","Aarhus"},{"School of Business and Social Sciences at","country","Denmark"}}
+"ACF Fiorentina", {{"ACF Fiorentina","manager","Paulo Sousa"},{"ACF Fiorentina","numberOfMembers","47290"}}
+"Paulo Sousa", {{"Paulo Sousa","club","Juventus"},{"Paulo Sousa","club","Maccabi Tel Aviv"},{"Paulo Sousa","club","Inter Milan"},{"Paulo Sousa","club","ACF Fiorentina"},{"Paulo Sousa","club","Portugal"},{"Paulo Sousa","club","Portugal national football team"}}
+"New York", {{"New York","language","Arabic"},{"New York","language","French"}}
+"Washtenaw County,Michigan", {{"Washtenaw County,Michigan","country","United States"}}
+"Mitm6 will", {{"Mitm6 will","uses","listen on the main interface"}}
+"listen on the main interface", {{"listen on the main interface","uses","Mitm6 will"}}
+"San Sebastián de los Reyes", {{"San Sebastián de los Reyes","country","Spain"},{"San Sebastián de los Reyes","isPartOf","Community of Madrid"}}
+"Anderson", {{"Anderson","isPartOf","Indiana"},{"Anderson","country","United States"},{"Anderson","isPartOf","Madison County"},{"Anderson","isPartOf","Adams Township,Madison County,Indiana"}}
+"Airman", {{"Airman","creator","Harry Sahle"},{"Airman","creator","George Kapitan"}}
+"Wizards at War", {{"Wizards at War","publisher","Harcourt ("},{"Wizards at War","publisher","Harcourt"}}
+"Mac malware (OSX. Netwire. A)", {{"Mac malware (OSX. Netwire. A)","uses","the sample can accept the instructions sent by the attacker remotely n"}}
+"the sample can accept the instructions sent by the attacker remotely n", {{"the sample can accept the instructions sent by the attacker remotely n","uses","Mac malware (OSX. Netwire. A)"}}
+"Stuart Parker (", {{"Stuart Parker (","club","Blackpool"}}
+"Into Battle", {{"Into Battle","country","Australians"}}
+"CVE-2020-7720", {{"CVE-2020-7720","targets","prototype pollution attacks"}}
+"prototype pollution attacks", {{"prototype pollution attacks","targets","CVE-2020-7720"}}
+"Addis Ababa City Hall", {{"Addis Ababa City Hall","location","Addis Ababa"},{"Addis Ababa City Hall","country","Ethiopia"}}
+"Alcobendas", {{"Alcobendas","country","Spain"},{"Alcobendas","isPartOf","Community of Madrid"}}
+"San", {{"San","country","Spain"},{"San","isPartOf","Community of Madrid"}}
+"John", {{"John","birthPlace","Shirley,Derbyshire"}}
+"Association for Computing Machinery", {{"Association for Computing Machinery","leaderName","Alexander L. Wolf"}}
+"Adisham", {{"Adisham","location","Haputale"},{"Adisham","location","Sri Lanka"}}
+"Maple Ridge Township,Alpena County,Michigan", {{"Maple Ridge Township,Alpena County,Michigan","country","United States"},{"Maple Ridge Township,Alpena County,Michigan","isPartOf","United States"}}
+"Ballistic", {{"Ballistic","creator","Doug Moench"}}
+"Above the Veil", {{"Above the Veil","language","English"}}
+"Glen Ridge,New Jersey", {{"Glen Ridge,New Jersey","isPartOf","Essex County"}}
+"Dane Whitman Black Knight", {{"Dane Whitman Black Knight","creator","Roy Thomas"},{"Dane Whitman Black Knight","creator","John Buscema"}}
+"Michigan", {{"Michigan","language","Arabic"},{"Michigan","language","English language"},{"Michigan","capital","Lansing"},{"Michigan","language","Spanish"}}
+"California State Senate", {{"California State Senate","location","California State Capitol"},{"California State Senate","isPartOf","California State Legislature"}}
+"AZAL Arena", {{"AZAL Arena","location","Azerbaijan"},{"AZAL Arena","location","Baku"}}
+"Albuquerque", {{"Albuquerque","isPartOf","New Mexico"},{"Albuquerque","country","United States"},{"Albuquerque","leaderTitle","United States House of Representatives"},{"Albuquerque","leaderTitle","Mayor of Albuquerque"}}
+"Jorge Humberto", {{"Jorge Humberto","club","Alianza"},{"Jorge Humberto","club","El Salvador national football team"},{"Jorge Humberto","club","C.D . FAS"},{"Jorge Humberto","club","FC Dallas"},{"Jorge Humberto","club","A.D. Isidro"}}
+"GitHub users", {{"GitHub users","targets","Hackers"}}
+"Hackers", {{"Hackers","targets","GitHub users"},{"Hackers","targets","Bitbucket and GitLab and other similar code hosting websites"}}
+"Bitbucket and GitLab and other similar code hosting websites", {{"Bitbucket and GitLab and other similar code hosting websites","targets","Hackers"}}
+"School of Business", {{"School of Business","country","Denmark"}}
+"Taylor County", {{"Taylor County","country","United States"}}
+"1634 : The", {{"1634 : The","language","English"}}
+"County Limerick", {{"County Limerick","isPartOf","Munster"}}
+"Akron,", {{"Akron,","isPartOf","Summit County,Ohio"}}
+"CVE-2021-36934", {{"CVE-2021-36934","uses","Diicot"}}
+"2021-32761", {{"2021-32761","uses","Diicot"}}
+"Diicot", {{"Diicot","uses","CVE-2021-36934"},{"Diicot","uses","2021-32761"}}
+"Saranac Lake,New York", {{"Saranac Lake,New York","isPartOf","Harrietstown,"},{"Saranac Lake,New York","isPartOf","United States"},{"Saranac Lake,New York","isPartOf","Essex County,New York"},{"Saranac Lake,New York","isPartOf","Harrietstown,New York"}}
+"Glen Ridge,New", {{"Glen Ridge,New","isPartOf","Essex County"}}
+"IoT products have", {{"IoT products have","uses","extortion and"}}
+"extortion and", {{"extortion and","uses","IoT products have"}}
+"Tim Brooke-Taylor", {{"Tim Brooke-Taylor","birthPlace","Buxton"},{"Tim Brooke-Taylor","birthPlace","United Kingdom"},{"Tim Brooke-Taylor","birthPlace","England"}}
+"CVE-2020-35489", {{"CVE-2020-35489","uses","Contact Form 7 plug-in"},{"CVE-2020-35489","uses","North Korean hacker Lazarus"},{"CVE-2020-35489","targets","virtual currency transaction user"},{"CVE-2020-35489","uses","Magniber ransomware has"}}
+"Contact Form 7 plug-in", {{"Contact Form 7 plug-in","uses","CVE-2020-35489"},{"Contact Form 7 plug-in","uses","SolarWinds vulnerability"},{"Contact Form 7 plug-in","uses","North Korean hacker Lazarus"},{"Contact Form 7 plug-in","uses","CVE-2019-1367"},{"Contact Form 7 plug-in","uses","CVE-2020-0968"},{"Contact Form 7 plug-in","targets","virtual currency transaction user"},{"Contact Form 7 plug-in","uses","Magniber ransomware has"}}
+"SolarWinds vulnerability", {{"SolarWinds vulnerability","uses","Contact Form 7 plug-in"},{"SolarWinds vulnerability","uses","North Korean hacker Lazarus"},{"SolarWinds vulnerability","targets","virtual currency transaction user"},{"SolarWinds vulnerability","uses","Magniber ransomware has"}}
+"North Korean hacker Lazarus", {{"North Korean hacker Lazarus","uses","CVE-2020-35489"},{"North Korean hacker Lazarus","uses","Contact Form 7 plug-in"},{"North Korean hacker Lazarus","uses","SolarWinds vulnerability"},{"North Korean hacker Lazarus","uses","CVE-2019-1367"},{"North Korean hacker Lazarus","uses","CVE-2020-0968"},{"North Korean hacker Lazarus","targets","virtual currency transaction user"},{"North Korean hacker Lazarus","uses","Magniber ransomware has"}}
+"CVE-2019-1367", {{"CVE-2019-1367","uses","Contact Form 7 plug-in"},{"CVE-2019-1367","uses","North Korean hacker Lazarus"},{"CVE-2019-1367","targets","virtual currency transaction user"},{"CVE-2019-1367","uses","Magniber ransomware has"}}
+"CVE-2020-0968", {{"CVE-2020-0968","uses","Contact Form 7 plug-in"},{"CVE-2020-0968","uses","North Korean hacker Lazarus"},{"CVE-2020-0968","targets","virtual currency transaction user"},{"CVE-2020-0968","uses","Magniber ransomware has"}}
+"Monocacy National", {{"Monocacy National","location","Frederick"}}
+"Ukraine", {{"Ukraine","targets","Flash 0day vulnerabilities"},{"Ukraine","targets","APT attacks"}}
+"Potter County", {{"Potter County","country","United States"}}
+"management service providers (MSPs) and their customers", {{"management service providers (MSPs) and their customers","targets","supply chain attacks"}}
+"supply chain attacks", {{"supply chain attacks","targets","management service providers (MSPs) and their customers"},{"supply chain attacks","targets","Sawfish"}}
+"1634 : The Bavarian Crisis", {{"1634 : The Bavarian Crisis","language","English"}}
+"The Secret Scripture", {{"The Secret Scripture","publisher","Faber and Faber"}}
+"ACM Transactions on Information Systems", {{"ACM Transactions on Information Systems","publisher","Association for Computing Machinery"}}
+"RMI registry", {{"RMI registry","targets","man in the middle attack"}}
+"man in the middle attack", {{"man in the middle attack","targets","RMI registry"}}
+"A.D. Isidro Metapán", {{"A.D. Isidro Metapán","numberOfMembers","10000"},{"A.D. Isidro Metapán","ground","Estadio Jorge Calero Suárez"},{"A.D. Isidro Metapán","ground","Metapán"}}
+"Johns Hopkins University", {{"Johns Hopkins University","country","United States"}}
+"Jones County,Texas", {{"Jones County,Texas","country","United States"}}
+"Arion (", {{"Arion (","creator","Jan Duursema"},{"Arion (","creator","Paul Kupperberg"}}
+"DDoS attack", {{"DDoS attack","targets","memcached protocol"}}
+"memcached protocol", {{"memcached protocol","targets","DDoS attack"}}
+"hot patch", {{"hot patch","targets","trojan programs"}}
+"trojan programs", {{"trojan programs","targets","hot patch"}}
+"Asherton", {{"Asherton","country","United States"}}
+"REST module remote execution code", {{"REST module remote execution code","targets","driver supply chain trojan attack"},{"REST module remote execution code","uses","4G,5G"}}
+"driver supply chain trojan attack", {{"driver supply chain trojan attack","targets","REST module remote execution code"}}
+"Acta Mathematica Hungarica", {{"Acta Mathematica Hungarica","publisher","Springer"},{"Acta Mathematica Hungarica","publisher","Springer Science Business Media"}}
+"Acharya Institute", {{"Acharya Institute","city","Bangalore"}}
+"A Long", {{"A Long","publisher","Viking Press"}}
+"attacker", {{"attacker","targets","malicious JSP files"}}
+"malicious JSP files", {{"malicious JSP files","targets","attacker"}}
+"AIP", {{"AIP","publisher","American"}}
+"Buffalo", {{"Buffalo","isPartOf","New York"}}
+"Asherton,Texas", {{"Asherton,Texas","isPartOf","United States"},{"Asherton,Texas","isPartOf","Dimmit County,Texas"}}
+"CVE-2018-1978", {{"CVE-2018-1978","targets","Triton"}}
+"Triton", {{"Triton","targets","CVE-2018-1978"}}
+"Administrative", {{"Administrative","publisher","SAGE Publications"}}
+"1 . FC Magdeburg", {{"1 . FC Magdeburg","numberOfMembers","27250"}}
+"Graeme Garden", {{"Graeme Garden","birthPlace","Aberdeen"}}
+"A.E", {{"A.E","numberOfMembers","1500"},{"A.E","location","Greece"}}
+"{""BlueKeep" vulnerability","uses","malware"}
+"CVE-2019-0708", {{"CVE-2019-0708","uses","malware"}}
+"malware", {{"malware","uses",""BlueKeep" vulnerability"},{"malware","uses","CVE-2019-0708"}}
+"Lazarus", {{"Lazarus","uses","DDOS attack"}}
+"DDOS attack", {{"DDOS attack","uses","Lazarus"}}
+"Alpena County Regional", {{"Alpena County Regional","location","Wilson Township,Alpena County"},{"Alpena County Regional","cityServed","Alpena"}}
+"Eastern Province", {{"Eastern Province","leaderName","Austin Fernando"}}
+"Alcatraz Versus the Evil", {{"Alcatraz Versus the Evil","country","United"}}
+"Bibbo", {{"Bibbo","creator","Marv Wolfman"}}
+"malicious JavaScript request", {{"malicious JavaScript request","targets","Lnkr Ad Injector Trojan"}}
+"Lnkr Ad Injector Trojan", {{"Lnkr Ad Injector Trojan","targets","malicious JavaScript request"}}
+"Flemish Region", {{"Flemish Region","leaderName","Flemish Government"},{"Flemish Region","country","Belgium"}}
+"Alfred Giles", {{"Alfred Giles","birthPlace","England"}}
+"hijacking", {{"hijacking","uses","Abuse of the TRUST mechanism"}}
+"Abuse of the TRUST mechanism", {{"Abuse of the TRUST mechanism","uses","hijacking"}}
+"Alpharetta", {{"Alpharetta","isPartOf","Georgia"}}
+"IoT gateways", {{"IoT gateways","targets","using brute force to guess passwords"},{"IoT gateways","targets","Routers"}}
+"Buffer Overflow xa0", {{"Buffer Overflow xa0","targets","Host/server"}}
+"Privilege Escalation xa0", {{"Privilege Escalation xa0","targets","Host/server"}}
+"Host/server", {{"Host/server","targets","Buffer Overflow xa0"},{"Host/server","targets","Privilege Escalation xa0"}}
+"Quasar", {{"Quasar","targets","hackers"}}
+"Windows operating system", {{"Windows operating system","targets","hackers"}}
+"hackers", {{"hackers","targets","Quasar"},{"hackers","targets","Windows operating system"}}
+"Jorge Humberto Rodríguez", {{"Jorge Humberto Rodríguez","club","El Salvador national football team"},{"Jorge Humberto Rodríguez","club","C.D . FAS"}}
+"Addiction ( journal )", {{"Addiction ( journal )","publisher","Wiley-Blackwell"}}
+"Cerberus Bank Trojan Horse Research", {{"Cerberus Bank Trojan Horse Research","uses","CVE-2020-9715"},{"Cerberus Bank Trojan Horse Research","uses","SecurityManager"},{"Cerberus Bank Trojan Horse Research","targets","Microsoft Defender can"}}
+"CVE-2020-9715", {{"CVE-2020-9715","uses","Cerberus Bank Trojan Horse Research"},{"CVE-2020-9715","uses","SecurityManager"},{"CVE-2020-9715","targets","Microsoft Defender can"}}
+"SecurityManager", {{"SecurityManager","uses","Cerberus Bank Trojan Horse Research"},{"SecurityManager","uses","CVE-2020-9715"},{"SecurityManager","targets","Microsoft Defender can"}}
+"Microsoft Defender can", {{"Microsoft Defender can","targets","Cerberus Bank Trojan Horse Research"},{"Microsoft Defender can","targets","CVE-2020-9715"},{"Microsoft Defender can","targets","SecurityManager"}}
+"American Journal of", {{"American Journal of","publisher","Johns Hopkins University Press"}}
+"return request", {{"return request","uses","open-source ransomware for Windows"},{"return request","uses","Hidden Tear"}}
+"open-source ransomware for Windows", {{"open-source ransomware for Windows","uses","return request"}}
+"Hidden Tear", {{"Hidden Tear","uses","return request"}}
+"Appleton,Wisconsin", {{"Appleton,Wisconsin","isPartOf","Kimberly,Wisconsin"},{"Appleton,Wisconsin","isPartOf","Grand Chute,Wisconsin"}}
+"open the embedded ASQMU.docm file", {{"open the embedded ASQMU.docm file","uses","Jaff"}}
+"Jaff", {{"Jaff","uses","open the embedded ASQMU.docm file"},{"Jaff","uses","After getting all the required APIs"},{"Jaff","uses","use the process to replace"}}
+"1 Decembrie 1918", {{"1 Decembrie 1918","city","Alba Iulia"},{"1 Decembrie 1918","country","Romania"}}
+"Antioch", {{"Antioch","isPartOf","California"}}
+"Egg Harbor Township", {{"Egg Harbor Township","isPartOf","New Jersey"},{"Egg Harbor Township","country","United States"},{"Egg Harbor Township","isPartOf","Atlantic County"},{"Egg Harbor Township","isPartOf","Atlantic County,New Jersey"}}
+"A.D.", {{"A.D.","ground","Estadio Jorge Calero"},{"A.D.","numberOfMembers","10000"}}
+"Lippincott", {{"Lippincott","country","United States"}}
+"Adams Township", {{"Adams Township","country","United States"}}
+"Tim", {{"Tim","birthPlace","Derbyshire"},{"Tim","birthPlace","England"}}
+"Luanda", {{"Luanda","country","Angola"}}
+"Flemish", {{"Flemish","country","Belgium"},{"Flemish","leaderName","Flemish"},{"Flemish","leaderName","Flemish Government"}}
+"Accademia di Architettura", {{"Accademia di Architettura","country","Switzerland"},{"Accademia di Architettura","city","Mendrisio"},{"Accademia di Architettura","location","Ticino"}}
+"108 St Georges Terrace", {{"108 St Georges Terrace","location","Perth"}}
+"California", {{"California","language","Vietnamese"},{"California","language","Chinese"},{"California","language","English language"},{"California","country","United States"}}
+"Auburn,Washington", {{"Auburn,Washington","isPartOf","King County"}}
+"extortion attacks", {{"extortion attacks","targets","enterprise data"}}
+"enterprise data", {{"enterprise data","targets","extortion attacks"}}
+"Amarillo", {{"Amarillo","isPartOf","Texas"},{"Amarillo","country","United States"},{"Amarillo","isPartOf","United States"},{"Amarillo","isPartOf","Potter County"}}
+"Blockbuster (", {{"Blockbuster (","creator","Gardner Fox"},{"Blockbuster (","creator","Tom Lyle"}}
+"BIG-IP network equipment", {{"BIG-IP network equipment","uses","CVE-2022-1388"}}
+"CVE-2022-1388", {{"CVE-2022-1388","uses","BIG-IP network equipment"}}
+"Maple Ridge", {{"Maple Ridge","country","United States"}}
+"Greenville,", {{"Greenville,","isPartOf","Menasha"},{"Greenville,","isPartOf","Ellington"},{"Greenville,","isPartOf","Dale,Wisconsin"}}
+"A.C.", {{"A.C.","ground","Stadio Dino Manuzzi"},{"A.C.","manager","Michele Marcolini"},{"A.C.","ground","Italy"},{"A.C.","numberOfMembers","23900"}}
+"Ann Arbor", {{"Ann Arbor","isPartOf","Michigan"},{"Ann Arbor","isPartOf","Washtenaw County"}}
+"Union Township", {{"Union Township","country","United States"}}
+"Monroe Township", {{"Monroe Township","isPartOf","Indiana"},{"Monroe Township","isPartOf","Madison County"}}
+"New Mexico", {{"New Mexico","language","Navajo language"}}
+"Ahmedabad", {{"Ahmedabad","country","India"}}
+"Jalisco", {{"Jalisco","leaderName","Jesús Casillas Romero"}}
+"Asherton,", {{"Asherton,","isPartOf","Dimmit County,Texas"},{"Asherton,","country","United States"}}
+"Pakistan Civil Aviation Authority", {{"Pakistan Civil Aviation Authority","location","Jinnah International Airport"}}
+"Athens International", {{"Athens International","cityServed","Athens"}}
+"long-term APT whale fishing attack", {{"long-term APT whale fishing attack","targets","important user terminals"},{"long-term APT whale fishing attack","targets","target server"}}
+"important user terminals", {{"important user terminals","targets","long-term APT whale fishing attack"}}
+"target server", {{"target server","targets","long-term APT whale fishing attack"}}
+"GitHub suffered", {{"GitHub suffered","targets","DDoS network attack"}}
+"well-known code hosting website GitHub suffered", {{"well-known code hosting website GitHub suffered","targets","DDoS network attack"}}
+"DDoS network attack", {{"DDoS network attack","targets","GitHub suffered"},{"DDoS network attack","targets","well-known code hosting website GitHub suffered"}}
+"A.S. Gubbio", {{"A.S. Gubbio","ground","Italy"},{"A.S. Gubbio","numberOfMembers","5300"}}
+"New Jersey", {{"New Jersey","country","United States"},{"New Jersey","capital","UNK"}}
+"IBM Java SDK", {{"IBM Java SDK","uses","UTF-8 character DoS vulnerability"},{"IBM Java SDK","targets","Oracle WebLogic server"}}
+"UTF-8 character DoS vulnerability", {{"UTF-8 character DoS vulnerability","uses","IBM Java SDK"},{"UTF-8 character DoS vulnerability","targets","Oracle WebLogic server"}}
+"Oracle WebLogic server", {{"Oracle WebLogic server","targets","IBM Java SDK"},{"Oracle WebLogic server","targets","UTF-8 character DoS vulnerability"}}
+"Al-Taqaddum", {{"Al-Taqaddum","cityServed","Fallujah"}}
+"A.F.C", {{"A.F.C","manager","Stuart Parker"},{"A.F.C","ground","Blackpool"}}
+"April", {{"April","creator","Peter Laird"},{"April","creator","Kevin Eastman"}}
+"Drupal", {{"Drupal","targets","remote code execution vulnerability"},{"Drupal","targets","CVE-2019-6340"}}
+"remote code execution vulnerability", {{"remote code execution vulnerability","targets","Drupal"}}
+"CVE-2019-6340", {{"CVE-2019-6340","targets","Drupal"}}
+"the name of hidden API", {{"the name of hidden API","uses","malicious code"}}
+"malicious code", {{"malicious code","uses","the name of hidden API"},{"malicious code","uses","avoid the detection of anti-virus programs"}}
+"avoid the detection of anti-virus programs", {{"avoid the detection of anti-virus programs","uses","malicious code"}}
+"Buzz", {{"Buzz","was a crew member of","Apollo 11"}}
+"A.S.", {{"A.S.","manager","Christian Panucci"}}
+"CVE-2018-5002", {{"CVE-2018-5002","targets","Middle East"}}
+"Middle East", {{"Middle East","targets","CVE-2018-5002"}}
+"CVE-2017-8570", {{"CVE-2017-8570","targets","Office vulnerability attacks"}}
+"Office vulnerability attacks", {{"Office vulnerability attacks","targets","CVE-2017-8570"}}
+"Russian hacker organization ", {{"Russian hacker organization "Dream Bear","targets","backdoor program"}}
+"backdoor program", {{"backdoor program","targets","Russian hacker organization "Dream Bear"}}
+"Infraero", {{"Infraero","location","Brazil"}}
+"socket hijacking technology", {{"socket hijacking technology","uses","HG6245D router multiple"}}
+"HG6245D router multiple", {{"HG6245D router multiple","uses","socket hijacking technology"}}
+"Cornell", {{"Cornell","city","Ithaca,New York"}}
+"SolarWinds", {{"SolarWinds","targets","Sawfish"}}
+"Codecov", {{"Codecov","targets","Sawfish"}}
+"Sawfish", {{"Sawfish","targets","supply chain attacks"},{"Sawfish","targets","SolarWinds"},{"Sawfish","targets","Codecov"}}
+"denial of service vulnerability tests", {{"denial of service vulnerability tests","uses","DDOS attacks"}}
+"DDOS attacks", {{"DDOS attacks","targets","denial of service vulnerability tests"},{"DDOS attacks","targets","IIS"}}
+"Chicharrón", {{"Chicharrón","country","Spain"},{"Chicharrón","region","Andalusia"}}
+"wild hijacking attack", {{"wild hijacking attack","uses","TajMahal Spyware"}}
+"TajMahal Spyware", {{"TajMahal Spyware","uses","wild hijacking attack"}}
+"Scott Adsit", {{"Scott Adsit","birthPlace","Northbrook,Illinois"}}
+"Valencian", {{"Valencian","leaderName","Ximo Puig"}}
+"Abilene Regional", {{"Abilene Regional","cityServed","Abilene,"},{"Abilene Regional","cityServed","Abilene"}}
+"AFC Ajax (", {{"AFC Ajax (","ground","Sportpark De Toekomst"}}
+"Angola International", {{"Angola International","cityServed","Luanda"}}
+"Bandeja", {{"Bandeja","ingredient","Chorizo"},{"Bandeja","country","Columbian cuisine"}}
+"FTP/SSH/SMB/MSSQL/MySQL/POSTGRESQL/MONGOD", {{"FTP/SSH/SMB/MSSQL/MySQL/POSTGRESQL/MONGOD","targets","CMS identification"},{"FTP/SSH/SMB/MSSQL/MySQL/POSTGRESQL/MONGOD","targets","poc scanning"}}
+"CMS identification", {{"CMS identification","targets","FTP/SSH/SMB/MSSQL/MySQL/POSTGRESQL/MONGOD"},{"CMS identification","targets","xray"}}
+"poc scanning", {{"poc scanning","targets","FTP/SSH/SMB/MSSQL/MySQL/POSTGRESQL/MONGOD"},{"poc scanning","targets","xray"}}
+"xray", {{"xray","targets","CMS identification"},{"xray","targets","poc scanning"}}
+"Fountain County", {{"Fountain County","country","United States"}}
+"Alpena", {{"Alpena","country","United States"}}
+"Augustus Pugin", {{"Augustus Pugin","birthPlace","Bloomsbury"}}
+"Urlbuster Web directory Fuzzy program", {{"Urlbuster Web directory Fuzzy program","targets","in the image website"}}
+"the world's largest cruise operator", {{"the world's largest cruise operator","targets","in the image website"}}
+"in the image website", {{"in the image website","targets","Urlbuster Web directory Fuzzy program"},{"in the image website","targets","the world's largest cruise operator"}}
+"Auburn,", {{"Auburn,","leaderTitle","Mayor"}}
+"Asam", {{"Asam","country","Malaysia"},{"Asam","region","Sumatra"}}
+"Lafayette Township,Madison County,Indiana", {{"Lafayette Township,Madison County,Indiana","country","United States"}}
+"Marriott International", {{"Marriott International","location","Bethesda"},{"Marriott International","location","Bethesda,Maryland"}}
+"Bozo the Iron Man", {{"Bozo the Iron Man","creator","George Brenner"}}
+"Guadalajara", {{"Guadalajara","country","Mexico"}}
+"A Fortress of Grey", {{"A Fortress of Grey","language","English"},{"A Fortress of Grey","country","United States"}}
+"Excel", {{"Excel","targets","APT34"}}
+"APT34", {{"APT34","targets","Excel"},{"APT34","targets","Intensio Obfuscator"},{"APT34","targets","US cloud service provider PCM Inc"}}
+"Intensio Obfuscator", {{"Intensio Obfuscator","targets","APT34"}}
+"ransomware attacks", {{"ransomware attacks","targets","red team tool Cobalt Strike"},{"ransomware attacks","uses","ransomware actors abandon"}}
+"red team tool Cobalt Strike", {{"red team tool Cobalt Strike","targets","ransomware attacks"},{"red team tool Cobalt Strike","targets","ransomware actors abandon"}}
+"ransomware actors abandon", {{"ransomware actors abandon","targets","red team tool Cobalt Strike"}}
+"Civil Aviation Authority of New Zealand", {{"Civil Aviation Authority of New Zealand","location","Wellington"}}
+"Baku", {{"Baku","location","Azerbaijan"}}
+"Attica", {{"Attica","isPartOf","Indiana"},{"Attica","isPartOf","Fountain County"}}
+"Auburn", {{"Auburn","isPartOf","Pierce County,Washington"},{"Auburn","isPartOf","Washington"},{"Auburn","isPartOf","Alabama"}}
+"Adding backdoor programs requires", {{"Adding backdoor programs requires","targets","ARMARM"}}
+"ARMARM", {{"ARMARM","targets","Adding backdoor programs requires"}}
+"Slip vulnerability can", {{"Slip vulnerability can","targets","arbitrary file overwrite"},{"Slip vulnerability can","targets","directory traversal"}}
+"arbitrary file overwrite", {{"arbitrary file overwrite","targets","Slip vulnerability can"}}
+"directory traversal", {{"directory traversal","targets","Slip vulnerability can"}}
+"11th", {{"11th","location","Adams County,"}}
+"After getting all the required APIs", {{"After getting all the required APIs","uses","Jaff"}}
+"use the process to replace", {{"use the process to replace","uses","Jaff"}}
+"Bianca Castafiore", {{"Bianca Castafiore","creator","Hergé"}}
+"Abhandlungen aus dem Mathematischen Seminar der", {{"Abhandlungen aus dem Mathematischen Seminar der","publisher","Springer"}}
+"300 North", {{"300 North","location","Chicago"},{"300 North","location","Illinois"}}
+"Buffer/stack overflow vulnerability V", {{"Buffer/stack overflow vulnerability V","uses","XHCI USB controller"}}
+"XHCI USB controller", {{"XHCI USB controller","uses","Buffer/stack overflow vulnerability V"},{"XHCI USB controller","uses","After After Free vulnerability"}}
+"After After Free vulnerability", {{"After After Free vulnerability","uses","XHCI USB controller"}}
+"Atatürk", {{"Atatürk","location","Turkey"}}
+"enable the malicious macro", {{"enable the malicious macro","uses","Zebrocy variant"}}
+"Zebrocy variant", {{"Zebrocy variant","uses","enable the malicious macro"}}
+"Adirondack Regional", {{"Adirondack Regional","cityServed","Lake Placid"},{"Adirondack Regional","cityServed","Saranac Lake"},{"Adirondack Regional","location","Harrietstown,New York"}}
+"James Pallotta", {{"James Pallotta","birthPlace","Boston"}}
+"Albany,Georgia", {{"Albany,Georgia","country","United States"},{"Albany,Georgia","isPartOf","United States"},{"Albany,Georgia","leaderTitle","Mayor"}}
+"A Loyal Character", {{"A Loyal Character","language","English"},{"A Loyal Character","publisher","Soho Press"},{"A Loyal Character","country","United States"}}
+"GRUB2", {{"GRUB2","targets","buffer overflow vulnerability"}}
+"buffer overflow vulnerability", {{"buffer overflow vulnerability","targets","GRUB2"}}
+"Visvesvaraya", {{"Visvesvaraya","city","Belgaum"}}
+"Oracle WebLogic Server", {{"Oracle WebLogic Server","targets","Threat actors"},{"Oracle WebLogic Server","targets","CVE-2020-14882 ultra critical vulnerability"}}
+"Max Huiberts", {{"Max Huiberts","club","AZ Alkmaar"}}
+"School of Business and Social Sciences at the Aarhus", {{"School of Business and Social Sciences at the Aarhus","city","Aarhus"},{"School of Business and Social Sciences at the Aarhus","country","Denmark"}}
+"Asher and Mary Isabelle", {{"Asher and Mary Isabelle","location","Asherton,Texas"}}
+"Pierce County,Washington", {{"Pierce County,Washington","country","United States"}}
+"Glen Ridge", {{"Glen Ridge","isPartOf","Essex County"}}
+"advanced sustainable attack", {{"advanced sustainable attack","uses","advanced sustainable attack"},{"advanced sustainable attack","targets","a large group in South Korea"}}
+"William", {{"William","birthPlace","British Hong Kong"}}
+"Attica,Indiana", {{"Attica,Indiana","isPartOf","Logan Township,Fountain County,Indiana"}}
+"1634 : The Galileo Affair", {{"1634 : The Galileo Affair","language","English"}}
+"Auburn,Alabama", {{"Auburn,Alabama","country","United States"}}
+"Estádio Municipal Coaracy da Mata", {{"Estádio Municipal Coaracy da Mata","location","Brazil"}}
+"Campeonato Brasileiro", {{"Campeonato Brasileiro","country","Brazil"}}
+"Madison County", {{"Madison County","country","United States"}}
+"Viking", {{"Viking","country","United States"}}
+"Accademia di Architettura di", {{"Accademia di Architettura di","country","Switzerland"},{"Accademia di Architettura di","city","Mendrisio"}}
+"Albuquerque,New Mexico", {{"Albuquerque,New Mexico","isPartOf","Bernalillo County,New Mexico"},{"Albuquerque,New Mexico","leaderTitle","Albuquerque City Council"}}
+"macOS disk management daemon (diskmanaged)", {{"macOS disk management daemon (diskmanaged)","targets","heap buffer overflow vulnerability"}}
+"heap buffer overflow vulnerability", {{"heap buffer overflow vulnerability","targets","macOS disk management daemon (diskmanaged)"}}
+"Oregon", {{"Oregon","capital","Salem"}}
+"Phar Deserialization Vulnerability", {{"Phar Deserialization Vulnerability","targets","XSSCon"}}
+"Directory Traversal Vulnerability", {{"Directory Traversal Vulnerability","targets","XSSCon"}}
+"XSS", {{"XSS","targets","XSSCon"}}
+"XSSCon", {{"XSSCon","targets","Phar Deserialization Vulnerability"},{"XSSCon","targets","Directory Traversal Vulnerability"},{"XSSCon","targets","XSS"},{"XSSCon","targets","CVE-2018-0734"}}
+"CVE-2018-0734", {{"CVE-2018-0734","targets","XSSCon"}}
+"Samsung CVE-2015-7888", {{"Samsung CVE-2015-7888","targets","CallRecorder"}}
+"CallRecorder", {{"CallRecorder","targets","Samsung CVE-2015-7888"}}
+"CVE-2018-0296", {{"CVE-2018-0296","targets","CPU_REC"}}
+"CPU_REC", {{"CPU_REC","targets","CVE-2018-0296"}}
+"Georgia", {{"Georgia","capital","Atlanta"}}
+"Druid server", {{"Druid server","targets","execute arbitrary code"}}
+"execute arbitrary code", {{"execute arbitrary code","targets","Druid server"}}
+"HyperViper", {{"HyperViper","targets","APT37"},{"HyperViper","targets","Clone Google Titan 2FA security key"}}
+"APT37", {{"APT37","targets","HyperViper"},{"APT37","uses","Clone Google Titan 2FA security key"}}
+"Clone Google Titan 2FA security key", {{"Clone Google Titan 2FA security key","targets","HyperViper"},{"Clone Google Titan 2FA security key","uses","APT37"}}
+"Jens Hartel", {{"Jens Hartel","club","Berliner AK 07"},{"Jens Hartel","club","1 . FC Union Berlin"},{"Jens Hartel","club","RB Leipzig"},{"Jens Hartel","club","FC Sachsen Leipzig"}}
+"A Long Long", {{"A Long Long","country","Ireland"},{"A Long Long","publisher","Viking Press"}}
+"CVE-2020-26945", {{"CVE-2020-26945","targets","moneta"},{"CVE-2020-26945","uses","Bitextender"}}
+"moneta", {{"moneta","targets","CVE-2020-26945"},{"moneta","targets","Bitextender"}}
+"Bitextender", {{"Bitextender","uses","CVE-2020-26945"},{"Bitextender","targets","moneta"}}
+"CVE-2018-6789", {{"CVE-2018-6789","targets","sqlmap"},{"CVE-2018-6789","targets","DNS rebinding attacks"}}
+"sqlmap", {{"sqlmap","targets","CVE-2018-6789"},{"sqlmap","targets","DNS rebinding attacks"}}
+"DNS rebinding attacks", {{"DNS rebinding attacks","targets","CVE-2018-6789"},{"DNS rebinding attacks","targets","sqlmap"}}
+"IIS", {{"IIS","targets","DDOS attacks"}}
+"TCP reflection attack", {{"TCP reflection attack","targets","PCode simulator"}}
+"RDP reverse attack m", {{"RDP reverse attack m","targets","PCode simulator"}}
+"PCode simulator", {{"PCode simulator","targets","TCP reflection attack"},{"PCode simulator","targets","RDP reverse attack m"}}
+"Pacific Grove,", {{"Pacific Grove,","isPartOf","California"}}
+"Akita,", {{"Akita,","isPartOf","Akita Prefecture"},{"Akita,","country","Japan"}}
+"DrSemu", {{"DrSemu","targets","APT35 Attack"},{"DrSemu","targets","Golang ransomware"}}
+"APT35 Attack", {{"APT35 Attack","targets","DrSemu"},{"APT35 Attack","targets","Beeline"},{"APT35 Attack","uses","Golang ransomware"}}
+"Beeline", {{"Beeline","targets","APT35 Attack"},{"Beeline","targets","Golang ransomware"}}
+"Golang ransomware", {{"Golang ransomware","targets","DrSemu"},{"Golang ransomware","uses","APT35 Attack"},{"Golang ransomware","targets","Beeline"}}
+"AZAL", {{"AZAL","numberOfMembers","3500"},{"AZAL","ground","AZAL Arena"}}
+"Campeonato Brasileiro Série", {{"Campeonato Brasileiro Série","country","Brazil"}}
+"Cute Voice Changer. exe", {{"Cute Voice Changer. exe","targets","QQ group email"}}
+"QQ group email", {{"QQ group email","targets","Cute Voice Changer. exe"}}
+"Live Nation Entertainment", {{"Live Nation Entertainment","location","UNK UNK,California"}}
+"a large group in South Korea", {{"a large group in South Korea","targets","advanced sustainable attack"}}
+"Tarrant County,Texas", {{"Tarrant County,Texas","country","United States"}}
+"Andrews", {{"Andrews","cityServed","Andrews,Texas"}}
+"Buffalo,", {{"Buffalo,","isPartOf","Erie County,New York"},{"Buffalo,","isPartOf","New York"}}
+"Eavesarp", {{"Eavesarp","targets","CNVD-2020-25557"}}
+"Ann Arbor,Michigan", {{"Ann Arbor,Michigan","leaderTitle","Mayor"}}
+"Appleton,", {{"Appleton,","isPartOf","Grand Chute,Wisconsin"}}
+"Apache Solr", {{"Apache Solr","targets","Clicker"}}
+"Clicker", {{"Clicker","targets","Apache Solr"}}
+"RCE Vulnerability", {{"RCE Vulnerability","targets","BlobRunner"},{"RCE Vulnerability","uses","shellcode"}}
+"BlobRunner", {{"BlobRunner","targets","RCE Vulnerability"},{"BlobRunner","targets","shellcode"}}
+"shellcode", {{"shellcode","uses","RCE Vulnerability"},{"shellcode","targets","BlobRunner"}}
+"virtual currency transaction user", {{"virtual currency transaction user","targets","CVE-2020-35489"},{"virtual currency transaction user","targets","Contact Form 7 plug-in"},{"virtual currency transaction user","targets","SolarWinds vulnerability"},{"virtual currency transaction user","targets","North Korean hacker Lazarus"},{"virtual currency transaction user","targets","Magniber ransomware has"},{"virtual currency transaction user","targets","CVE-2019-1367"},{"virtual currency transaction user","targets","CVE-2020-0968"}}
+"Magniber ransomware has", {{"Magniber ransomware has","uses","CVE-2020-35489"},{"Magniber ransomware has","uses","Contact Form 7 plug-in"},{"Magniber ransomware has","uses","SolarWinds vulnerability"},{"Magniber ransomware has","uses","North Korean hacker Lazarus"},{"Magniber ransomware has","targets","virtual currency transaction user"},{"Magniber ransomware has","uses","CVE-2019-1367"},{"Magniber ransomware has","uses","CVE-2020-0968"}}
+"Akita Museum", {{"Akita Museum","location","Akita,"},{"Akita Museum","location","Akita Prefecture"}}
+"Egg Harbor Township,New", {{"Egg Harbor Township,New","country","United States"},{"Egg Harbor Township,New","isPartOf","Atlantic County"}}
+"Atlantic County,New Jersey", {{"Atlantic County,New Jersey","country","United States"}}
+"Atatürk Monument ( İzmir", {{"Atatürk Monument ( İzmir","location","Turkey"}}
+"RDP Remote Vulnerability", {{"RDP Remote Vulnerability","targets","autoPwn"}}
+"autoPwn", {{"autoPwn","targets","RDP Remote Vulnerability"},{"autoPwn","targets","kubelet v1.13.6 and v1.14.2 Authorization Vulnerability"},{"autoPwn","targets","CVE-2019-8956"}}
+"CVE-2019-8956", {{"CVE-2019-8956","targets","autoPwn"}}
+"Alcatraz", {{"Alcatraz","country","United States"}}

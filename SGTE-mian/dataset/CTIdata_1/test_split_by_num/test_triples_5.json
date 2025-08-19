@@ -1,0 +1,1042 @@
+[
+    {
+        "text": "This is a hacking group with Chinese origins which targets selected organisations related with education, energy and technology.",
+        "triple_list": [
+            [
+                "a hacking group",
+                "background",
+                "Chinese origins"
+            ],
+            [
+                "group",
+                "background",
+                "Chinese origins"
+            ],
+            [
+                "group",
+                "target industry",
+                "education"
+            ],
+            [
+                "group",
+                "target industry",
+                "energy"
+            ],
+            [
+                "group",
+                "target industry",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "text": "This neatly ties together many of the tools used by the Dukes group, as versions of this one loader have been used to load malware from three different Dukes-related toolsets CosmicDuke, PinchDuke, and MiniDuke - over the course of five years.",
+        "triple_list": [
+            [
+                "Dukes",
+                "tools to use",
+                "CosmicDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "CosmicDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "PinchDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "MiniDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "CosmicDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "PinchDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "MiniDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "CosmicDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "PinchDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "MiniDuke"
+            ]
+        ]
+    },
+    {
+        "text": "This threat group has conducted broad targeting across a variety of industries, including financial, government, energy, chemical, and telecommunications, and has largely focused its operations within the Middle East.",
+        "triple_list": [
+            [
+                "threat group",
+                "target industry",
+                "financial"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "government"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "energy"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "chemical"
+            ],
+            [
+                "threat group",
+                "target industry",
+                "telecommunications"
+            ],
+            [
+                "threat group",
+                "target location",
+                "Middle East"
+            ]
+        ]
+    },
+    {
+        "text": "This was followed by an initial exploitation, network enumeration, and malicious tool deployment on various Visma endpoints within two weeks of initial access.",
+        "triple_list": [
+            [
+                "This",
+                "tools to use",
+                "Visma endpoints"
+            ],
+            [
+                "This",
+                "attack duration",
+                "two weeks"
+            ],
+            [
+                "This",
+                "purpose of attack",
+                "initial exploitation"
+            ],
+            [
+                "This",
+                "purpose of attack",
+                "network enumeration"
+            ],
+            [
+                "This",
+                "purpose of attack",
+                "malicious tool deployment"
+            ]
+        ]
+    },
+    {
+        "text": "This whitepaper explores the tools - such as MiniDuke, CosmicDuke, OnionDuke, CozyDuke, etc- of the Dukes, a well-resourced, highly dedicated and organized cyberespionage group that we believe has been working for the Russian Federation since at least 2008 to collect intelligence in support of foreign and security policy decision-making.",
+        "triple_list": [
+            [
+                "Dukes",
+                "background",
+                "Russian Federation"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "MiniDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "CosmicDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "CozyDuke"
+            ],
+            [
+                "Dukes",
+                "tools to use",
+                "OnionDuke"
+            ]
+        ]
+    },
+    {
+        "text": "Thrip's motive is likely espionage and its targets include those in the communications, geospatial imaging, and defense sectors, both in the United States and Southeast Asia.",
+        "triple_list": [
+            [
+                "Thrip",
+                "target industry",
+                "communications"
+            ],
+            [
+                "Thrip",
+                "target industry",
+                "geospatial imaging"
+            ],
+            [
+                "Thrip",
+                "target industry",
+                "defense"
+            ],
+            [
+                "Thrip",
+                "target location",
+                "United States"
+            ],
+            [
+                "Thrip",
+                "target location",
+                "Southeast Asia"
+            ],
+            [
+                "Thrip",
+                "target location",
+                "Southeast Asia"
+            ],
+            [
+                "Thrip",
+                "target industry",
+                "geospatial imaging"
+            ],
+            [
+                "Thrip",
+                "target industry",
+                "defense sectors"
+            ]
+        ]
+    },
+    {
+        "text": "Throughout our tracking, we've seen this group deploy its main backdoor as well as other tools against various victims, but June 2019 was the first time we saw the Buhtrap group use a zero-day exploit as part of a campaign.",
+        "triple_list": [
+            [
+                "we",
+                "investigate hacker group",
+                "this group"
+            ],
+            [
+                "we",
+                "investigate hacker group",
+                "Buhtrap"
+            ],
+            [
+                "this group",
+                "attack operation name",
+                "zero-day exploit"
+            ],
+            [
+                "this group",
+                "attack method",
+                "backdoor"
+            ],
+            [
+                "Buhtrap",
+                "attack method",
+                "zero-day"
+            ]
+        ]
+    },
+    {
+        "text": "To date, Sowbug appears to be focused mainly on government entities in South America and Southeast Asia and has infiltrated organizations in Argentina, Brazil, Ecuador, Peru, Brunei and Malaysia.",
+        "triple_list": [
+            [
+                "Sowbug",
+                "target location",
+                "South America"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Southeast Asia"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Argentina"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Brazil"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Ecuador"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Brunei"
+            ],
+            [
+                "Sowbug",
+                "target location",
+                "Malaysia"
+            ]
+        ]
+    },
+    {
+        "text": "Today at the Security Analyst Summit (SAS 2016), Kaspersky Lab is announcing the discovery of two new gangs engaged in APT-style bank robberies - Metel and GCMAN - and the reemergence of the Carbanak group with new targets in its sights.",
+        "triple_list": [
+            [
+                "Kaspersky Lab",
+                "investigate hacker group",
+                "Carbanak"
+            ],
+            [
+                "Kaspersky Lab",
+                "investigate hacker group",
+                "Metel"
+            ],
+            [
+                "Kaspersky Lab",
+                "investigate hacker group",
+                "GCMAN"
+            ],
+            [
+                "Carbanak group",
+                "attack method",
+                "APT-style"
+            ],
+            [
+                "Metel",
+                "attack method",
+                "APT-style"
+            ],
+            [
+                "GCMAN",
+                "attack method",
+                "APT-style"
+            ]
+        ]
+    },
+    {
+        "text": "Turla and APT28 are Russian cyber espionage groups that have used these zero-days against European diplomatic and military entities.",
+        "triple_list": [
+            [
+                "Turla",
+                "target industry",
+                "European diplomatic "
+            ],
+            [
+                "Turla",
+                "target industry",
+                "military entities"
+            ],
+            [
+                "Turla",
+                "target location",
+                "European"
+            ],
+            [
+                "Turla",
+                "background",
+                "Russian"
+            ],
+            [
+                "APT28",
+                "background",
+                "Russian"
+            ],
+            [
+                "APT28",
+                "target industry",
+                " European diplomatic"
+            ],
+            [
+                "APT28",
+                "target industry",
+                "military entities"
+            ]
+        ]
+    },
+    {
+        "text": "Unlike many activity groups, which typically gather information for monetary gain or economic espionage, PROMETHIUM and NEODYMIUM appear to launch campaigns simply to gather information about certain individuals.",
+        "triple_list": [
+            [
+                "PROMETHIUM",
+                "purpose of attack",
+                "gather information about certain individuals"
+            ],
+            [
+                "PROMETHIUM",
+                "purpose of attack",
+                "gather information about certain individuals"
+            ],
+            [
+                "NEODYMIUM",
+                "purpose of attack",
+                "gather information about certain individuals"
+            ],
+            [
+                "PROMETHIUM",
+                "attack method",
+                "launch campaigns simply"
+            ],
+            [
+                "NEODYMIUM",
+                "attack method",
+                "launch campaigns"
+            ]
+        ]
+    },
+    {
+        "text": "Until 2019, SectorJ04 group had carried out massive website-based hacking activities that mainly utilize ransomware and banking trojans for financial profit, and has also been carrying out information gathering activities to secure attack resources such as email accounts and system login information from users since 2019.",
+        "triple_list": [
+            [
+                "SectorJ04",
+                "attack operation name",
+                "massive website-based hacking activities"
+            ],
+            [
+                "SectorJ04",
+                "tools to use",
+                "ransomware"
+            ],
+            [
+                "SectorJ04",
+                "attack method",
+                "banking trojans"
+            ],
+            [
+                "SectorJ04",
+                "attack operation name",
+                "information gathering activities"
+            ],
+            [
+                "SectorJ04",
+                "attack time",
+                "2019"
+            ]
+        ]
+    },
+    {
+        "text": "We are also grateful to the Private Office of his Holiness the Dalai Lama, the Tibetan Government-in-Exile, the missions of Tibet in London, Brussels, and New York, and Drewla (a Tibetan NGO).",
+        "triple_list": [
+            [
+                "the Private Office",
+                "target location",
+                "the Dalai Lama"
+            ],
+            [
+                "the Private Office",
+                "target industry",
+                "the Tibetan Government-in-Exile"
+            ],
+            [
+                "the Private Office",
+                "target industry",
+                "the missions of Tibet in London"
+            ],
+            [
+                "the Private Office",
+                "target location",
+                "Brussels"
+            ],
+            [
+                "the Private Office",
+                "target location",
+                "New York"
+            ]
+        ]
+    },
+    {
+        "text": "We found them targeting countries in the Middle East such as United Arab Emirates and Saudi Arabia, as well as other countries such as India, Japan, Argentina, the Philippines, and South Korea.",
+        "triple_list": [
+            [
+                "them",
+                "target location",
+                "Middle East"
+            ],
+            [
+                "them",
+                "target location",
+                "United Arab Emirates"
+            ],
+            [
+                "them",
+                "target location",
+                "Saudi Arabia"
+            ],
+            [
+                "them",
+                "target location",
+                "India"
+            ],
+            [
+                "them",
+                "target location",
+                "Japan"
+            ],
+            [
+                "them",
+                "target location",
+                "Argentina"
+            ],
+            [
+                "them",
+                "target location",
+                "Philippines"
+            ],
+            [
+                "them",
+                "target location",
+                "South Korea"
+            ]
+        ]
+    },
+    {
+        "text": "We recently noticed the group behind MuddyWater that appear to be targeting government bodies, military entities, telcos and educational institutions in Jordan, Turkey, Azerbaijan and Pakistan, in addition to the continuous targeting of Iraq and Saudi Arabia, other victims were also detected in Mali, Austria, Russia, Iran and Bahrain..",
+        "triple_list": [
+            [
+                "MuddyWater",
+                "target industry",
+                "government bodies"
+            ],
+            [
+                "MuddyWater",
+                "target industry",
+                "military entities"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Iraq"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Saudi Arabia"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Mali"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Austria"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Russia"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Iran"
+            ],
+            [
+                "MuddyWater",
+                "target location",
+                "Bahrain"
+            ]
+        ]
+    },
+    {
+        "text": "We saw SectorJ04 group activity in Germany, Indonesia, the United States, Taiwan, India, France, Serbia, Ecuador, Argentina, South Korea, Japan, China, Britain, South Africa, Italy, Hong Kong, Romania, Ukraine, Macedonia, Russia, Switzerland, Senegal, the Philippines, UAE, Qatar, Saudi Arabia, Pakistan, Thailand, Bahrain, Turkey, Bulgaria, Bangladesh.",
+        "triple_list": [
+            [
+                "SectorJ04",
+                "target location",
+                "Germany"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Indonesia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "the United States"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Taiwan"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "India"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "France"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Serbia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Ecuador"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Argentina"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "South Korea"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Japan"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "China"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Britain"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "South Africa"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Italy"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Hong Kong"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Romania"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Ukraine"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Macedonia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Russia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Switzerland"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Senegal"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "the Philippines"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "UAE"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Qatar"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Saudi Arabia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Saudi Arabia"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Pakistan"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Thailand"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Bahrain"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Turkey"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Bulgaria"
+            ],
+            [
+                "SectorJ04",
+                "target location",
+                "Bangladesh"
+            ]
+        ]
+    },
+    {
+        "text": "We suspect the Kazuar tool may be linked to the Turla threat actor group (also known as Uroburos and Snake), who have been reported to have compromised embassies, defense contractors, educational institutions, and research organizations across the globe.",
+        "triple_list": [
+            [
+                "the Turla threat actor group",
+                "group alias",
+                "Uroburos"
+            ],
+            [
+                "the Turla threat actor group",
+                "group alias",
+                "Snake"
+            ],
+            [
+                "the Turla threat actor group",
+                "tools to use",
+                "the Kazuar"
+            ],
+            [
+                "the Turla threat actor group",
+                "target industry",
+                "compromised embassies"
+            ],
+            [
+                "the Turla threat actor group",
+                "target industry",
+                "defense contractors"
+            ],
+            [
+                "the Turla threat actor group",
+                "target industry",
+                "educational institutions"
+            ],
+            [
+                "the Turla threat actor group",
+                "target industry",
+                "research organizations across the globe"
+            ]
+        ]
+    },
+    {
+        "text": "When we last heard from the Trojan, its operators were seen launching redirection attacks on four large, U.S. banks in June.",
+        "triple_list": [
+            [
+                "operators",
+                "target industry",
+                "U.S. banks"
+            ],
+            [
+                "its operators",
+                "tools to use",
+                "Trojan"
+            ],
+            [
+                "operators",
+                "attack time",
+                "June"
+            ],
+            [
+                "its operators",
+                "target group",
+                "four large, U.S. banks"
+            ],
+            [
+                "its operators",
+                "attack time",
+                "June"
+            ]
+        ]
+    },
+    {
+        "text": "While the most recent samples observed still use batch scripts and SFX files, the Gamaredon Group has moved away from applications like wget, Remote Manipulator Tool, VNC and ChkFlsh.exe.",
+        "triple_list": [
+            [
+                "Gamaredon",
+                "tools to use",
+                "batch scripts"
+            ],
+            [
+                "Gamaredon",
+                "tools to use",
+                "SFX files"
+            ],
+            [
+                "Gamaredon",
+                "tools to use",
+                "wget"
+            ],
+            [
+                "Gamaredon",
+                "tools to use",
+                "Remote Manipulator Tool"
+            ],
+            [
+                "Gamaredon",
+                "tools to use",
+                "VNC"
+            ],
+            [
+                "Gamaredon",
+                "tools to use",
+                "ChkFlsh.exe"
+            ]
+        ]
+    },
+    {
+        "text": "While this criminal organization's activities now center around BEC, and extend to romance scams, credit card fraud, check fraud, fake job listings, credential harvesting, tax schemes, and more, these actors came from much humbler beginnings, starting with basic Craigslist scams in 2008.",
+        "triple_list": [
+            [
+                "criminal organization",
+                "attack method",
+                " BEC"
+            ],
+            [
+                "criminal organization",
+                "attack operation name",
+                "romance scams"
+            ],
+            [
+                "criminal organization",
+                "attack operation name",
+                "credit card fraud"
+            ],
+            [
+                "criminal organization",
+                "attack operation name",
+                "check fraud"
+            ],
+            [
+                "criminal organization",
+                "attack operation name",
+                "fake job listings"
+            ],
+            [
+                " criminal organization",
+                "attack operation name",
+                "credential harvesting"
+            ],
+            [
+                "criminal organization",
+                "attack operation name",
+                "tax schemes"
+            ],
+            [
+                "criminal organization",
+                "first discovered time",
+                "2008"
+            ]
+        ]
+    },
+    {
+        "text": "Wild Neutron hit the spotlight in 2013, when it successfully infected companies such as Apple, Facebook, Twitter and Microsoft.",
+        "triple_list": [
+            [
+                "Wild Neutron",
+                "target group",
+                "Apple"
+            ],
+            [
+                "Wild Neutron",
+                "target group",
+                "Facebook"
+            ],
+            [
+                "Wild Neutron",
+                "target group",
+                "Twitter"
+            ],
+            [
+                "Wild Neutron",
+                "target group",
+                "Microsoft"
+            ],
+            [
+                "Wild Neutron",
+                "attack time",
+                "2013"
+            ]
+        ]
+    },
+    {
+        "text": "Wild Neutron's tools include a password harvesting trojan, a reverse-shell backdoor and customized implementations of OpenSSH, WMIC and SMB.",
+        "triple_list": [
+            [
+                "Wild Neutron",
+                "tools to use",
+                "password harvesting trojan"
+            ],
+            [
+                "Wild Neutron",
+                "tools to use",
+                "reverse-shell backdoor"
+            ],
+            [
+                "Wild Neutron",
+                "tools to use",
+                "OpenSSH"
+            ],
+            [
+                "Wild Neutron",
+                "tools to use",
+                "WMIC"
+            ],
+            [
+                "Wild Neutron",
+                "tools to use",
+                "SMB"
+            ]
+        ]
+    },
+    {
+        "text": "Winnti is attacking companies in Japan, France, the U.S. and Germany.",
+        "triple_list": [
+            [
+                "Winnti",
+                "target location",
+                "Japan"
+            ],
+            [
+                "Winnti",
+                "target location",
+                "France"
+            ],
+            [
+                "Winnti",
+                "target location",
+                "Germany"
+            ],
+            [
+                "Winnti",
+                "target location",
+                "Japan"
+            ],
+            [
+                "Winnti",
+                "target location",
+                "France"
+            ],
+            [
+                "Winnti",
+                "target location",
+                "U.S. "
+            ],
+            [
+                "Winnti",
+                "target location",
+                "Germany"
+            ]
+        ]
+    },
+    {
+        "text": "Working backwards from each Internet address, I was able to see that in the last few months of 2018 the hackers behind DNSpionage succeeded in compromising key components of DNS infrastructure for more than 50 Middle Eastern companies and government agencies, including targets in Albania, Cyprus, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Saudi Arabia and the United Arab Emirates.",
+        "triple_list": [
+            [
+                "DNSpionage",
+                "target group",
+                "Middle Eastern companies"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Albania"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Cyprus"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Egypt"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Iraq"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Jordan"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Kuwait"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Lebanon"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Libya"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Saudi"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "Arabia"
+            ],
+            [
+                "DNSpionage",
+                "target location",
+                "United Arab Emirates"
+            ]
+        ]
+    }
+]

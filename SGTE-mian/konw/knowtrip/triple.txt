@@ -1,0 +1,3911 @@
+"MyWeb" malware family
+1.bat
+1.php
+10.489 bitcoins
+109.235.50[.]191
+109.235.51[.]110
+111[.]68[.]9[.]93
+122.10.36.94
+127.0.0.1
+128.127.105.13
+12th Bureau
+139.59.46.154:3543
+142.44.236.215
+146.0.72.188
+154.127.59.97
+16,000 ZEC
+173.254.236[.]158
+185.20.187.89
+194.126.10[.]18
+1972
+200 government agencies
+2001
+2004
+2007
+2008
+2009
+2010
+2010-2011
+2011
+2012
+2013
+2014
+2015
+2015 and 2016
+2015 and 2018
+2015 to 2019
+2016
+2016 and 2017
+2016 and 2018
+2017
+2017 and 2018
+2017 and early 2018
+2017-05-05 until 2019-03-13
+2018
+2019
+221.216.0.0/13
+24 North American banks
+300kb+ SPLM
+302 HTTP redirections
+360
+360 Core Security
+360 Helios Team
+360 Threat Intelligence Center
+360-CERT
+3rd General Staff Department
+58.65[.]143[.]244
+66[.]153[.]86[.]14
+705.80 BTC
+80.82.79.221
+80.82.79.240
+82.137.255.56
+87.121.52.83
+ADORE.XSEC
+AES
+AIX
+ALFA Shell
+ALFA TEaM Shell
+ALLANITE
+APAC
+APAC region
+APT
+APT 27
+APT 28
+APT 40
+APT actor
+APT campaigns
+APT gang
+APT group
+APT groups
+APT techniques
+APT threat actors
+APT-12
+APT-C-06
+APT-C-09
+APT-C-23
+APT-C-26
+APT-C-27
+APT-C-35
+APT-style
+APT1
+APT10
+APT10 actors
+APT12
+APT15
+APT16
+APT17
+APT18
+APT19
+APT2
+APT20
+APT27
+APT28
+APT29
+APT3
+APT30
+APT32
+APT33
+APT34
+APT35
+APT37
+APT38
+APT39
+APT40
+APT41
+APT5
+APT6
+ASERT
+ASPXTool web shells
+ATM cyber heists
+ATM networks
+ATMs
+AWS CBR
+AZZY
+Academy
+ActiveMime
+Actors
+Admin@338
+Adobe Flash Player exploit
+Adobe Flash Player zero-day
+Adobe Flash Player zero-day vulnerability
+Adobe Gh0st
+AdroMut
+Advanced Practices teams
+Advanced Threat Research
+Advpack.dll
+AdwindRAT
+Aerospace
+Aerospace/Defense Contractors
+Afghanistan
+Africa
+African
+African country
+Agari
+Agari Cyber Intelligence Division
+Agent_Drable
+Agriculture
+AhnLab
+Ajax Security
+Albania
+Algeria
+All three waves
+Amadey
+Ammy Admin
+AmmyAdmin tool
+Anchor Panda
+AndroMut
+AndroRAT
+Android Malware
+Android phone
+Animal Farm
+Animal Farm group
+Antiy Lab
+Anunak
+Anunak malware campaign
+Apple
+April
+April of 2014
+Arabia
+Arabic
+Arbor
+Argentina
+Armenia
+Ashiyane
+Asia
+Asia Pacific
+Asia-Pacific
+Asia-Pacific region
+Asian
+Asian government organization
+Asian market
+Assassin
+Asset
+Atmosphere
+Attackers
+August
+August 2 and 4
+August 22 and September 4, 2014
+August 26th
+Aurora
+Australia
+Australian web hosting providers
+Austria
+Authenticode-signing certificates
+AutoHotKey
+AutoIT droppers
+Axiom
+Axiom group
+Axiom threat group
+Azerbaijan
+BAE
+BAE Systems
+BARIUM
+BASF
+BASF and Siemens networks
+BBSRAT
+BEACON backdoor
+BEC
+BIFROSE
+BISCUIT
+BITSAdmin CLI
+BITTER APT
+BKDR_BINLODR.ZNFJ-A
+BLACKCOFFEE
+BLACKGEAR
+BMW
+BONDUPDATER
+BOSS SPIDER
+BROKEYOLK
+BRONZE BUTLER
+BRONZE UNION
+BS2005
+BS2005 backdoors
+BUBBLEWRAP
+Babar
+Backdoor
+Backdoor.APT.Aumlib
+Backdoor.APT.FakeWinHTTPHelper
+Backdoor.APT.Ixeshe
+Backdoor.APT.Pgift
+Backdoor.APT.PittyTiger
+Backdoor.Cadelspy
+Backdoor.Doublepulsar
+Backdoor.Hikit
+Backdoor.Moudoor
+Backdoor.Nidiran
+Backdoor.Remexi
+Backdoor.Remexi.B
+Backdoor.Sogu
+Backdoor.Sorgu
+Backdoor.Win32.Denis
+Backdoor.Win32.FLOWERPIPPI.A
+Backdoors
+Badnews malware
+Bahamut
+Bahrain
+Baidu search engine
+BalkanDoor
+BalkanDoor backdoor
+BalkanRAT
+Balkans
+Baltic and Central Europe countries
+Bangkok
+Bangladesh
+Bangladesh Central Bank
+Bangladesh central bank
+Bank of Valetta
+Banking
+Bankshot
+Barium
+Barium Defendants
+Barlaiy" and "PlugXL
+Bayer pharmaceutical group
+BeEF
+Beacon
+Beginads.com
+Beginning in July 2018
+Beginning in early March 2018
+Behzad Mesri
+Beijing
+Belarus
+Belgium
+Bemstour
+Between April 1, 2018 and May 30, 2018
+Between February and March 2019
+Between July 2015 and February 2016
+Between May 2017 and December 2018
+Between November 26, 2015, and December 1, 2015
+Binders
+BitDefender
+BitPaymer
+BitPaymer ransomware
+Bitcoin companies
+Bitcoin mining malware
+Bitcoin users
+Bitcoin-stealing phishing campaign
+Bitdefender
+Bitly
+Bitter
+Black Energy
+BlackEnergy
+BlackEnergy 3
+BlackEnergy and GCat
+BlackLambert
+BlackOasis
+BlackTech
+BlackTech group
+BlackWater
+Blackberry
+Blackfly
+Blackgear
+Blue Coat Systems
+Blue Termite
+BlueNoroff
+Bluenoroff
+BokBot
+Bondupdater
+Bookworm
+Bosnia
+Boyusec
+Brazil
+Brazil-based embassy
+Brazilian
+Brazilian cyber crime group
+Britain
+Brunei
+Brussels
+Brutal Kangaroo
+Buckeye
+Buhgalter
+Buhtrap
+Bulgaria
+Burkina Faso
+Butterfly
+BuzzFeed
+C&C server
+C2 infrastructure
+C2 server
+CARBANAK
+CARBANAK malware
+CCleaner
+CERT 360
+CHM files
+CHOPSTICK
+CIA
+CIS
+CIS countries
+CLASSFON
+CMD/PowerShell terminal
+CNIIHM
+COBALT GYPSY
+COBALT TRINITY
+COCCOC
+COMMENT PANDA
+CONFUCIUS_A
+CORESHELL
+COVELLITE
+CROSSWALK
+CROSSWALK.BIN
+CSS
+CTU
+CVE 2012-0158
+CVE software vulnerabilities
+CVE-2010-0738
+CVE-2010-3333
+CVE-2010-3962
+CVE-2011-3544
+CVE-2012-0158
+CVE-2012-0773
+CVE-2013-3660
+CVE-2014-1761
+CVE-2014-1776
+CVE-2014-4148
+CVE-2014-6332
+CVE-2014-6352
+CVE-2015-1641
+CVE-2015-2545
+CVE-2015-2546
+CVE-2015-2590
+CVE-2015-5119
+CVE-2016-0147
+CVE-2016-0189
+CVE-2016-4117
+CVE-2017- 11882
+CVE-2017-0144
+CVE-2017-0145
+CVE-2017-0199
+CVE-2017-0261
+CVE-2017-0262
+CVE-2017-0263
+CVE-2017-11882
+CVE-2017-7269
+CVE-2017-8570
+CVE-2017-8759
+CVE-2018-0798
+CVE-2018-0802
+CVE-2018-1000861
+CVE-2018-20250
+CVE-2018-8120
+CVE-2018-8174
+CVE-2018-8414
+CVE-2018-8440
+CVE-2019-0604
+CVE-2019-1003000
+CVE-2019-1132
+CVNX
+Cadelle
+Cafax
+California
+Callisto
+Callisto Group
+Cambodia
+Canada
+Canadian
+Canadian audiences
+Canadian organizations
+Cannon
+CapabilitiesFormBook
+CapturaTela
+Captured legitimate user credentials
+Carbanak
+Carbanak 2.0
+Carbanak Group
+Carbanak group
+Carberp
+Carbon
+Carbon Spider
+Careto
+Central America
+Central Asia
+Central and Southeast Asia
+Central and Southwest Asia
+Central and Western Europe
+ChChes
+Chafer
+ChangeIP.com
+Charming Kitten
+Check Point
+Chile
+ChimayRed
+China
+China Chopper
+China Chopper webshell
+China and US relations experts
+China's maritime institutions
+China-based
+China-based APT groups
+China-based actors
+Chinastrats
+Chinese
+Chinese and English
+Chinese cyber
+Chinese dissident groups
+Chinese espionage group
+Chinese espionage operators
+Chinese government
+Chinese hackers
+Chinese hacking
+Chinese hacking groups
+Chinese intelligence agency
+Chinese nationals
+Chinese nationals within different industries
+Chinese origin
+Chinese origins
+Chinese source groups
+Chinese state intelligence apparatus
+Chinese state-sponsored
+Chinese state-sponsored cyber
+Chinese state-sponsored espionage activity
+Chinese threat groups
+Chinese universities
+Chinese-based
+Chinese-speaking
+Chitpas
+ChkFlsh.exe
+Choopa
+Chrome installers
+Chronicle
+Cisco Talos
+Cisco telemetry
+Citizen Lab
+Citrix
+Citrix Systems Inc
+Citrix remote desktop
+Citrix' internal network
+Citrix's network
+ClaySlide delivery documents
+ClaySlide samples
+Clayslide
+ClearSky
+Cleaver
+Clever Kitten
+Cloud Atlas
+CloudDuke
+CnC communications
+CnC-3 server
+Cobalt
+Cobalt Group
+Cobalt Strike
+Cobalt Strike beacon
+CobaltGoblin
+CobaltStrike
+CobaltStrike framework
+Cold River
+Colombia
+Colombian government agencies
+Colorado
+ComRAT
+Comodo
+Comodo code-signing certificates
+Confucius
+Confucius groups
+ConfuserEx Fixer
+ConfuserEx Switch Killer
+CopyKittens
+CopyKittens2
+CopyPaste
+Corkow
+Corkow Trojan
+CosmicDuke
+Costin Raiu
+Cotx RAT
+CozyDuke
+Crackmapexec
+Crackmapexec scripts
+Crambus
+Create Media application
+Croatia
+CrowdStrike
+Crowdstrike
+Crypto-Currency
+Cutthroat
+Cyber Security Companies
+Cyber Squared's TCIRT
+CyberBerkut
+CyberInt
+Cybereason
+Cylance
+Cyprus
+Cys Centrum
+DDE protocol
+DDKONG
+DDoS
+DDoS attacks
+DDoS botnet tools
+DDoS botnets, keyloggers, remote access tools (RATs), and wiper malware
+DHS
+DLL hijacking
+DLL hijacking and injection
+DLL load order hijacking
+DLL search order hijacking
+DLL side loading
+DLL sideloading technique observed
+DLL sideloading techniques
+DNC
+DNS
+DNS attack technique
+DNS hijacks
+DNS lookups
+DNS poisoning
+DNS registries
+DNS tunneling
+DNSMessenger
+DNSpionage
+DOGCALL
+DPRK
+DRAGONFISH
+DROPSHOT
+DYEPACK
+DYNCALC
+Dagger Panda
+DanBot
+DanaBot
+Daniel Bohannon's Invoke-Obfuscation framework
+Daniel Ek
+Danish Ministry of Foreign Affairs
+Dark Hydruns
+DarkHotel
+DarkHydrus
+Daserf
+Datper
+Deep Discovery
+DeepSight
+DeepSight MATI team
+DeepSight Managed Adversary
+Deepen
+Defense
+Defense Department entities
+Delivering a backdoor and spyware
+Dell SecureWorks
+Delphi
+Department of Homeland Security
+Depriz
+Deputy Dog
+DeputyDog
+Desert Falcons
+Destover
+Detection
+Digicert
+Digital Economy
+Dipsind
+Dipsind and its variants
+Django python
+DoNot Team
+Donetsk
+Donot
+Donot APT group
+Donot group
+DoublePulsar
+DragonOK
+Dragonfly
+Dragos
+Dragos Security
+Dragos WorldView
+Dridex
+Dridex banking trojan
+DropIt
+Dropbox
+Dropping Elephant
+Dubai
+Dukes
+During the summer of 2018
+DustSquad
+DustySky
+Dynamic DNS
+EDA agent
+ELMER
+ESET
+ETERNALBLUE
+EU
+EVILTOSS
+Earworm
+East Asia
+East and Southeast Asia
+EastNets
+Eastern Europe
+Eastern European
+Eastern European countries
+Eastern European government
+Ecuador
+Ecuadorean military
+Egypt
+El Machete
+Elderwood Gang
+Elderwood Project
+Elfin
+Elirks backdoor
+Elise
+EmailStealer
+Emissary
+Emissary Panda
+EmissaryPanda
+Emotet
+Empire
+EmpireMonkey
+Energy
+Enfal Trojan
+English
+English speaking countries
+Epic
+Epic Turla
+Epic backdoor
+Equation
+Equation Group
+Equation Group hacks
+Equation Group tools
+Erebus
+Escad
+Eset
+EternalBlue
+EternalBlue exploit
+Europe
+Europe, East Asia, and North America
+European
+European countries
+European diplomatic
+European entities
+European foreign
+European headquarters
+European pharmaceutical firms
+European security and defense-themed lure
+European-based cryptocurrency company
+Evil New Year
+EvilGnome
+Excel and Word documents containing malicious macros
+Excel document
+Excel documents with macros
+Execute
+F-Secure Antivirus
+FALLCHILL
+FANCY BEAR
+FASTCash
+FASTCash attacks
+FBI
+FFRAT
+FIF
+FIN10
+FIN6
+FIN7
+FIN7 TTPs
+FaaS team
+Facebook
+FakeM
+Falcon
+Fancy Bear
+Fatah political party
+Feb and March of 2012
+February
+February 2016 incident
+February and March 2019
+Felismus
+Fetch
+FinCERT
+FinFisher
+FinSpy
+Financial Exchange banks
+Fine Dining
+Finland
+FireEye
+FireEye Exploit Guard customers
+FireEye ISIGHT Intelligence
+FireEye Intelligence
+FireEye Labs
+FireEye iSIGHT Intelligence
+FireEye's Advanced Practices and Intelligence teams
+Flamer
+Flash
+Flash (.swf) exploit
+Flash Player exploit
+Flash exploits
+Flash installation application
+Flash zero day
+FlawedAmmy RAT
+Florida
+FlowerPippi
+Flying Kitten
+Foreign Government Entities
+Foreign Information Operations
+Foreign Intelligence Agencies
+FortiGuard
+FortiGuard Labs
+Forum iFin-2019
+Fox-IT
+France
+Frankfurt
+French
+From 16 October 2018 to 1 January 2019
+From 2016 through 2017
+From August 2016 to August 2017
+From February to September 2016
+From November 2015 through the end of 2016
+From late April to early May
+From mid-2016 through early 2017
+From mid-2017 to mid-2018
+FrozenCell
+FuzzBunch
+Fuzzbunch framework
+Fxmps
+Fxmsp
+G20
+G20 meetings
+GCHQ
+GCMAN
+GCMAN group
+GEARSHIFT
+GOLD LOWELL
+GREF
+GRIM SPIDER
+Gallmaker
+Gamaredon
+Gamaredon Group
+Gamaredon group
+Gameforge
+Gamma Group
+GandCrab
+Gaza Cybergang
+Gaza Cybergang Group1
+Gaza Cybergang Group3
+Gaza Team
+Gaza cybergang
+Gazer
+GeminiDuke
+Geodo
+German
+Germany
+GetDriveTypeW
+GetIpNetTable
+Gh0st RAT
+Gh0st RAT 3.6
+Ghost Dragon
+GitHub
+GlobeImporter
+Gobelin Panda
+Gold Lowell
+Goldmouse
+Google
+Gorgon
+Gorgon Group
+Gorgon Group members
+Gorgon group
+Gothic Panda
+Government
+Government, Defense
+Governments
+GozNym
+Greece
+Green Spot
+Greenbug
+Group
+Group 123
+Group 27
+Group-IB
+Group-IB's Silence
+Group123
+Guangdong ITSEC
+Guangdong Province
+Guardians of Peace
+HANGOVER group
+HBGary
+HBO
+HELIX KITTEN
+HIDDEN COBRA
+HIDDEN COBRA actors
+HIGHNOON
+HIGHNOON backdoor
+HIGHNOON.CLI
+HIGHTIDE
+HIVE
+HOMEUNIX
+HOMEUNIX backdoor
+HR staff
+HTRAN
+HTRAN proxies
+HTTP
+HTTP protocol
+HTTPBrowser
+HUC Packet Transmit Tool
+HWP document
+Hackers
+Hacking Team
+HackingTeam
+Hammer Drill
+HammerDuke
+Hancitor
+Hancom Office
+Hangman
+HaoBao
+Hardware
+Havij Advanced SQL Injection Tool
+HawkEye
+HeartBleed vulnerability
+Hellsing
+Helminth
+Helminth Trojan
+Henkel
+HerHer Trojan
+Hermes
+Herzegovina
+Hidden Cobra
+Hidden Lynx
+Honeybee
+Honeybee campaign
+Hong Kong
+Hong Kong and Taiwan-based media organizations
+Hong Kong government
+Hong Kong media
+Hong Kong media companies
+Hong Kong media organizations
+Hong Kong media outlets
+Hong Kong-based media organizations
+HttpBrowser
+HttpBrowser backdoor
+Huaying Haitai Science
+Hunter web application scanning tool
+Hussarini
+HyperBro
+HyperBro backdoor
+I
+IBM X-Force IRIS
+IBM's X-Force team
+ICEFOG
+ICS
+ICS industry
+IEAdvpack.dll
+IFOBS system
+INDRIK SPIDER
+INF ?les
+IRIDIUM
+ISMAgent
+ISMDoor
+IT
+IT bank employees
+IT departments of small to large-sized organizations
+IT firm
+IT firms
+IT personnel
+IT service providers
+IT services
+IT services agencies
+IT software
+ITG08
+ITSec community
+ITUC
+IWebBrowser2 COM interface
+IXESHE
+IcedID
+Icefog
+Illinois
+Immigration Services
+In 2015 and 2016
+In 2018
+In July 2017
+In July 2018
+In June
+In May 2016
+In May 2018
+In October 2012
+In October 2015
+In October 2018
+In late July
+India
+Indian
+Indian APT group
+Indian and Saudi Arabian government organizations
+Indian military officials
+Indian shipping company
+IndigoZebra
+Indonesia
+Indrik Spider
+Information Technology
+Infostealer.Catchamas
+Infy
+Infy actors
+Infy message
+Infy's campaigns
+Initial attack
+Insikt Group
+Internet Explorer
+Internet Information Server
+Intezer
+Invoke-Obfuscation
+Invoke-PSImage
+Iran
+Iran Black Hats
+Iran-based
+Iran-based hacking group
+Iran-nexus
+Iranian
+Iranian Cyber Army
+Iranian actors
+Iranian civil society
+Iranian dissidents
+Iranian individuals
+Iranian nexus
+Iranian spy group
+Iranian threat group
+Iranian-nexus
+Iranians
+Iraq
+Iron Tiger
+Iron cybercrime
+Iron ransomware
+IronStealer
+Islamic Cyber Resistance Group
+Islamic Republic of Iran
+Ismdoor
+Israel
+Israeli
+Israeli High-Tech
+Israeli IT vendors
+Israeli Post Office
+Israeli websites
+It
+Italian
+Italy
+Ivoke
+Izz ad-Din al-Qassam Cyber Fighters
+JAR
+JBoss
+JEEPFLEA
+JHUHUGIT
+JKEYSKW
+JOY RAT
+JQJIMPROVISE
+Jack Dorsey
+Jammu and Kashmir border region
+January 2-16
+January and February
+Japan
+Japanese
+Japanese Internet
+Japanese corporations
+Japanese entities
+Japanese financial and high-tech companies
+Japanese institutions
+Japanese media organization
+Japanese organizations
+Japanese users
+Japanese websites
+Java exploits
+Java zero-day
+JavaScript
+JavaScript backdoor
+Javafog
+JbossMiner Mining Worm
+Jerusalem Post
+Jiangsu Province
+Jilin Province
+Jordan
+Jripbot
+July
+July 2017
+July ?4, ?2017
+July and August 2016
+June
+June of 2012
+KARAE
+KEYLIME
+KHNP
+KHRAT
+KIVARS
+KOMPROGO
+KONNI
+Kashmir
+Kashmiri Voice
+Kaspersky
+Kaspersky Lab
+Kaspersky Lab's Vyacheslav Zakorzhevsky
+Kaspersky antivirus variants
+Kazahkstan
+Kazakhstan
+Kazuar
+Ke3chang
+Ke3chang CnC
+Ke3chang attackers
+Ke3chang campaign
+Ke3chang group
+Kelihos
+Kessem
+Ketrican 2017 backdoor
+KeyBase
+KillDisk
+KiloAlfa
+Kimsuky
+Kingphish
+Komplex
+KopiLuwak
+Korea
+Korean
+Korean peninsula
+KrebsOnSecurity
+Kurdish activists
+Kuwait
+Kwampirs
+Kyaukphyu sez
+Kyrgyzstan
+LANDesk
+LATAM
+LATINUM
+LAZARUS GROUP
+LAZARUS toolkits
+LEAD
+LINE
+LLC
+LOWBALL
+LUCKY ELEPHANT
+LUCKY ELEPHANT campaign
+LUNAR SPIDER
+LYCEUM
+LYCEUM threat group
+LaZagne
+Lab 110
+Lambert
+Lamberts
+Laos
+Latin America
+Latin American
+Latin American countries
+Lazarus
+Lazarus Group
+Lazarus attacks
+Lazarus group
+Lead
+Leafminer
+Lebanon
+Lench IT Solutions
+Leouncia malware
+Leviathan
+Liaoning Province
+Liason Asset
+Libya
+LightNeuron
+Like BlackEnergy
+Lima
+Linux
+Linux coin mining campaign
+Linux computers
+Linux.GreedyAntd
+Lithuania
+LoJax
+Locky
+LogMeIn
+Logistics
+Lokibot
+Longhorn
+LotL tactics
+Lotus Blossom
+LoveChat
+Lua modules
+LuckyMouse
+LuckyMouse Chinese-speaking actor
+Luhansk People's Republics
+Lurk
+M-Trends 2018
+MACKTRUCK
+MAKERSMARK
+MENA region
+MI5/BTSS
+MOD
+MONSOON
+MS Office exploits
+MS SQL injection
+MSIL dropper
+MSP
+MSPs
+MSR 606 Software
+MSS
+MSUpdater
+MUDDYWATER
+MUMMY SPIDER
+MUSTANG PANDA
+MYTHIC LEOPARD
+Mac OS X
+Macedonia
+Machete
+Madi
+Magic Hound
+MagicHound.Rollover
+Magnitude EK
+Magnitude EK activity
+Malaysia
+Maldives
+Malefactors
+Mali
+Malware
+Malwarebytes
+Man-in-the-Disk
+Mandiant
+Manufacturing
+Many groups
+March 2016
+March 2017 until November 2018
+Mark Zuckerberg
+Marvel
+Mashhad
+May
+May of 2016
+McAfee
+McAfee Advanced Threat Research
+Media
+Medusa
+MenuPass
+Messenger
+Metasploit
+Metasploit shellcode and drops
+Metel
+Meterpreter
+Mevade
+Mia Ash
+Microsoft
+Microsoft Active Directory compromises
+Microsoft Office Dynamic Data Exchange (DDE) protocol
+Microsoft Office documents containing macros or exploits
+Microsoft Office vulnerabilities
+Microsoft Office vulnerability CVE-2017-11882
+Microsoft Outlook
+Microsoft Outlook 365 login pages
+Microsoft Word
+Microsoft Word attachment exploiting
+Microsoft customers
+Microstep Intelligence Bureau
+Middle East
+Middle East organization
+Middle East region
+Middle East top-level domains
+Middle Eastern
+Middle Eastern companies
+Middle Eastern company
+Middle Eastern critical infrastructure engineering firms
+Middle Eastern financial company
+Middle Eastern government
+Middle Eastern government agency
+Middle Eastern government organizations
+Middle Eastern governmental organization
+Middle Eastern human rights activist
+Middle Eastern nations
+Middle Eastern organizations
+Mikrotik
+Mimikatz
+MiniDuke
+Ministries of foreign affairs
+Ministry of Defense of Georgia
+Ministry of State Security
+Missouri
+Moafee
+Mofang
+Molerats
+Molerats attacks
+MoneyTaker
+MoneyTaker group
+Mongolia
+Mongolia-focused NGOs
+Monsoon
+Montenegro
+MoonWind
+More_eggs
+More_eggs JScript backdoor
+More_eggs backdoor
+Morocco
+Morphisec
+Morpho
+Morroco
+Moscow
+Msoffice365cdn[.]com
+MuddyWater
+MuddyWater attacks
+MuddyWaters
+Multi-Stage Backdoors
+Multiple Dipsind variants
+Muslim activists
+MyDoom worm
+MyWeb
+Myanmar
+Myntor
+NANOCORE
+NCC
+NCC Group
+NEODYMIUM
+NESTEGG
+NETWIRE
+NGO
+NHS
+NICKEL ACADEMY
+NSA
+NSIS installers
+NTG
+Naikon
+Naikon APT
+Naikon group
+Naikon proxies
+Nasr Institute
+National Security Agency
+NavRAT
+Navy
+Nbtscan
+Neodymium
+Nepal
+NetNod
+NetSarang
+NetSrv
+NetTraveler
+NetTraveler Trojan
+Network Speed Master
+New York
+New York Times and Mandiant
+NewsBeef
+Newscaster Team
+Nickel Academy
+Nidiran
+Nidiran back door
+Nigeria
+Night Dragon
+Nishang
+Niteris
+Nitris Exploit Kit
+Nitro
+NjRat
+NoFuserEx
+Nokia
+Norman
+North Africa
+North African
+North America
+North American
+North American users
+North Carolina
+North Korea
+North Korea's worsening financial condition
+North Korea-related topics
+North Korean
+North Korean defectors
+North Korean government
+North and South America
+November 17, 2016 at 8:45 p.m
+Novetta
+Numbered Panda
+Nymaim
+OS X devices
+OSB
+OT environments
+OT staff
+Obtaining access to this ccTLD registrars
+OceanLotus
+Oceania
+Oct. 24 at 08:00
+October 18th, 2018
+October 2017
+Octopus
+Office 39
+Office VBA macro
+Office exploit
+Oil sectors
+OilRig
+OilRig C2
+Oilrig
+Oilrig1
+Oklahoma
+Okrum
+Olympic organizations
+Oman
+On 16 January 2019
+On January 8, 2018
+OnionDuke
+OnionDuke,
+OpenSSH
+Operation Aurora
+Operation Cleaver
+Operation Cloud Hopper
+Operation Daybreak
+Operation Erebus
+Operation GhostSecret
+Operation Ghoul
+Operation Groundbait
+Operation Kingphish
+Operation Lotus Blossom
+Operation Parliament
+Operation Pawn Storm
+Operation Sheep
+Operation Soft Cell
+Opsec
+Orangeworm
+Order_2018.jar
+Our
+Our analysis
+OurMine
+Outlook Backdoor
+Over the past few years
+Over the summer
+OwaAuth web shell
+PCAD
+PCShare
+PH
+PHOREAL
+PHOTO
+PICKPOCKET
+PINCHY SPIDER
+PIVY
+PIVY attacks
+PLA Unit 61398
+PLAINTEE
+PLAINTEE malware
+PLATINUM
+PLEAD
+POISONPLUG
+POSHSPY
+POWERSTATS
+POWRUNER
+POWRUNER PowerShell-based backdoor
+PR companies
+PROMETHIUM
+PUPYRAT backdoor
+PUTTER PANDA
+Pacha
+Pakistan
+Pakistan actors
+Pakistani
+Pakistani businessman
+Pakistani businessmen working in China
+Pakistani staffs and institutions in China
+Paladin RAT
+Palestine
+Palestinian government agencies
+Palestinian political problems
+Palestinian students
+Palmetto Fusion
+Palo Alto
+Palo Alto Networks
+Panda Banker
+Panda attacks
+PapaAlfa
+Parastoo
+PassCV
+PassCV group
+PassKillDisk
+Password spraying
+PatchSky
+Patchwork
+Patchwork group
+Pawn Storm
+Pentest framework Server
+People's Republic of China
+Periscope
+Perl IRC bot
+Persian-language speakers
+Philippines
+PinchDuke
+Pinchy Spider
+Pitty Tiger
+Pitty Tiger group
+PittyTiger
+Playful Dragon
+Plead malware
+PlugX
+PlugX DLL
+PlugX malware
+Poetry
+Poison Ivy
+Poison Ivy RAT
+Poison Ivy malware
+Poland
+Polish banks
+Political entities
+Poseidon
+Poseidon Group
+Positive Technologies
+Potao
+PowerShell
+PowerShell Trojan
+PowerShell commands
+PowerShell in-memory loaders
+PowerShell script
+PowerShell scripts
+PowerSploit
+Powermud
+Powermud backdoor
+Powershell Empire
+Prince of Persia
+Prior to April 2018
+Process Doppelg?nging
+ProjectSauron
+Proofpoint
+PsExec
+Public cloud infrastructure
+PublicDomainRegistry.com
+PulseAudio
+Pupy
+Pupy backdoor
+Pupy tools
+Pussy Riot
+Putter Panda
+Putty
+PwC
+PwC UK
+PwDump
+PwDump6
+Python script
+Q1 2015
+Qatar
+Qatari labor rights advocates
+QiAnXin
+Quasar RAT
+Quedagh
+RANCOR
+RASPITE
+RAT
+RAT tools
+RATANKBA
+RATs
+RATs and staging malware
+RBS
+RC4
+RC4 algorithm
+RCS Galileo
+RDP connection
+RDP sessions
+REDBALDKNIGHT
+RGDoor
+RIPTIDE
+RMS
+ROCKBOOT
+ROKRAT
+RSA
+RTF weaponizer
+RUAG
+RUHAPPY
+Raiu
+Rancor
+Ransom
+Rapid7
+Reaper
+Recorded Future
+Red Apollo
+RedLeaves
+RedOctober
+RemCom
+Remexi
+Remote Manipulator System (RMS) RAT
+Remote Manipulator Tool
+RemoteExec
+Remsec
+Republic of Belarus
+Republic of Korea
+Research
+Researchers
+Resecurity
+Responder
+Retail industries
+RevengeRAT
+Rising Sun
+Rocke
+Rocket Kitten
+Romania
+Romeo
+Royal APT
+RoyalDNS
+Russia
+Russia and neighboring countries
+Russian
+Russian Federation
+Russian Government
+Russian President Vladimir Putin
+Russian bank
+Russian banks
+Russian banks and software
+Russian businesses
+Russian criminal organization
+Russian cybercriminal
+Russian financial establishments
+Russian government
+Russian language
+Russian research institutions
+Russian state-sponsored
+Russian- and English-speaking underground communities
+Russian-based
+Russians
+Ryuk
+Ryuk ransomware
+SA
+SANS
+SEDNIT
+SFX files
+SID
+SIGHT Partners
+SIS
+SLOWDRIFT
+SLUB
+SMB
+SMB vulnerabilities
+SMBs
+SNOWGLOBE
+SOGU
+SOUNDBITE
+SOURFACE
+SOURFACE downloader
+SPEAR
+SPLM
+SQL injection
+SQLi
+SQLi Dumper version 7.0
+STARDUST CHOLLIMA
+STOLEN PENCIL
+STRAITBIZARRE
+STRONTIUM
+SWAnalytics
+SWC
+SWC attacks
+SWCs
+SWEED
+SWIFT
+SamSam
+SamSam ransomware
+Samsung
+Samsung smart TVs
+Samurai Panda
+Sandworm
+Sandworm Team
+Sandworm, Quedagh
+Saudi
+Saudi Arabia
+Saudi Arabian
+Saudi Arabian organizations
+Saudi government institutions
+Saudi organizations
+ScarCruft
+ScarCruft APT
+Scarcruft
+Scarlet Mimic
+Scattered Canary
+Scattered Canary'
+Scout
+Sea Turtle
+SeaDuke
+SectorJ04
+SectorJ04 group
+Secure Socket Layer
+SecureWorks
+Secureworks
+Sednit
+Seedworm
+Senegal
+September 2016 and March 2017
+Serbia
+ServHelper
+Several RATs
+Shabgard
+Shadow Brokers
+Shadow Brokers group
+Shadow Network
+ShadowBrokers
+ShadowPad
+ShadowPad attack
+Shamoon
+Shanghai
+Shanghai Cooperation Organization
+Shanghai, China
+ShimRat
+Shin-Etsu Chemical
+Shrouded Crossbow
+Shun Wang
+Shun Wang Technologies
+Siemens
+Siemens networks
+Sierra
+Silence
+Silence APT
+Silence group
+Silence.ProxyBot
+SilverTerrier
+SilverTerrier actors
+SimRatReporter
+Sima
+Since 2017
+Singapore
+SixLittleMonkeys
+Skipper
+Skipper Turla
+Slack
+Slingshot
+Slovakia
+Smart Installer Maker
+Snake
+Snake Wine
+Snake Wine'
+SneakyPastes
+Sofacy
+Sogu gang
+Solaris
+Sony
+Sony Pictures
+Sony Pictures Entertainment
+Sony Pictures attack
+South Africa
+South America
+South Asia
+South Asian
+South Asian countries
+South Asian government websites
+South Asian political and military targets
+South Carolina
+South Caucasus
+South China Sea
+South East Asia
+South East Asia region
+South Korea
+South Korea's media
+South Korean
+South Korean Government
+South Korean companies
+South Korean cryptocurrency
+South Korean government
+South Sea Fleet of the PLA Navy
+South and Southeast Asia
+Southeast Asia
+Southeast Asian bank
+Sowbug
+Spain
+Spanish
+Spanish speaking roots
+Spanish-speaking group
+Spindest
+Spring Dragon
+SpyEye
+Sri Lanka
+Sticky Keys vulnerability
+Stone Panda
+StoneDrill
+Stonedrill
+Storm Worm
+Strategic Web Compromises
+Strider
+Stuxnet
+Stuxnet MOF
+Subaat
+Sublime Text
+Suckfly
+Sumitomo Electric
+Sun Army
+Sundar Pichai
+Supply chain compromises
+Surveillance-As-A-Service
+Swallowtail
+Sweden
+Swindle
+Switzerland
+Symantec
+Syncopate
+Syria
+Syrian
+SysUpdate
+System Administrator
+TA459
+TA505
+TA542
+TA549
+TAA
+TALOS
+TClient
+TDTESS backdoor
+TEMP.Hermit
+TEMP.Jumper
+TEMP.Periscope
+TEMP.Reaper
+TEMP.Veles
+TEMP.Zagros
+TERBIUM
+TFC
+TG-0416
+TG-3390
+TG-4127
+THC Hydra
+TINYTYPHON
+TOR domain fronting plugin meek
+TRISIS
+TRITON
+TRITON actor
+TRITON intrusion
+TTPs
+TTPs and tools
+TV
+TW
+TadjMakhal
+Tafacalou
+Taidoor
+Taiwan
+Taiwanese
+Taiwanese government
+Taiwanese government agencies
+Taiwanese government agency
+Taiwanese media
+Taiwanese media organizations
+Tajikistan
+Talos
+Talos research team
+Targets
+Tavdig
+Tawjihi 2016
+Team Viewer
+TeamSpy
+TeamViewer
+TechCrunch
+Technology sectors
+Telecommunications
+Testador Amazon.com v1.1
+Thailand
+The 2017 leak of Equation Group tools
+The Bat
+The BlackTech group
+The Buckeye attack group
+The Chinese intelligence
+The Chinese intelligence apparatus
+The Emissary Panda
+The Gamaredon Group
+The LUNAR SPIDER threat group
+The Lamberts
+The Lamberts toolkit
+The Magnitude EK
+The New York Times
+The OilRig group
+The Onion Router
+The PLATINUM group
+The Patchwork attack group
+The Patchwork group
+The Plead malware
+The Poseidon Group
+The Remsec malware
+The ScarCruft group
+The SectorJ04 group
+The Shadow Brokers
+The ShadowBrokers
+The ShooterAudio module
+The Tibetan community
+The WICKED PANDA adversary
+The WIZARD SPIDER
+The WIZARD SPIDER threat group
+The Winnti umbrella
+The actors
+The attack
+The attacker
+The attackers
+The backdoor
+The campaign
+The company
+The current campaign
+The document
+The email address
+The group
+The infection vector
+The malware
+The new threat actor group
+The ongoing operation
+The overarching campaign
+The same group
+The second one
+The spear-phishing
+The subject
+The tester
+The threat
+The threat actor
+The threat actor behind ProjectSauron
+The threat actors
+The timeline details events
+Their
+Their arsenal
+Their next move
+There
+These
+These malware families
+They
+This
+This adversary
+This attack
+This blog post
+This campaign
+This group
+This latest attack
+This malicious document
+This malware
+This report
+This threat actor
+This threat group
+This tool
+Threat Group 3390
+Threat Group-1314
+Threat Group-2889
+Threat Group-3390
+Three years ago
+ThreeDollars
+Thrip
+Thrip attacks
+Through an IP address whitelisting process
+Throughout 2015
+Thursday's Flash Player
+Tianjin-based companies
+Tibetan activists
+Tibetan community
+Tick
+TinyZBot
+Token Control
+Tor network
+Torn RAT
+Trade Union Confederation
+Tran Duy Linh
+Transparent Tribe
+Transporter
+Trend Micro
+TrickBot
+Trochilus
+Trochilus RAT
+Trojan
+Trojan ransomware
+Trojan.Imecab
+Trojan.Naid
+Trojan.Naid, Backdoor.Moudoor, and Backdoor.Hikit
+Trojan.Nibatad
+Tropic Trooper
+Truvasys
+Tuisec
+Tunisia
+Turkey
+Turkish
+Turkish banking
+Turkish goverment
+Turkish government
+Turla
+Turla APT
+Turla operators
+Twitter
+Twitter user
+Two-tailed Scorpion/APT-C-23
+TwoBee
+TwoFace webshells
+U.S
+U.S.
+U.S. Department of Justice
+U.S. and Philippine consumer products corporations
+U.S. banks
+U.S. defense industrial base
+U.S. government entities
+U.S.-based law firm breach
+UACME
+UAE
+UK
+UPPERCUT
+URL shortening services
+US
+US Department of Homeland Security
+US banks
+US defence industrial
+US defence industrial base organisations
+US federal
+US military
+US office
+US research and development organizations
+US universities
+US-based think tank
+USA
+USB containing malware
+USB stealers
+UUV manufacturer
+Uganda
+Ukraine
+Ukrainian
+Ukrainian Presidential Administration
+Ukrainian government
+Ukrainian government and military departments
+Ukrainian government institutions
+Ukrainian organizations
+Ukranian
+Ukranian government organizations
+Unit 42
+Unit 42 researchers
+Unit 61486
+United Arab Emirates
+United Arab Emirates government
+United Kingdom
+United States
+University of Oxford
+Uroburos
+Utah
+Utilizing KillDisk
+Uyghur ethnic group
+VAMP
+VBE
+VBS scripts
+VENOMOUS BEAR
+VN
+VNC
+VOODOO BEAR
+VPN
+VPN Web Portal
+VPNFilter
+VUPEN
+Vcrodat
+Vendetta Brothers
+Venezuelan military
+Venomous Bear
+Vietnam
+Vietnam diaspora in Australia
+Vietnam-based
+Vietnamese
+Vietnamese diaspora
+Vietnamese dissidents
+Vietnamese dissidents and journalists
+Vietnamese gaming company
+Vietnamese government
+Vietnamese media
+Vietnamese media outlets
+Vietnamese state
+Virginia
+Visconti Backdoor
+Visma
+Visma attack
+Visma endpoints
+Visma network
+Visual Basic for Applications
+Visual Basic macro
+Visual Basic macro code
+Vixen Panda
+Vminst
+Voiceless Victims
+Volexity
+Volgmer
+WADA
+WCE
+WHITEOUT
+WICKED PANDA
+WICKED SPIDER
+WINDSHIELD
+WINDSHIFT
+WINDTAIL
+WIZARD SPIDER
+WMI
+WMI and PowerShell
+WMIC
+WMImplant
+Waledac
+WannaCry
+WannaCry ransomware
+WannaCry ransomware campaign
+Waterbear
+Waterbug
+We
+Web4Africa
+WebDAV
+Weeping Angel
+Wekby
+West African
+Western
+Western Europe
+Western audiences
+Western country's national legislature
+Western entities
+Western organizations
+Wh1sks
+WhatsApp
+WhiteBear
+Whitefly
+Wicked Panda
+WikiLeaks
+Wikileaks
+Wikipedia
+Wild Neutron
+WildFire
+Williams
+WinHTTPHelper
+WinRAR
+Windows
+Windows 10
+Windows Defender ATP
+Windows Defender ATP team
+Windows hacking tools
+Windows malware
+Windows network domain controllers and Exchange e-mail servers
+Windows services
+Windows zero-day
+WingD
+Wingbird
+Winnti
+Winnti Umbrella
+Winnti installer
+Wipbot
+Wizard (.wiz) files
+Word and Excel documents containing malicious macros
+WorldCupSec
+X-Force IRIS
+XAgent
+XBOW
+XENOTIME
+XOR keys
+Xagent
+Xagent malware
+Xicheng District of Beijing
+Xpert RAT
+XtremeRAT
+Yahoo Answers and Quora
+Yahoyah malware
+ZINC
+ZLAB
+ZOMBIE SPIDER
+ZPP
+ZXSHELL
+Zebrocy
+ZeroT
+ZeroT Trojan
+Zirconium
+ZooPark
+Zyklon
+a C2 infrastructure that spans multiple networks and registrars
+a China-nexus state
+a European conglomerate
+a French diplomat
+a Middle Eastern company
+a Saudi Arabian technology company
+a U.S. law firm
+a U.S.-based game development studio
+a backdoor Trojan
+a campaign
+a campaign to steal certificates
+a combination of encryption and compression algorithms
+a copy of the Remote Utilities software for remote access
+a custom set of attack tools
+a cyber espionage
+a data stealer
+a decade ago
+a diplomat in the French Ministry of Foreign Affairs
+a few different versions of keyloggers
+a few other families of custom-built backdoors
+a government organization in Europe
+a hacking group
+a link to a malicious download
+a link to the attacker's website
+a massive GozNym campaign
+a mix of DDNS and actor-registered domains
+a mix of public and non-public tools
+a modified mimikatz
+a mysterious group
+a network of fake ad agencies
+a number of Bitcoin heists
+a number of different custom-developed backdoors
+a satellite communications operator
+a separate campaign
+a significant portion of infrastructure
+a single group
+a single spear phishing email
+a small group
+a spear phishing
+a spear-phishing email
+a string of espionage attacks
+a third healthcare company
+a third-party service provider
+a threat actor group
+a unique threat actor group
+a wave of emails
+a wide range of technical exploitation capabilities
+a zero-day exploit
+a7
+abuse of security testing frameworks
+abuses similar concept
+abusing legitimate web services
+academia
+academic
+academic and strategic institutions
+academic institutions
+academic networks
+academic organizations
+academic research
+access to networks through deployments
+access to the network
+access to the target environment
+access to the victim's email
+accessing the DNS management console
+accountants
+accountants in the Balkans
+accounts
+acquire sensitive data
+active spear phishing attacks
+activists
+activity
+activity cluster
+actor
+actors
+actors using the Lurk banking trojan
+added an attacker-provided
+adding accounts to User and Admin groups
+adding redirect code
+additional actors
+additional campaign
+admin@338
+advanced social engineering
+advantage
+adversaries
+adversary
+advisory member
+aerospace
+aerospace and defence Industries
+aerospace companies
+aerospace organizations
+aerospace technologies
+aka APT3
+aka Snake
+allegations
+alter WikiLeaks's DNS records
+an Indian APT group
+an Iranian threat group
+an attack campaign
+an embassy from one of the countries of this list
+an embedded ActiveX control
+an insurance agency
+an older vulnerability
+an organization in Sweden
+an unknown attacker
+analysis
+anti-government separatists
+anti-virus companies
+antivirus companies
+any organization that invests in Myanmar
+apparel company
+application testing
+archives
+around the world
+artists
+at least 2005
+at least 2009
+at least 2010
+at least 2011
+at least 2013
+at least 2014
+at least February 2019
+at least two branches of government in Thailand
+attack
+attack campaign
+attack email
+attack involving PowerShell scripts
+attack users of online banking services
+attacker
+attacker groups
+attackers
+attackers masquerade
+attacking anyone they could
+attacks
+attempt to re-establish access
+attempted to deploy ransomware
+authors
+automating the rollback of ATM transactions
+automotive
+autonomous vehicles
+aviation
+avoid anti-virus detections
+avoid losing its ability to conduct its espionage operations
+backdoor
+backdoors
+bank
+bank in Russia
+bank infrastructure
+bank robbery
+banking
+banking Trojan
+banking Trojans
+banking customers
+banking infrastructure
+banking sector
+banking software
+banking trojans
+banks
+banks and financial entities
+banks in Germany
+banks' systems
+batch scripts
+be primarily espionage or information operations
+begin intelligence collection
+beginning of 2014
+benefit their sponsor's interests
+better cloak command and control communications between Greenbug and the malware
+between 2009 and 2011
+between 2015 and 2016
+between April 22 and May 4
+between May and June 2018
+between May and September 2015
+big companies
+big game hunting
+biggest technology companies
+binary infection scheme
+binders
+biotechnology
+blend in on the victim's network and hide their activity in a sea of legitimate processes
+blog.strancorproduct.info
+board member of a Middle Eastern financial company
+bootkits
+both
+both these campaigns
+botnets
+breach
+breaches organizations
+breaching the French Ministry of Foreign Affairs itself
+brute-force login attempts
+budgeting and accounting departments
+business services
+businesses
+businesses operating in the South China Sea
+businesses using accounting software
+businessmen
+cURL
+cURL for Windows
+campaign
+campaigns
+card generators
+casinos
+ccTLDs
+central and eastern asia
+central asia
+certificate impersonation
+change that particular organization's DNS records at will
+changing the strings and randomizing
+changing their system's MAC Address
+charts of companies
+chat accounts
+check fraud
+chemical
+chemical and pharmaceutical companies
+chemical company
+chemical industry
+chemical makers
+chemical manufacturers
+chemical sector
+chemicals
+chinese APT
+circumventing the need to steal the code-signing certificate
+civil
+classified intelligence
+clear indicators of necessary activity
+cloud storage services
+code embedded in the sites to a malicious webpage
+code lineage in Kazuar
+code-signing certificates
+collect intellectual property
+collect intelligence
+collect personal email login credentials
+collect personal information
+collect proprietary or customer data for commercial or operational purposes
+collected a third of China's population names and contact numbers
+collecting and distributing screenshots of industrial control systems
+collecting audio
+collecting information on the mechanics of the power outage
+collecting intellectual property for competitive advantage
+colleges and universities
+combat processes
+combining multiple layers of obfuscation
+command and control
+command-and-control
+commercial or operational purposes
+commercial organizations
+commodities sector
+commodities sectors
+communicate with infected computers
+communications
+communications related to the firm's business relationship with a national military
+community banks
+companies
+companies doing business or preparing to invest in the country
+company
+compilation
+compile Windows and Unix based payloads using the same code
+compiled HTML help (.chm) files
+compromise NetNod
+compromise an organization's network administrator credentials
+compromise critical assets
+compromise or acquire already compromised payment card credentials
+compromised accounts
+compromised an online billing/payment service
+compromised digital certificates
+compromised embassies
+compromised infrastructure
+compromised legitimate accounts to trick victims into installing malware
+compromised organizations
+compromised websites
+compromising a user account
+compromising entities
+computer
+conduct secondary attacks against their clients
+conducting reconnaissance
+conducts financially motivated operations outside of their normal day jobs
+configured TRISIS
+configures its backdoor malware
+configures multiple C&C domains
+confuse the observer by posing as a legitimate domain
+connected to the compromised servers from IP addresses
+connections to the infected computer
+constructs spam messages
+consulting services
+consumer
+consumer market
+consumer products
+consumer products corporations
+contact the Command-and-Control (C&C) server with the username encoded into parameters
+contains an additional meta tag at the end of the web page source code
+control (C2) node
+control the compromised device
+control the full operation
+controlled servers
+copying itself over network shares
+counterfeiting foreign currency
+counterterrorism-motivated surveillance operations
+countries near the South China Sea
+covering their tracks after an espionage operation
+cpg Corporation
+create additional accesses and vectors to facilitate future campaigns
+create tools for additional data exfiltration
+create, expand and cement their foothold in compromised environments
+creating a RAR archive of targeted files for exfiltration
+creating this type of API access
+creative phishing
+credential capture and replay
+credential dumpers
+credential harvesting
+credential logger
+credential phishing
+credential phishing campaigns
+credential theft
+credentials
+credit card fraud
+crime group
+criminal and targeted attacks
+criminal attacks
+criminal group
+criminal groups responsible for the delivery of NewPosThings, MalumPOS and PoSeidon point of sale Malware
+criminal operations
+criminal organization
+criminals
+critiques of the Russian government
+crucial technologies
+crude oil
+cryptcat binaries
+cryptocurrency
+cryptomining malware
+cu.exe
+custom C2 protocol
+custom and open-source tools
+custom backdoor
+custom binary protocol
+custom code
+custom dropper
+custom information technology (IT) tools
+custom tools
+custom-developed malicious tools
+customers' networks
+customized BlackEnergy
+customized PowerShell
+customized malicious software
+cyber actors
+cyber arms contractors
+cyber attacks
+cyber crime
+cyber espionage
+cyber espionage campaign
+cyber espionage threat actors
+cyber threat groups
+cyber-attacks
+cyber-berkut
+cyberattackers
+cybercrime gang
+cybercriminal group
+cybercriminals
+cyberespionage
+cybersabotage activities
+darkhydrus
+data center
+data exfiltration
+data-stealing capabilities
+database servers
+de4d0t
+decode data from the PDF documents
+decoy documents
+decoy image
+decoy slideshow
+decrypt the intercepted email
+decryptor
+defense
+defense attaches
+defense companies
+defense contractors
+defense industrial base
+defense industries
+defense industry
+defense institutes
+defense manufacturing projects
+defense sector firms
+defense sectors
+delete files
+deleting Bash histories
+deliver and launch the second stage of Silence's Trojan
+deliver malicious macros
+deliver the DanBot malware
+deliver the information stealing FormBook malware
+deliver the malware
+delivered primarily through spam emails
+delivery documents
+demonstrating to companies that they have weak security
+deploy ChinaChopper web shells
+deploy Trojan.Kwampirs, a backdoor Trojan
+deploy additional malware
+deploy ransomware
+deploy the "RMS" software
+deploy the HIGHNOON backdoor
+deploy the ZeroT Trojan
+deploy zero-day exploits against their high profile targets
+deployed the Bookworm Trojan
+deployed the widely available Poison Ivy RAT
+deploying bespoke backdoors
+deploying the Encryptor RaaS ransomware
+deploys the SOGU and CROSSWALK malware families
+describe navigation routes
+describe navigation routes and positioning using military grids
+destructive
+destructive attacks
+destructive payloads
+detected in Q1 2015
+deter the process of reverse engineering
+dev-point.com
+developers of banking and money processing software solutions
+different actors
+different places in the world
+digicert-cdn[.]com
+digital certificates from South Korean
+diplomatic agencies
+diplomatic and government agencies
+diplomatic institutions
+diplomatic/foreign affair organizations
+diplomats
+disguising the code they inject
+disguising the malware as document file
+disposable emails
+disputes between China and other states
+disrupt an operational process
+disrupt, degrade, or destroy systems
+dissidents
+dissidents and figures
+dissidents connected to Vietnam
+distributed infrastructure
+distributed specifically-crafted malicious documents containing Infy
+distribution of spam
+document stealers delivered via a SFX
+documents
+domains
+domains sa1.dnsnode.net
+doppelganger webpages
+download a malicious payload
+download of TeamViewer
+downloaded by the implant
+downloaded the attachments in real-time
+downloaders
+downloading malware
+downloads additional malware from the C2
+dozens of email addresses registered
+draw on the NSA's hacking capacities
+drive potential victims to malware download sites
+drive-by downloads method
+drop an attacker-generated malicious DLL onto the computer
+drop an exploit on the desirable target's PC
+dropper
+dumping credentials
+dumping users' credentials
+during lateral movement on a target's network
+dynamic DNS
+dynamic DNS domains
+dynamic DNS service
+dynamic-DNS domains
+e-commerce companies
+e-commerce environments
+e-commerce organization
+eCrime forums
+early 2013
+early 2014
+early 2016
+early 2017
+early 2018
+early June
+early June 2018
+early May 2016
+early part of 2017
+economic
+education
+education sectors
+educational institution
+educational institutions
+effectively remove any evidence of their operations
+either a reverse shell
+election commissions
+electric utilities
+electric utility sector
+electronics
+electronics manufacturing
+email
+email campaigns
+email phishing
+email phishing campaigns
+email scams
+email service
+email spam
+emails
+emails sent by the German Foreign Office staff
+embassies
+embassies and consular operations around the world
+embassies of an Eastern European country
+embedded an implant into the malicious document
+employ a namesquatting scheme in their domains
+employ different strategies to get past organizational defenses
+employed Android malware in its attacks
+employees whose jobs related to the aviation industry
+employing a decoy
+employing phishing
+enSilo
+enable long-term campaigns
+encrypted container
+end of 2018
+energy
+energy company
+energy organizations
+energy production
+energy sector
+engaged in financial theft
+engineering
+engineering firms
+engineering organizations
+engineering sectors
+engineering-focused entities
+enhance Iran's aviation capabilities
+enhance Iran's domestic aviation capabilities
+enterprise
+enterprise and per-host pricing
+enterprise environments
+enterprises
+enterprises in the consumer electronics
+entice victims into installing malicious Android applications
+entities
+entities in the Ukraine
+entities in these countries
+escalate systems privileges
+espionage
+espionage operations
+establishing a foothold on an employee's system
+establishing access
+evade security products
+evade signature-based detection
+event
+execute scripts/commands and receive the results via HTTP requests
+execute the HIGHNOON payload
+executives
+exfiltrate data
+exfiltrated a high volume of data
+exfiltration
+exploit
+exploit CVE-2014-6332
+exploit kits
+exploit server paths
+exploit vulnerabilities
+exploitation
+exploitation of Microsoft Windows operating systems vulnerabilities
+exploited CVE-2011-3544
+exploits
+exploits CVE-2012-0158
+exploits from the Hacking Team leak
+extensive hacking activities
+external tool
+extract all Word documents
+extremely effective in compromising both small and large game companies
+f-secure
+fake Flash installers
+fake job listings
+fall 2017
+file sharing platforms
+files
+finance
+financial
+financial and policy organizations
+financial departments of organizations
+financial driven crypto-miners
+financial entities
+financial entities and companies
+financial firms
+financial fraud
+financial gain
+financial houses
+financial industries
+financial industry
+financial institutes
+financial institution
+financial institutions
+financial institutions and businesses
+financial organizations
+financial sector
+financial sectors
+financial services
+financial software vendors
+financial transaction exchange companies
+financially
+financially motivated
+financially motivated campaigns
+financially motivated intrusions
+find and exfiltrate documents
+firms
+first attack
+first quarter of 2019
+first stage backdoor
+following techniques
+footprint endpoints of interest
+foreign corporations
+foreign espionage
+foreign espionage targets
+foreign government
+foreign governments
+former Soviet
+former Soviet Union
+former Soviet bloc nations
+former Soviet countries
+former Soviet states
+former campaigns
+four large, U.S. banks
+fraudulently empty ATMs of cash
+friend referral program abuse
+from 2010 to 2011
+from May 2015 to August 2015
+from Morocco to Iran
+from mid-February to the present
+full-featured backdoor controlled by email
+gain access to the computers
+gain access to the target's environment
+gain an initial foothold within the targeted environment
+gain remote access to the system
+gained access to the victim's internet-accessible Citrix systems
+gained administrative privileges
+gaining access
+gaining insights into relations between France and Taiwan
+game
+gaming companies
+gang
+gas field bids and operations
+gather customer data
+gather information
+gather information about certain individuals
+gathered credentials to a legitimate user's OWA account
+general companies
+generate further card information
+generic tools
+geopolitical
+geospatial groups within the federal government
+geospatial imaging
+get access to financial data or PoS infrastructure
+get valid credentials
+gh0st RAT
+github.com
+global
+global companies
+global internet infrastructure providers
+global managed IT service providers
+gold smuggling
+government
+government agencies
+government agencies in China
+government agencies in Southern Asia
+government agency
+government bodies
+government computer systems
+government contractors
+government employees in the Philippines
+government entities
+government institutions
+government institutions and also the energy industry
+government offices
+government officials
+government organization in the Middle East
+government organizations
+government personnel
+government services
+government sites
+government-associated organizations
+government-related organizations
+governmental
+governmental agencies
+governmental institutions
+governmental organizations
+governments
+governments in Middle East
+granted them unprecedented access to MSPs
+grants the Chinese state the ability to potentially access the networks
+grey market
+group
+group behind Lurk
+group linked to the NSA
+group name
+group of malicious cyber actors
+group or groups
+groups
+gsecdump
+gsecudmp
+gtags
+guess the login passwords
+hTran
+hack and control popular smart phones
+hacker
+hackers
+hacking activities
+hacking activity
+hacking collective
+hacking division
+hacking group
+hacking systems
+hacktools
+handing over the credentials
+handling in-game transactions
+hands on keyboard
+harvest credentials of administrators
+harvesting tools
+harvests end user contact lists
+hash attack
+hcdLoader RAT
+healthcare
+healthcare company
+healthcare entities
+healthcare industry
+healthcare sectors
+heavy industry
+hide in plain sight
+hide the malware's configuration
+hide their infection tracks
+hiding in the network traffic of the targeted organizations
+high profile companies
+high profile diplomatic and economic targets
+high profile organizations
+high ransom demands
+high tech companies
+high-profile entities
+high-profile networks and systems
+high-tech
+high-tech companies
+higher education
+highlights the vulnerability of organizational supply chains
+highly sensitive political
+highly-targeted spear-phishing SMS messages
+hijack any domain that used those ccTLDs
+hijacked WikiLeaks' DNS
+hijacked satellite connections
+hijacking encryption keys
+hook library
+hospitality
+hospitality sector
+hospitality sectors
+hosted them on their own doppelganger domains
+http://analytics-google.org:69/Check.aspx
+http[:]//mbl[.]shunwang[.]com/cfg/config[.]json
+httpclient
+huge recipient database of up to 85,000 users
+human rights defenders
+human rights groups
+human rights related NGOs
+humanitarian aid
+iOS
+iPads
+iPhone software
+iSIGHT
+iSiGHT
+identified and exfiltrated data for specific projects run by the target organization
+identify and interact with employees at targeted organizations, and then used weaponized Excel documents to deliver RATs such as PupyRAT
+identify the Exchange server and attempt to install the OwaAuth web shell
+illustrate the evolution
+imitating another attack group in the region
+impersonation of Citizenship
+impersonation of platform providers
+implants
+in 2013 and 2014
+in 2016 and 2017
+in 2018
+in 2019
+in March 2019
+in Saudi Arabia
+in September 2014
+in South Asia
+in a June 11
+in mid-February
+in the Middle East
+in the United States
+increase the likelihood of their malware successfully communicating home
+indications
+indirect economic advantages
+individual business units
+individual computers
+individual working for the Foreign Ministry of Uzbekistan in China
+individuals
+individuals in Russia and the former Soviet states
+individuals in a specific area of Europe
+individuals specializing
+individuals working in the defense and government supply chain
+industrial
+industrial chemistry
+industrial sectors
+industry interests worldwide
+industry verticals
+infect and control Microsoft Windows users
+infect individuals with access to the data the actors desire
+infect the computer on which the RBS software was installed
+infect their targets
+infect their targets regardless
+infecting organizations across many sectors globally
+infection attempts
+infection vector
+infiltrate communications
+infiltration
+info@bankuco[.]com
+information gathering
+information gathering activities
+information gathering from the infected computers
+information on minority groups
+information technology companies
+infrastructure management
+initial exploitation
+initial web
+inject itself into browser processes and explorer.exe
+inject malicious code into legitimate files before distributing updates
+inject malicious code into software updates
+inject their own malicious code
+injected malicious code
+injected malicious code into the package
+injecting Meterpreter into memory
+injecting malicious code
+injection techniques
+inserted CRACKSHOT malware into game files
+inserting malicious code
+install additional malware
+install its malware
+install malware
+install the More_eggs JScript backdoor on user devices
+installers
+installing the malware-as-a-service
+installs its own custom-built malware
+integrate the NSA
+intellectual property
+intelligence agencies
+intelligence gathering
+intelligence services
+intelligence targets
+intelligence-gathering
+inter-Korean affairs
+intercepted network traffic
+intercepted the mailing list of the Anti-drop" club
+interfaces developed for Standard (Simplified) Chinese
+international apparel company
+international media organizations
+international organizations
+international schools
+internet
+interpret it as commands for the backdoor
+investment banking and consumer accounts at banks
+invitations to access several documents
+it
+its operators
+job openings
+job recruiters
+join a decentralized gaming platform linked to a cryptocurrency service
+journalist
+journalists
+jquerycodedownload.live/check.aspx
+key
+keylogger
+keyloggers
+keylogging functionality
+known vulnerabilities in Microsoft Office products
+land tactics
+land, air, and sea
+large air-defense related commercial organizations in China
+large enterprises
+large organizations
+large target audiences
+large telecoms operator
+large trading companies
+large-scale spear-phishing
+lasers
+last June 20
+late 2014
+late 2015
+late 2016
+late 2018
+late December 2015
+late July 2011
+late March
+late May
+late May 2016
+late-2017 and early-2018
+lateral movement
+latest Flash zero-day
+launch campaigns
+launch campaigns simply
+launched a campaign against oil and gas organizations
+law firm
+law firms
+least 2011
+least March 2012
+least mid-2016
+legal
+legitimate administration tools
+legitimate compromised websites
+leverage compromised network infrastructure
+leverage more sophisticated TTPs
+leverages another Flash exploit
+leverages code-signing certificates to sign malware
+leverages non-public malware
+leverages non-public malware typically reserved for espionage campaigns
+leveraging SWCs
+leveraging compromised digital certificates from video game studios to sign malware
+leveraging legitimate and available tools in the Windows operating system
+likely stolen code signing certificate
+limits the deployment of follow-on malware to specific victim systems
+list any remote shared drives
+loaders
+loads an encrypted payload on to the victim's computer
+local MitM attack
+local privilege escalation
+locating and pivoting to additional systems on the network
+log in using their victim's password
+logged into the user's account
+looking for email data
+low-cost VPN providers
+lure documents
+machine-learning
+macro-enabled Office documents
+macro-laden Microsoft Word documents
+made some modifications to the original source code of hTran
+mailimg.com
+mainly banks
+maintain a foothold in the targeted network
+maintain long term persistent
+maintain persistence on a compromised network
+maintained several IP addresses
+major IT companies
+making modifications to their ClaySlide delivery documents
+making their phishing page as credible as possible
+maldoc
+maldocs
+malicious .DOC files
+malicious Android APKs
+malicious HTML application (HTA) files
+malicious Office
+malicious Office documents
+malicious PowerShell scripts
+malicious RTF
+malicious attachments
+malicious implant
+malicious mail
+malicious modules
+malicious programs
+malicious shortcut (.lnk) files
+malicious spearphishing campaign
+malicious tool deployment
+malware
+malware attacks
+malware authors
+malware delivery
+malware development
+malware families
+malware modules
+malware samples
+malware spearphishing
+malware variants
+malware via spear fishing email
+malware with keylogging capabilities
+manage ccTLDs
+manage financial transactions
+managed IT service providers
+manipulate the DNS records
+manipulated virtual currencies
+manipulating inter-bank financial systems
+manufacturer of gas turbines
+manufacturing
+manufacturing companies
+manufacturing industries
+manufacturing operations
+manufacturing organizations
+maritime agencies
+maritime construction
+maritime industries
+maritime industry
+maritime issues
+maritime operations
+maritime satellite systems
+maritime sector
+maritime-related
+massive data stealing
+massive website-based hacking activities
+matching against individual system identifiers
+media
+media entities
+media organizations
+media outlets
+medical
+medical device companies and pharmaceuticals
+medical imaging
+medical technology
+medicine
+members
+members of the Vietnam diaspora in Australia
+menuPass
+menuPass Team
+message traffic
+mid 2000s
+mid-2006
+mid-2015
+mid-2016
+mid-February 2017
+mid-January 2017
+mid-January 2019
+mid-July
+mid-November 2017
+mid-September
+midSeptember 2011
+middle east
+militaries
+military
+military and government personnel in the U.S. and Europe
+military contractors
+military entities
+military information
+military installations
+military operations
+military or similar documents
+military organizations
+military personnel
+military related organizations
+millions of dollars
+mimikatz
+mine Monero cryptocurrency
+mining
+mining companies
+ministries
+ministries of foreign affairs
+misuse chipset features
+misused AMT SOL
+mobile device
+modified banking Trojans
+modified version of hTran
+modify any DNS records that were managed
+modify legitimate Windows services
+modify the access control lists (ACLs) of all websites
+modify the record again to point the C2 domain to an IP address
+modifying DNS management
+modifying a registry entry
+modifying firewall rules
+monitor communications passing through the providers' systems
+monitor the computer of an executive
+more than 20,000 businesses
+mostly poorer and less developed locations
+mounting the remote drive on a system
+move laterally across the network via stolen credentials
+moved to new C2
+moves laterally
+moving laterally
+msfgi.exe
+msoffice-cdn[.]com
+msoffice365cdn[.]com
+multi-featured RAT
+multiple banks in the Middle East region
+multiple industries
+multiple media
+namely domain registration
+nanotechnology
+nation state's intelligence services
+national security organizations
+native binaries
+natural gas
+natural resources
+naval defense contractors
+naval defense systems
+naval technology
+neighboring countries
+network enumeration
+network of an electronics firm
+network reconnaissance
+network security and technology infrastructure corporations
+network worm
+network-driven backdoors
+new DNS-based attack technique
+new activity
+new infection vector
+news outlets
+news/media firms
+newsletter
+njRAT
+non-government organizations
+non-public backdoors
+northwestern China
+not appear suspicious
+not exceed $15,000
+not only maintaining their own Android malware but running propaganda sites
+ns0.idm.net.lb
+nsecurepay[.]com
+nstrad.dynu.com
+nuclear power
+number of registrars
+obfuscate the traffic between the system and C2 server
+obtain SSL encryption certificates
+obtain key military program insight
+obtain one of these EPP keys
+obtained compromised credentials
+obtaining sensitive documents
+offensive framework
+offensive security tools
+office365-technical[.]info
+oil
+oil and gas
+oil and gas companies
+oil and gas infrastructure
+oil industry
+oil refining
+older exploits
+on January 16
+on the island of Hainan, People's Republic of China
+one client
+one million bitcoin
+one of the targeted countries
+one organization
+one website in the Palestinian Authority
+online casino
+online dictionary attacks
+online multiplayer networks
+open source post-exploitation tools
+open-source and custom tools
+open-source password dumpers
+open-source pen-testing frameworks
+operational groups
+operational side of the company
+operators
+opinion leaders
+organisations
+organization
+organization in Europe
+organizations
+organizations focused on international relations
+organizations in Thailand
+organizations in the energy sector with ties to petrochemical production
+organizations involved in international relations
+other computers on the victim's network
+other high-technology industries
+other industries
+other persons
+other tools
+out of China
+out of Russia
+out of Vietnam
+outside of Russia
+over 46 different malware families and tools
+overseas defense contractors
+package to facilitate server installation
+parliaments
+particular countries
+password brute-forcing utilities
+password harvesting trojan
+password reset link be sent to a compromised email address
+pastebin.com
+payment card
+payment providers
+payment services
+pd.exe
+peer-to-peer communications
+perform monitoring, tracking, or surveillance operations against specific individuals
+peripheral network security
+personal data
+personnel working on military
+petrochemical
+petrochemicals
+pharmaceutical
+phisher
+phishing
+phishing attacks
+phishing attempts
+phishing campaign
+phishing campaigns
+phishing campaigns delivering publicly available and custom backdoors
+phishing components
+phishing e-mail
+phishing email
+phishing emails
+phishing messages
+phishing page
+phishing pages
+phishing schemes
+physical proximity
+pirated software
+plague victims located within the Indian subcontinent
+planted a cron script
+pngdowner
+political
+political and defense organization networks
+political and diplomatic purposes
+political assignments
+political entities
+political intelligence
+political opponents of government
+political organization
+political parties or personnel
+political targets
+politicians
+politics
+pomf.cat
+posing as the Central Bank
+post-Soviet space
+potentially access the networks of hundreds
+present
+prevent analysis of the attack
+private companies
+private corporate
+private firms
+private industry in search of key intellectual property for competitive advantage
+private messaging applications
+private organizations
+private sector
+privatized agencies
+pro-democracy groups in Hong Kong
+processors
+produced many individual malware modules
+producing motherboards
+production database administrators
+profit from the compromise
+prominent energy organizations
+prominently Facebook
+provide remote access to infected machines
+provide the group with access to victim resources
+provoke the target to provide more passwords
+public IRC chats
+public sector agencies
+public sector worldwide
+public web shell
+publicly available RATs
+publicly available backdoors
+publicly available hack tools
+publicly available tools
+publicly known injection methods
+purported to be a necessary security update
+purported to be meeting invitations
+pursuing securities fraud
+r.exe
+raise large sums of money
+raise large sums of money for the North Korean regime
+raise money for the North Korean regime
+ransomware
+rare earth metals
+real estate
+real estate companies
+real estate/investment companies
+receive the remote control command
+receiving an up-to-date list
+recent years
+reconfigures the Microsoft Sysinternals registry
+reconnaissance
+reconnaissance activities
+reconnaissance activities on Computer A via cmd.exe
+recording keystrokes
+recruitment-themed lures
+redirections
+regions of Ukraine
+regsvr32.exe
+release malicious sub-packages
+religious groups in China
+remote access
+remote access Trojans
+remote access trojans
+remote administration tools
+remote code execution vulnerability
+remote control over the system
+remote drive on a system
+remote triggers
+remotely control web servers
+renewed targeted attack activity
+replace the legitimate Flash executable
+research and pharmaceutical companies
+research centers
+research fellow
+research institutes
+research institutions
+research organizations across the globe
+research universities
+researched desired targets
+researchers
+researchers at universities
+resembles parts of the Destover malware
+reserves more advanced TTPs and malware only for high-value targets
+resorted to ransomware
+restaurant
+retail
+retail industry
+retailers
+retrofitted with code
+reverse-shell backdoor
+revised toolkit
+rich resources of South China Sea region
+romance scams
+rootdnservers
+rootkits
+router
+run a malicious DLL
+run the payload script on the victim desktop
+sa1[.]dnsnode[.]net
+safety systems beyond Triconex
+salvage their efforts
+sample
+satellite and aerospace industries
+satellite communications
+satellite communications operator
+scan for and exploit vulnerabilities in targeted eCommerce sites
+scan-and-exploit techniques
+scheduled tasks
+scientific research institutes
+script-based backdoors
+sea construction
+search for vulnerable applications
+search order hijacking
+sectors of strategic national importance
+security policy
+security researchers
+security services
+seg
+select whichever username and password they wish
+self-deleting malicious components
+self-extracting executable
+self-registered IP addresses and commercial VPN services in its command and control (C2) and operational infrastructure
+sellers
+semiconductor
+semiconductors
+senates
+send phishing messages
+sending a lure document
+sending malicious PDF
+sending malware lures
+sending real documents
+sending these malicious emails
+sends malicious documents
+sends very specific emails
+sensitive data
+sensitive online banking information and other personal data
+sent an email specifically to the target
+sent out malicious documents
+sent spear-phishing emails to workers in the aviation industry
+server side logic in 'one shot mode'
+server solutions for enterprises
+service provider
+services
+set up their own installation of the RCS Galileo platform
+seven other unique targets
+several Russian banks
+several crimeware family samples
+several major technology
+several novel methods
+several zero-day exploits
+share delivery mechanisms and infrastructure with samples
+shared infrastructure
+sheep shavers
+shellcode
+shipping and transportation
+shipping enterprises
+signed software
+signed vulnerable drivers
+significant resources for researching or purchasing complicated zero-day exploits
+similar modified mimikatz application
+simple custom malware
+since 2014
+since October 2016 and until the end of January 2017
+since at least 2013
+since at least 2014
+since at least May 2018
+siphoning off assets in transactions
+ske.hfmforum.com
+small European office
+social engineering
+social engineering emails
+social engineering methods
+social engineering tactics
+social media
+socially engineered emails
+software developers
+software development industry
+sophisticated tools
+space
+space exploration
+spam
+spam email
+spam emails
+span across the whole world
+spear phishes
+spear phishing
+spear phishing attacks
+spear phishing campaigns
+spear phishing email
+spear phishing emails
+spear phishing lure
+spear phishing operations
+spear phishing techniques
+spear-fishing email
+spear-phishing
+spear-phishing attachment
+spear-phishing attack
+spear-phishing attacks
+spear-phishing campaign
+spear-phishing e-mails
+spear-phishing email
+spear-phishing emails
+spearphish
+spearphish exploits
+spearphishing
+spearphishing and social engineering attacks
+spearphishing attacks
+spearphishing campaign
+spearphishing campaigns
+spearphishing email campaign
+spearphishing emails
+spearphishing operations
+specific U.S. defense projects
+specific government office
+specific governmental organizations
+specific hacktools
+specific individuals
+specific individuals in Europe
+spread laterally through networks
+spread the Corkow malware
+spring 2015
+spring of 2014
+spying
+spyware developers
+ss.rar
+staging malware
+start with spear-phishing emails
+state government agencies
+state-owned enterprises
+steal authentication information
+steal cash
+steal communications data of specific individuals in various countries
+steal credentials and gain access to target networks
+steal credentials and spy on the activity of dozens of journalists
+steal credentials on Shamoon's behalf
+steal data
+steal digital certificates
+steal email and other login credentials
+steal from banking systems
+steal further information from infected hosts
+steal hundreds of millions of dollars
+steal information
+steal millions of dollars
+steal money
+steal money from the accounts of businesses
+steal records of 35 million users
+steal sensitive data
+steal sensitive documents and data
+steal source codes
+steal technology
+steal the privacy information
+steal their target's technology
+steal user credentials of targets
+stealing credentials
+stealing documents
+stealing domain credentials from a Microsoft Active Directory Domain Controller
+stealing files
+stealing information
+stealing information from the targets
+stealing keystrokes
+stealing keystrokes and clipboard contents
+stealing millions
+stealing passwords
+stealing source code
+stealing user credentials for diverse online services
+steals emails
+stevemike-fireforce[.]info
+stole credentials
+stole her pictures to construct the fake profile
+stolen from yet another person
+stolen gigabytes of confidential documents
+stolen information
+stolen valid user credentials
+stop or slow down their activities
+strategic assets
+strategic intelligence collection
+strategic web compromises
+sub-domains
+subsequent payloads
+summer 2017
+summer of 2016
+supply chain compromise tactics
+supply chain compromises
+support Iran's military and strategic decision making
+support for Saudi's military and commercial fleet
+support of its espionage activities
+surreptitiously using their code-signing certificates to infect an even larger swath of organizations
+svchost.exe
+tailormade credential gathering tools
+take advantage of different weaknesses in victims' computing environments
+tandem
+target operations
+targeted attack
+targeted attacks
+targeted companies around the world
+targeted organizations
+targeted payment service
+targeting banks
+targeting executives and employees of certain South Korean companies
+targeting various institutions
+targets
+targets intellectual property
+task scheduler
+tasked to reconnoiter the facility
+tax schemes
+technique
+technology
+technology and internet firms
+technology companies
+technology companies including Citrix
+technology infrastructure corporations
+technology organizations
+technology related companies and organizations
+telecom companies
+telecommunication providers
+telecommunications
+telecommunications business verticals
+telecommunications companies
+telecommunications firms
+telecommunications providers
+telecommunications sectors
+telecoms
+telecoms companies
+telecoms operators
+telephone scams
+th3bug
+that threat actors
+the 2013 attacks
+the 2014 attack on Sony Pictures
+the APT attack
+the Atmosphere Trojan
+the BRONZE UNION threat group
+the BS2005 malware
+the Baidu search
+the BalkanRAT malware
+the Bangladesh bank heist
+the Bemstour exploit tool
+the Bisonal malware
+the BlackTech group
+the Buckeye cyber espionage group
+the C2 infrastructure
+the CIA's hacking division
+the CIS
+the Clayslide documents
+the Cobalt Strike framework
+the Czech Republic
+the Dalai Lama
+the DoublePulsar variant
+the Equation Group
+the French Ministry of Foreign Affairs
+the ISMInjector sample
+the IT estate
+the IT security specialists in companies
+the Iranian Government
+the Iranian government
+the January 16, 2018
+the January 2017
+the Japan Pension Service
+the Japanese government
+the Kazuar
+the Khorasan Razavi province of Iran
+the Lebanese domain of a major global financial institution
+the Linux malware ecosystem
+the MENA region
+the Middle East
+the Middle East region
+the Middle Eastern
+the More_eggs backdoor
+the MyWeb malware
+the Myanmar Union Election Commission (UEC) website
+the Netherlands
+the Newscaster Team
+the OceanLotus Group
+the OilRig campaign
+the OilRig group
+the OilRig threat group
+the Philippines
+the Pitty Tiger group
+the Private Office
+the RTLO technique
+the RoyalDNS malware
+the Russian Federation
+the SYSCON backdoor
+the Sednit group
+the Shadow Brokers leak
+the State Migration Service of Ukraine website
+the Tibetan Government-in-Exile
+the Turk Black Hat security team
+the Turla group
+the Turla threat actor group
+the U.S. Cyber Command
+the US
+the United Kingdom
+the United States
+the United States government or Shell
+the Vietnamese diaspora in Southeast Asia
+the Wild Neutron actor
+the Winnti group
+the Zirconium group
+the ability to sustain persistence across victim networks for years
+the activity
+the actor
+the actors
+the ancient soviet republics
+the attack
+the attacker
+the attackers
+the attacks
+the campaign
+the cluster
+the code leakage
+the complicated Palestinian situation
+the countries of the former Soviet Union
+the cyber-attack
+the cyber-attack on the Japan Pension Service
+the cyberattacks
+the described campaign
+the domain
+the end of 2015
+the end of 2016
+the end of 2018
+the end of August 2018
+the fall of 2013
+the fifth zero-day
+the first quarter of 2019
+the fraudulent withdrawals
+the gaming industry
+the global financial system
+the government of China
+the group
+the group's activities
+the groups
+the hacking group
+the infamous HTRAN tool
+the leaked
+the leaked readymade installers
+the list of possible targets
+the mails
+the malicious dropper
+the malware
+the media, aerospace, financial, and critical infrastructure sectors in the United States and globally
+the mid-2013s
+the middle of 2015
+the missions of Tibet in London
+the new 2014-2015 attacks
+the oil and gas industry
+the organizations we have observed
+the parent company
+the phishing email
+the same technique employed by Mimikatz
+the same threat actor
+the summer of 2016
+the target
+the targeted organization
+the theft of intellectual property
+the threat actor
+the threat actors
+the threat group
+the tools
+the video game industry
+the weaponised documents17
+the zero day CVE-2016-4171
+theft of personal information
+their
+their activities
+their latest attack
+their own .NET tool
+them
+themed lures
+there are several interconnected groups
+these attacks
+these countries
+these emails
+these industries
+these leaked tools
+these malware samples
+these organizations
+these threat actors
+they
+they steal the organization's legitimate SSL certificate
+think tank sectors
+third-party infrastructure
+third-party remote access tool
+this actor
+this attack
+this campaign
+this group
+this library
+this malware
+this second group
+this threat group
+those affiliated with the Fatah political party
+those leaks
+threat
+threat activity
+threat actor
+threat actor group
+threat actors
+threat group
+threat groups
+threat vector
+threats
+three billion rubles
+three months
+through the infection process
+tool
+toolkits
+tools
+tools that would sideload DLLs
+top legislative, executive and judicial bodies around the world
+top-level government agencies
+track or monitor targets of interest
+trade policy
+trade unions and labour rights activists
+trading companies
+trading systems
+traditional intelligence targets
+transfer malware into the compromised environment
+transfer money to their accounts
+transforming them into covert microphones
+transport
+transportation
+travel
+travel industries
+travel services
+trick WikiLeaks's DNS provider
+trick the user to install
+trick users into downloading the malware
+tricked the user into 'willingly' executing the trojan
+trojans
+trove
+trusted websites
+turla
+two different loaders
+two separate access points into the Visma network
+two separate malware
+two similar malware
+two weeks
+two years
+types of data from the phones of victims
+ultimately erode the competitive advantage of targeted organizations
+uninstallers
+uninstalls cloud security products
+unique XML executable file
+unique infection chain
+universities
+unknown actors
+unnamed country in Central Asia
+unsophisticated tools
+unusual C&C mechanism
+upload a PHP backdoor
+upload the exfiltrated files
+upload.cat
+uploads some basic system information
+use PDF and DOC files in very tailored, targeted emails
+use a Microsoft Office Word document
+use a compromised account to create scheduled tasks on systems
+use exploits to drop variants of Backdoor.Sogu
+use of scripts and templates
+use of weaponized legitimate documents
+use ransomware
+used GitHub and Slack as tools for communication
+used credentials compromised
+used custom malware
+used directly for extortion or cyber-sabotage
+used in the integrated mail service of public officials
+used mail attachments to control infected machines
+used previously acquired legitimate credentials
+used the appcmd command-line tool to unlock and disable the default logging component
+used this technique to remotely install a Metasploit reverse TCP stager
+users in India
+uses a backdoor entirely controlled by emails
+uses some floating point instructions as a trick to get a pointer to itself
+using GoDaddy
+using exploits for vulnerabilities
+using proof-of-concept exploit
+using social engineering
+using stolen credentials
+using the Browser Exploitation Framework (BeEF) to compromise victim hosts and download Cobalt Strike
+using the same APT-style tools and techniques
+using the same infrastructure and targeting
+utilities organizations
+utility providers
+utilizing compromised credentials
+utilizing multiple exploits
+variants of Ratsnif
+variety of TTPs
+various companies
+various industries
+various networks
+various security organizations
+verticals
+via cmd.exe
+via spear-phishing emails
+victim
+victims who answer well-defined characteristics
+victims' computers
+video game
+video game developers
+video game industry
+video game sector
+video game-related targeting
+viewed the links
+virtual currency manipulation
+virtual private servers
+viruses
+visit a different IP address
+voguextra[.]com
+vulnerabilities
+vulnerability scans of network services
+vulnerable servers
+waterhole
+watering hole
+watering hole activity
+watering hole attack
+watering hole attacks
+watering hole websites
+watering holes
+watering holes attack
+watering-hole attack
+we
+weaponized Excel documents
+weaponized legitimate documents
+web browsers
+web development
+web hosting services
+web server exploitation
+web shell
+web shells
+web vulnerability scanner
+webshells
+website and web-server compromise
+weekdays
+welivesecurity
+wget
+which
+wide range of global organizations
+wide ranging information collection
+winmm libraries
+winrar
+wiper malware
+wipers
+withdraw funds from ATMs
+women's rights activists
+worldwide governmental organizations
+write a binary component of HIGHNOON
+writing an executable file to disk
+www.flymna
+www.iphonedevsdk[.]com
+xCmdSvc
+xfs-disp.exe
+yahoomail[.]cf
+year
+zero days
+zero-day
+zero-day Adobe Flash vulnerability
+zero-day attack
+zero-day exploit
+zero-day exploits
+zero-day vulnerability
+zeroday
+zeroday exploit
+zlib compression

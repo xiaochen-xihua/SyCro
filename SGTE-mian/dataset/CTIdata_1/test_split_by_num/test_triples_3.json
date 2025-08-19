@@ -1,0 +1,662 @@
+[
+    {
+        "text": "This blog post analyzes several recent Molerats attacks that deployed PIVY against targets in the Middle East and in the U.S. We also examine additional PIVY attacks that leverage Arabic-language content related to the ongoing crisis in Egypt and the wider Middle East to lure targets into opening malicious files.",
+        "triple_list": [
+            [
+                "Molerats attacks",
+                "target location",
+                "Middle East"
+            ],
+            [
+                "PIVY attacks",
+                "target location",
+                "Egypt"
+            ],
+            [
+                "PIVY attacks",
+                "target location",
+                "Middle East"
+            ]
+        ]
+    },
+    {
+        "text": "This domain and IP address has been previously associated with the BITTER APT and targeting government agencies in China with phishing attacks, based on reporting from 360-CERT.",
+        "triple_list": [
+            [
+                "BITTER APT",
+                "target industry",
+                "government agencies in China"
+            ],
+            [
+                "360-CERT",
+                "investigate hacker group",
+                "BITTER APT"
+            ],
+            [
+                "BITTER APT",
+                "attack method",
+                "phishing attacks"
+            ]
+        ]
+    },
+    {
+        "text": "This focus on training aligns with LYCEUM's targeting of executives, HR staff, and IT personnel.",
+        "triple_list": [
+            [
+                "LYCEUM",
+                "target user",
+                "executives"
+            ],
+            [
+                "LYCEUM",
+                "target user",
+                "HR staff"
+            ],
+            [
+                "LYCEUM",
+                "target user",
+                "IT personnel"
+            ]
+        ]
+    },
+    {
+        "text": "This group leverages social engineering to deliver spearphishing emails, in a variety of languages including English, French and Chinese, and email phishing pages to their targets.",
+        "triple_list": [
+            [
+                "This group",
+                "language used",
+                "English"
+            ],
+            [
+                "This group",
+                "language used",
+                "French"
+            ],
+            [
+                "This group",
+                "language used",
+                "Chinese"
+            ]
+        ]
+    },
+    {
+        "text": "This report is an initial public release of research PwC UK and BAE Systems have conducted into new, sustained global campaigns by an established threat actor against managed IT service providers and their clients as well as several directly targeted organisations in Japan.",
+        "triple_list": [
+            [
+                "BAE Systems",
+                "attack operation name",
+                "campaigns"
+            ],
+            [
+                "BAE Systems",
+                "target group",
+                "managed IT service providers"
+            ],
+            [
+                "BAE Systems",
+                "target location",
+                "Japan"
+            ]
+        ]
+    },
+    {
+        "text": "This threat group has conducted broad targeting across a variety of industries operating in the Middle East; however, we believe APT34's strongest interest is gaining access to financial, energy, and government entities.",
+        "triple_list": [
+            [
+                "APT34",
+                "target industry",
+                "financial"
+            ],
+            [
+                "APT34",
+                "target industry",
+                "energy"
+            ],
+            [
+                "APT34",
+                "target industry",
+                "government entities"
+            ]
+        ]
+    },
+    {
+        "text": "This volume chronicles two activity groups, code-named PROMETHIUM and NEODYMIUM, both of which target individuals in a specific area of Europe.",
+        "triple_list": [
+            [
+                "PROMETHIUM",
+                "target user",
+                "individuals in a specific area of Europe"
+            ],
+            [
+                "NEODYMIUM",
+                "target user",
+                "individuals in a specific area of Europe"
+            ],
+            [
+                "NEODYMIUM",
+                "target user",
+                "individuals in a specific area of Europe"
+            ]
+        ]
+    },
+    {
+        "text": "Three years ago, the Sednit group unleashed new components targeting victims in various countries in the Middle East and Central Asia.",
+        "triple_list": [
+            [
+                "the Sednit group ",
+                "target location",
+                " in the Middle East"
+            ],
+            [
+                "the Sednit group ",
+                "target location",
+                "Central Asia"
+            ],
+            [
+                "the Sednit group",
+                "attack time",
+                "Three years ago"
+            ]
+        ]
+    },
+    {
+        "text": "To infect individuals with access to the data the actors desire, Scarlet Mimic deploys both spear-phishing and watering hole (strategic web compromise) attacks.",
+        "triple_list": [
+            [
+                "Scarlet Mimic",
+                "attack method",
+                "spear-phishing"
+            ],
+            [
+                "Scarlet Mimic",
+                "attack method",
+                "watering hole"
+            ],
+            [
+                "Scarlet Mimic",
+                "attack operation name",
+                "infect individuals with access to the data the actors desire"
+            ]
+        ]
+    },
+    {
+        "text": "To spread the Corkow malware criminals use a drive-by downloads method, when victims are infected while visiting compromised legitimate websites.",
+        "triple_list": [
+            [
+                "criminals",
+                "purpose of attack",
+                "spread the Corkow malware"
+            ],
+            [
+                "criminals",
+                "purpose of attack",
+                "spread the Corkow malware"
+            ],
+            [
+                "Corkow",
+                "attack method",
+                "drive-by downloads method"
+            ]
+        ]
+    },
+    {
+        "text": "Victims of BlackOasis have been observed in the following countries: Russia, Iraq, Afghanistan, Nigeria, Libya, Jordan, Tunisia, Saudi Arabia, Iran, Netherlands, Bahrain, United Kingdom and Angola",
+        "triple_list": [
+            [
+                "BlackOasis",
+                "target location",
+                "Russia"
+            ],
+            [
+                "BlackOasis",
+                "target location",
+                "Iraq"
+            ],
+            [
+                "BlackOasis",
+                "target location",
+                "Tunisia"
+            ]
+        ]
+    },
+    {
+        "text": "WICKED SPIDER has been observed targeting technology companies in Germany, Indonesia, the Russian Federation, South Korea, Sweden, Thailand, Turkey, the United States, and elsewhere.",
+        "triple_list": [
+            [
+                "WICKED SPIDER",
+                "target industry",
+                "technology companies"
+            ],
+            [
+                "WICKED SPIDER",
+                "target location",
+                "Germany"
+            ],
+            [
+                "WICKED SPIDER",
+                "target location",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "We also recently discovered that Lazarus successfully planted their backdoor (detected by Trend Micro as BKDR_BINLODR.ZNFJ-A) into several machines of financial institutions across Latin America.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "tools to use",
+                "BKDR_BINLODR.ZNFJ-A"
+            ],
+            [
+                "Lazarus",
+                "target industry",
+                "financial institutions"
+            ],
+            [
+                "Lazarus",
+                "target location",
+                "Latin America"
+            ]
+        ]
+    },
+    {
+        "text": "We assess that the actors employing this latest Flash zero-day are a suspected North Korean group we track as TEMP.Reaper.",
+        "triple_list": [
+            [
+                "TEMP.Reaper",
+                "background",
+                "North Korean"
+            ],
+            [
+                "We",
+                "investigate hacker group",
+                "TEMP.Reaper"
+            ],
+            [
+                "TEMP.Reaper",
+                "target industry",
+                "latest Flash zero-day"
+            ]
+        ]
+    },
+    {
+        "text": "We assess that the recent reporting on links between the Nasr Institute and Kavosh Security Group, as well as technical and persona analysis, overlaps among APT33, APT35, and MUDDYWATER, and is probably a result of the tiered structure that Iran utilizes to manage cyber operations.",
+        "triple_list": [
+            [
+                "APT33",
+                "background",
+                "Iran"
+            ],
+            [
+                "APT35",
+                "background",
+                "Iran"
+            ],
+            [
+                "MUDDYWATER",
+                "background",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "text": "We assess the targeting of multiple companies with aviation-related partnerships to Saudi Arabia indicates that APT33 may possibly be looking to gain insights on Saudi Arabia's military aviation capabilities to enhance Iran's domestic aviation capabilities or to support Iran's military and strategic decision making vis a vis Saudi Arabia.",
+        "triple_list": [
+            [
+                "APT33",
+                "purpose of attack",
+                "enhance Iran's domestic aviation capabilities"
+            ],
+            [
+                "APT33",
+                "purpose of attack",
+                "support Iran's military and strategic decision making"
+            ],
+            [
+                "APT33",
+                "background",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "text": "We attribute this activity to TEMP.Zagros (reported by Palo Alto Networks and Trend Micro as MuddyWater), an Iran-nexus actor that has been active since at least May 2017.",
+        "triple_list": [
+            [
+                "TEMP.Zagros",
+                "group alias",
+                "MuddyWater"
+            ],
+            [
+                "TEMP.Zagros",
+                "background",
+                "Iran-nexus "
+            ],
+            [
+                "Palo Alto",
+                "investigate hacker group",
+                "MuddyWater"
+            ]
+        ]
+    },
+    {
+        "text": "We believe APT40's emphasis on maritime issues and naval technology ultimately support China's ambition to establish a blue-water navy.",
+        "triple_list": [
+            [
+                "APT40",
+                "target industry",
+                "maritime issues"
+            ],
+            [
+                "APT40",
+                "target industry",
+                "naval technology "
+            ],
+            [
+                "APT40",
+                "background",
+                "China"
+            ]
+        ]
+    },
+    {
+        "text": "We found that the group behind this campaign targeted mainly industrial, engineering and manufacturing organizations in more than 30 countries.",
+        "triple_list": [
+            [
+                "group",
+                "target industry",
+                "industrial"
+            ],
+            [
+                "group",
+                "target industry",
+                "engineering"
+            ],
+            [
+                "group",
+                "target industry",
+                "manufacturing organizations"
+            ]
+        ]
+    },
+    {
+        "text": "We have previously detected groups we suspect are affiliated with the North Korean government compromising electric utilities in South Korea, but these compromises did not lead to a disruption of the power supply.",
+        "triple_list": [
+            [
+                "groups",
+                "background",
+                "North Korean"
+            ],
+            [
+                "groups",
+                "target location",
+                "South Korea"
+            ],
+            [
+                "groups",
+                "target industry",
+                "electric utilities"
+            ]
+        ]
+    },
+    {
+        "text": "We identified several European governments and defense companies compromised with this group.",
+        "triple_list": [
+            [
+                "group",
+                "target industry",
+                "governments"
+            ],
+            [
+                "group",
+                "target industry",
+                "defense companies"
+            ],
+            [
+                "group",
+                "target location",
+                "European"
+            ]
+        ]
+    },
+    {
+        "text": "We present the connection between Behzad Mesri, an Iranian national recently indicted for his involvement in hacking HBO, and Charming Kitten.",
+        "triple_list": [
+            [
+                "Behzad Mesri",
+                "background",
+                "Iranian"
+            ],
+            [
+                "Behzad Mesri",
+                "target group",
+                "HBO"
+            ],
+            [
+                "Behzad Mesri",
+                "target group",
+                "Charming Kitten"
+            ]
+        ]
+    },
+    {
+        "text": "We suggest that APT41 sought to target in-game currency but found they could not monetize the specific targeted game, so the group resorted to ransomware to attempt to salvage their efforts and profit from the compromise.",
+        "triple_list": [
+            [
+                "APT41",
+                "attack method",
+                "resorted to ransomware"
+            ],
+            [
+                "APT41",
+                "purpose of attack",
+                "salvage their efforts"
+            ],
+            [
+                "APT41",
+                "purpose of attack",
+                "profit from the compromise"
+            ]
+        ]
+    },
+    {
+        "text": "We surmise that the targeting of banks, media, and government agencies is conducted in support of APT38's primary mission.",
+        "triple_list": [
+            [
+                "APT38",
+                "target industry",
+                "banks"
+            ],
+            [
+                "APT38",
+                "target industry",
+                "media"
+            ],
+            [
+                "APT38",
+                "target industry",
+                "government agencies"
+            ]
+        ]
+    },
+    {
+        "text": "We were ultimately able to identify multiple organizations in the government, energy, and technology sectors targeted by Magic Hound.",
+        "triple_list": [
+            [
+                "Magic Hound",
+                "target industry",
+                "government"
+            ],
+            [
+                "Magic Hound",
+                "target industry",
+                "energy"
+            ],
+            [
+                "Magic Hound",
+                "target industry",
+                "technology"
+            ]
+        ]
+    },
+    {
+        "text": "What lied beneath this facade was a well-engineered campaign of phishing attacks designed to steal credentials and spy on the activity of dozens of journalists, human rights defenders, trade unions and labour rights activists, many of whom are seemingly involved in the issue of migrants' rights in Qatar and Nepal.",
+        "triple_list": [
+            [
+                "campaign",
+                "purpose of attack",
+                "steal credentials and spy on the activity of dozens of journalists"
+            ],
+            [
+                "campaign",
+                "purpose of attack",
+                "human rights defenders"
+            ],
+            [
+                "campaign",
+                "purpose of attack",
+                "trade unions and labour rights activists"
+            ]
+        ]
+    },
+    {
+        "text": "While APT1 intruders occasionally use publicly available backdoors such as Poison Ivy and Gh0st RAT.",
+        "triple_list": [
+            [
+                "APT1",
+                "tools to use",
+                "Poison Ivy"
+            ],
+            [
+                "APT1",
+                "tools to use",
+                "Gh0st RAT"
+            ],
+            [
+                "APT1",
+                "tools to use",
+                "publicly available backdoors"
+            ]
+        ]
+    },
+    {
+        "text": "While the JHUHUGIT (and more recently, \"JKEYSKW\") implant used in most of the Sofacy attacks, high profile victims are being targeted with another first level implant, representing the latest evolution of their AZZY Trojan.",
+        "triple_list": [
+            [
+                "Sofacy",
+                "tools to use",
+                "JHUHUGIT"
+            ],
+            [
+                "Sofacy",
+                "tools to use",
+                "JKEYSKW"
+            ],
+            [
+                "Sofacy",
+                "tools to use",
+                "AZZY"
+            ]
+        ]
+    },
+    {
+        "text": "While the capabilities for the installers, loaders, and uninstallers in this report are relatively straight forward and single-focused, analysis of these malware families provide further insight into the capabilities of the Lazarus Group.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "tools to use",
+                "installers"
+            ],
+            [
+                "Lazarus",
+                "tools to use",
+                "loaders"
+            ],
+            [
+                "Lazarus",
+                "tools to use",
+                "uninstallers"
+            ]
+        ]
+    },
+    {
+        "text": "While the tools profiled in this report are not inherently malicious, their capabilities are nonetheless integral to the Lazarus Group's cyber operations, both espionage and destructive in nature, making them inherently dangerous to potential victims.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "tools to use",
+                "the tools"
+            ],
+            [
+                "Lazarus Group",
+                "attack operation name",
+                "espionage"
+            ],
+            [
+                "Lazarus Group",
+                "attack operation name",
+                "destructive"
+            ]
+        ]
+    },
+    {
+        "text": "Wild Neutron's targeting of major IT companies, spyware developers (FlexiSPY), jihadist forums (the \"Ansar Al-Mujahideen English Forum\") and Bitcoin companies indicate a flexible yet unusual mindset and interests.",
+        "triple_list": [
+            [
+                "Wild Neutron",
+                "target industry",
+                "major IT companies"
+            ],
+            [
+                "Wild Neutron",
+                "target industry",
+                "spyware developers"
+            ],
+            [
+                "Wild Neutron",
+                "target industry",
+                "Bitcoin companies"
+            ]
+        ]
+    },
+    {
+        "text": "Winnti hackers also penetrated the BASF and Siemens networks.",
+        "triple_list": [
+            [
+                "Winnti",
+                "target group",
+                "BASF and Siemens networks"
+            ],
+            [
+                "Winnti",
+                "target group",
+                "BASF"
+            ],
+            [
+                "Winnti",
+                "target group",
+                "Siemens networks"
+            ]
+        ]
+    },
+    {
+        "text": "iDefense assesses with high confidence that this campaign is associated with the threat group DRAGONFISH (also known as Lotus Blossom and Spring Dragon).",
+        "triple_list": [
+            [
+                "DRAGONFISH",
+                "attack operation name",
+                "campaign"
+            ],
+            [
+                "Lotus Blossom",
+                "attack operation name",
+                "campaign"
+            ],
+            [
+                "Spring Dragon",
+                "attack operation name",
+                "campaign"
+            ]
+        ]
+    }
+]

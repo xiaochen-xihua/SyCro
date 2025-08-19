@@ -1,0 +1,2557 @@
+[
+    {
+        "text": "The publicly available backdoors and tools utilized by APT33 - including NANOCORE, NETWIRE, and ALFA Shell - are all available on Iranian hacking websites, associated with Iranian hackers, and used by other suspected Iranian threat groups.",
+        "triple_list": [
+            [
+                "APT33",
+                "tools to use",
+                "ALFA Shell"
+            ]
+        ]
+    },
+    {
+        "text": "The purpose of the attacks appears to be industrial espionage, collecting intellectual property for competitive advantage.",
+        "triple_list": [
+            [
+                "attacks",
+                "purpose of attack",
+                "collecting intellectual property for competitive advantage"
+            ]
+        ]
+    },
+    {
+        "text": "The reality is that IT departments of small to large-sized organizations are not equipped to handle the more advanced threats that groups like Confucius use in their attacks.",
+        "triple_list": [
+            [
+                "Confucius",
+                "target industry",
+                " IT departments of small to large-sized organizations"
+            ]
+        ]
+    },
+    {
+        "text": "The reason for this is likely the availability of exploits against web browsers, which for a variety of reasons allows an attacker to bypass security features such as Data Execution Prevention (DEP) or Address Space Layout Randomization (ASLR).",
+        "triple_list": [
+            [
+                "attacker",
+                "target industry",
+                "web browsers"
+            ]
+        ]
+    },
+    {
+        "text": "The recent wave of FASTCash attacks demonstrates that financially motivated attacks are not simply a passing interest for the Lazarus group and can now be considered one of its core activities.",
+        "triple_list": [
+            [
+                "Lazarus group",
+                "attack operation name",
+                "FASTCash attacks"
+            ],
+            [
+                "Lazarus group",
+                "purpose of attack",
+                "financially"
+            ]
+        ]
+    },
+    {
+        "text": "The recommendations provided are not only good advice, but also provide indications of how INDRIK SPIDER breaches organizations and moves laterally until domain controller access is gained.",
+        "triple_list": [
+            [
+                "INDRIK SPIDER",
+                "attack method",
+                "breaches organizations"
+            ],
+            [
+                "INDRIK SPIDER",
+                "attack method",
+                "moves laterally"
+            ]
+        ]
+    },
+    {
+        "text": "The report specifies the Magic Hound targeted political, military and defense industry in the US, UK and Israel.",
+        "triple_list": [
+            [
+                "Magic Hound",
+                "target location",
+                "US"
+            ],
+            [
+                "Magic Hound",
+                "target location",
+                "UK"
+            ],
+            [
+                "Magic Hound",
+                "target location",
+                "Israel"
+            ],
+            [
+                "Magic Hound",
+                "target industry",
+                "political"
+            ],
+            [
+                "Magic Hound",
+                "target industry",
+                "military"
+            ],
+            [
+                "Magic Hound",
+                "target industry",
+                "defense"
+            ]
+        ]
+    },
+    {
+        "text": "The research and ongoing tracking of APT10 by both PwC UK and BAE.",
+        "triple_list": [
+            [
+                "PwC UK",
+                "investigate hacker group",
+                "APT10"
+            ],
+            [
+                "BAE",
+                "investigate hacker group",
+                "APT10"
+            ]
+        ]
+    },
+    {
+        "text": "The researchers found that there are common elements in the macro and in the first- stage RAT used in this campaign, with former campaigns of the NICKEL ACADEMY (Lazarus) threat group.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "attack operation name",
+                "former campaigns"
+            ]
+        ]
+    },
+    {
+        "text": "The resume contained the PUPYRAT backdoor, which communicated with known APT35 infrastructure.",
+        "triple_list": [
+            [
+                "APT35",
+                "tools to use",
+                "PUPYRAT backdoor"
+            ]
+        ]
+    },
+    {
+        "text": "The same group is believed to have also been using the Cobalt Strike framework to run sophisticated campaigns, plotting and performing financial heists of financial institutions.",
+        "triple_list": [
+            [
+                "The same group",
+                "tools to use",
+                "the Cobalt Strike framework"
+            ]
+        ]
+    },
+    {
+        "text": "The samples Novetta obtained from the active Axiom infection were compiled in mid- to late 2014 and represent what Novetta is referring to as version 3.0 of the Winnti lineage.",
+        "triple_list": [
+            [
+                "Novetta ",
+                "investigate hacker group",
+                "Axiom"
+            ]
+        ]
+    },
+    {
+        "text": "The second Windows vulnerability (CVE-2017-0143) was patched in March 2017 after it was discovered to have been used by two exploit toolsÂ¡ÂªEternalRomance and EternalSynergyÂ¡Âªthat were also released as part of the Shadow Brokers leak.",
+        "triple_list": [
+            [
+                "the Shadow Brokers leak",
+                "target industry",
+                "The second Windows vulnerability (CVE-2017-0143)"
+            ]
+        ]
+    },
+    {
+        "text": "The second group, known as DragonOK, targets high-tech and manufacturing companies in Japan and Taiwan.",
+        "triple_list": [
+            [
+                "DragonOK",
+                "target industry",
+                "high-tech"
+            ],
+            [
+                "DragonOK",
+                "target industry",
+                "manufacturing companies"
+            ],
+            [
+                "DragonOK",
+                "target location",
+                "Japan"
+            ],
+            [
+                "DragonOK",
+                "target industry",
+                "manufacturing companies"
+            ],
+            [
+                "DragonOK",
+                "target location",
+                "Japan"
+            ],
+            [
+                "DragonOK",
+                "target location",
+                "Taiwan"
+            ],
+            [
+                "DragonOK",
+                "target location",
+                "Taiwan"
+            ]
+        ]
+    },
+    {
+        "text": "The second method, described in Part D.2, below, involves the \"ShadowPad\" malware, which the Barium Defendants have distributed via a third-party software provider's compromised update.",
+        "triple_list": [
+            [
+                "Barium",
+                "tools to use",
+                "ShadowPad"
+            ]
+        ]
+    },
+    {
+        "text": "The second one communicates with the command and control by using the IP address 146.0.72.188 to exfiltrate the information collected.",
+        "triple_list": [
+            [
+                "The second one",
+                "IP address used",
+                "146.0.72.188"
+            ]
+        ]
+    },
+    {
+        "text": "The second one is CobaltGoblin/Carbanak/EmpireMonkey, which uses the same toolkit, techniques and similar infrastructure but targets only financial institutions and associated software/services providers.",
+        "triple_list": [
+            [
+                "CobaltGoblin",
+                "group alias",
+                "Carbanak"
+            ],
+            [
+                "CobaltGoblin",
+                "group alias",
+                "EmpireMonkey"
+            ],
+            [
+                "CobaltGoblin",
+                "target industry",
+                "financial"
+            ]
+        ]
+    },
+    {
+        "text": "The server used to host these malware samples was located on the German provider Hetzner (148.251.55.114), within a small block of IP addresses that are registered with the customer ID \"HOS-156205.\"",
+        "triple_list": [
+            [
+                "these malware samples",
+                "target location",
+                "German "
+            ],
+            [
+                "these malware samples",
+                "IP address used",
+                "Hetzner (148.251.55.114)"
+            ]
+        ]
+    },
+    {
+        "text": "The simplest conclusion based on these facts is that APT1 is operating in China, and most likely in Shanghai.",
+        "triple_list": [
+            [
+                "APT1",
+                "background",
+                "China"
+            ],
+            [
+                " APT1",
+                "background",
+                "Shanghai"
+            ]
+        ]
+    },
+    {
+        "text": "The spear phishing emails used in the known attacks by the Callisto Group were so convincing that even skilled and alert users would likely have attempted to open the malicious attachment",
+        "triple_list": [
+            [
+                "Callisto Group",
+                "attack method",
+                "spear phishing emails"
+            ]
+        ]
+    },
+    {
+        "text": "The spear-phishing campaign against Asian entities isn't isolated, the admin@338 also started another attack against the US-based think tank on 14th March.",
+        "triple_list": [
+            [
+                "admin@338",
+                "target industry",
+                "US-based think tank"
+            ],
+            [
+                "admin@338",
+                "attack method",
+                "spear-phishing"
+            ]
+        ]
+    },
+    {
+        "text": "The spear-phishing infection vector is still the most popular way to initiate targeted campaigns.",
+        "triple_list": [
+            [
+                "infection vector",
+                "tools to use",
+                "The spear-phishing"
+            ]
+        ]
+    },
+    {
+        "text": "The standard network protocol for Gh0st RAT 3.6 employs zlib compression, which utilizes 'Gh0st' as a static five-byte packet flag that must be included in the first five bytes of initial transmission from the victim (as seen in Figure 1).",
+        "triple_list": [
+            [
+                "Gh0st RAT 3.6",
+                "tools to use",
+                "zlib compression"
+            ]
+        ]
+    },
+    {
+        "text": "The subject is a series of targeted attacks against private companies",
+        "triple_list": [
+            [
+                "The subject",
+                "target group",
+                "private companies"
+            ]
+        ]
+    },
+    {
+        "text": "The suspected APT16 targeting of the Taiwanese government agency - in addition to the Taiwanese media organizations - further supports this possibility.",
+        "triple_list": [
+            [
+                "APT16",
+                "target industry",
+                "Taiwanese government agency"
+            ],
+            [
+                "APT16",
+                "target industry",
+                "Taiwanese media organizations"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of Chinese nationals may also be related to this campaign, but equally may be part of a separate campaign by the adversary or even as part of them selling Surveillance-As-A-Service in a similar manner previously seen with the HANGOVER group .",
+        "triple_list": [
+            [
+                "Chinese nationals",
+                "target location",
+                "a separate campaign"
+            ],
+            [
+                "HANGOVER group",
+                "tools to use",
+                "Surveillance-As-A-Service"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of Pakistan, Bangladesh, Sri Lanka, Maldives, Myanmar, Nepal, and the Shanghai Cooperation Organization are all historical espionage targets by India.",
+        "triple_list": [
+            [
+                "espionage ",
+                "target location",
+                "Pakistan"
+            ],
+            [
+                "espionage ",
+                "target location",
+                "Bangladesh"
+            ],
+            [
+                "espionage ",
+                "target location",
+                "Sri Lanka"
+            ],
+            [
+                "espionage ",
+                "target location",
+                "Maldives"
+            ],
+            [
+                "espionage ",
+                "target location",
+                "Myanmar"
+            ],
+            [
+                "espionage ",
+                "target location",
+                "Nepal"
+            ],
+            [
+                "espionage",
+                "target industry",
+                "Shanghai Cooperation Organization"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of an organization rather than individuals, and the high ransom demands, made BitPaymer stand out from other contemporary ransomware at the time.",
+        "triple_list": [
+            [
+                "BitPaymer ",
+                "target industry",
+                "organization "
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of critical infrastructure to disrupt, degrade, or destroy systems is consistent with numerous attack and reconnaissance activities carried out globally by Russian, Iranian, North Korean, U.S., and Israeli nation state actors.",
+        "triple_list": [
+            [
+                "actors",
+                "background",
+                "Russian"
+            ],
+            [
+                " actors",
+                "background",
+                "Iranian"
+            ],
+            [
+                "actors",
+                "background",
+                "U.S."
+            ],
+            [
+                "attack",
+                "purpose of attack",
+                "disrupt, degrade, or destroy systems"
+            ],
+            [
+                "actors",
+                "background",
+                "Israeli "
+            ],
+            [
+                "reconnaissance activities",
+                "purpose of attack",
+                "disrupt, degrade, or destroy systems"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of mainly Saudi Arabian organizations across a wide variety of industries aligns with historical targeting patterns for the group, which appear undeterred following previous exposÂ¨Â¦s of their activity.",
+        "triple_list": [
+            [
+                "the group",
+                "target location",
+                "Saudi Arabian"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of private sector interests by APT32 is notable and FireEye believes the actor poses significant risk to companies doing business in, or preparing to invest in, the country.",
+        "triple_list": [
+            [
+                "FireEye ",
+                "investigate hacker group",
+                "APT32"
+            ],
+            [
+                "FireEye ",
+                "investigate hacker group",
+                "APT32"
+            ],
+            [
+                "APT32",
+                "target industry",
+                "private sector"
+            ],
+            [
+                "APT32",
+                "target industry",
+                "private sector"
+            ]
+        ]
+    },
+    {
+        "text": "The targeting of this individual suggests the actors are interested in breaching the French Ministry of Foreign Affairs itself or gaining insights into relations between France and Taiwan.",
+        "triple_list": [
+            [
+                "actors",
+                "purpose of attack",
+                "breaching the French Ministry of Foreign Affairs itself"
+            ],
+            [
+                "actors",
+                "purpose of attack",
+                "gaining insights into relations between France and Taiwan"
+            ]
+        ]
+    },
+    {
+        "text": "The targets and themes of Bahamut's campaigns have consistently fallen within two regions - South Asia (primarily Pakistan, specifically Kashmir) and the Middle East (from Morocco to Iran).",
+        "triple_list": [
+            [
+                "Bahamut",
+                "target location",
+                "South Asia"
+            ],
+            [
+                "Bahamut",
+                "target location",
+                "Pakistan"
+            ],
+            [
+                "Bahamut",
+                "target location",
+                "Kashmir"
+            ],
+            [
+                "Bahamut",
+                "target location",
+                "Middle East"
+            ],
+            [
+                "Bahamut",
+                "target location",
+                "from Morocco to Iran"
+            ]
+        ]
+    },
+    {
+        "text": "The targets are military or defense industry in particular countries, it used DDNS for C2 servers, and tracked connections from their victims by using target or campaign codes, as well as disguising the malware as document file, and using a dropper to install the malware and decoy file.",
+        "triple_list": [
+            [
+                "it ",
+                "target location",
+                "particular countries"
+            ],
+            [
+                "it ",
+                "tools to use",
+                "dropper "
+            ],
+            [
+                "it",
+                "attack method",
+                "disguising the malware as document file"
+            ]
+        ]
+    },
+    {
+        "text": "The targets are typical of known Indian APT activity and the infrastructure was previously used by an Indian APT group.",
+        "triple_list": [
+            [
+                "APT group",
+                "target location",
+                "Indian"
+            ]
+        ]
+    },
+    {
+        "text": "The targets of TG-4127 include military, government and defense sectors.",
+        "triple_list": [
+            [
+                "TG-4127",
+                "target industry",
+                "military"
+            ],
+            [
+                "TG-4127",
+                "target industry",
+                "government"
+            ],
+            [
+                "TG-4127",
+                "target industry",
+                "defense"
+            ]
+        ]
+    },
+    {
+        "text": "The targets were similar to a 2015 TG-4127 campaign Â¡Âª individuals in Russia and the former Soviet states, current and former military and government personnel in the U.S. and Europe, individuals working in the defense and government supply chain, and authors and journalists Â¡Âª but also included email accounts linked to the November 2016 United States presidential election.",
+        "triple_list": [
+            [
+                "TG-4127",
+                "target user",
+                "individuals in Russia and the former Soviet states"
+            ],
+            [
+                "TG-4127",
+                "target user",
+                "military and government personnel in the U.S. and Europe"
+            ],
+            [
+                "TG-4127",
+                "target user",
+                "individuals working in the defense and government supply chain"
+            ],
+            [
+                "TG-4127",
+                "target user",
+                "authors"
+            ],
+            [
+                "TG-4127",
+                "target user",
+                "journalists"
+            ]
+        ]
+    },
+    {
+        "text": "The techniques and modules employed by EvilGnomeÂ¡Âªthat is the use of SFX, persistence with task scheduler and the deployment of information stealing toolsÂ¡Âªremind us of Gamaredon Group's Windows tools.",
+        "triple_list": [
+            [
+                "EvilGnome",
+                "tools to use",
+                "SFX"
+            ],
+            [
+                "EvilGnome",
+                "tools to use",
+                "SFX"
+            ]
+        ]
+    },
+    {
+        "text": "The tester created the final test file less than 8 hours before the creation time of a delivery document, which was then delivered via a spear-phishing email 20 minutes later.",
+        "triple_list": [
+            [
+                "The tester",
+                "tools to use",
+                "a spear-phishing email"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor Rocke was originally revealed by Talos in August of 2018 and many remarkable behaviors were disclosed in their blog post.",
+        "triple_list": [
+            [
+                "Talos",
+                "tools to use",
+                "Rocke"
+            ],
+            [
+                "Talos",
+                "investigate hacker group",
+                "Rocke"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor attempted to compromise critical assets, such as database servers, billing servers, and the active directory.",
+        "triple_list": [
+            [
+                "The threat actor",
+                "purpose of attack",
+                "compromise critical assets"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor behind ProjectSauron commands a top-of-the-top modular cyber-espionage platform in terms of technical sophistication, designed to enable long-term campaigns through stealthy survival mechanisms coupled with multiple exfiltration methods.",
+        "triple_list": [
+            [
+                "The threat actor behind ProjectSauron",
+                "purpose of attack",
+                "enable long-term campaigns"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor behind the campaign, which Kaspersky believes to be the PLATINUM APT group, uses an elaborate, previously unseen, steganographic technique to conceal communication.",
+        "triple_list": [
+            [
+                "Kaspersky",
+                "investigate hacker group",
+                "PLATINUM"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor had a specific pattern of behavior that allowed us to understand their modus operandi: they used one server with the same IP address for multiple operations.",
+        "triple_list": [
+            [
+                "The threat actor",
+                "attack method",
+                "they used one server with the same IP address for multiple operations."
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor made some modifications to the original source code of hTran.",
+        "triple_list": [
+            [
+                "threat actor",
+                "attack method",
+                "made some modifications to the original source code of hTran"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor relied on WMI and PsExec to move laterally and install their tools across multiple assets.",
+        "triple_list": [
+            [
+                "The threat actor",
+                "tools to use",
+                "WMI"
+            ],
+            [
+                "The threat actor",
+                "tools to use",
+                "PsExec"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor used an exploit from the arsenal of the state-sponsored hacker group APT28.",
+        "triple_list": [
+            [
+                "The threat actor",
+                "group alias",
+                "APT28"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor was able to leverage the web shell to run reconnaissance commands, steal credentials, and deploy other tools.",
+        "triple_list": [
+            [
+                "threat actor",
+                "tools to use",
+                "web shell"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor's emails usually contain a picture or a link without a malicious payload and are sent out to a huge recipient database of up to 85,000 users.",
+        "triple_list": [
+            [
+                "threat actor",
+                "target user",
+                "huge recipient database of up to 85,000 users"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actor's known working hours align to Chinese Standard Time (CST) and its targeting corresponds to that of other known China-based threat actors, which supports our assessment that these campaigns are conducted by APT10.",
+        "triple_list": [
+            [
+                "APT10",
+                "background",
+                "China"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors appear to be able to create and leverage multiple SWCs in parallel",
+        "triple_list": [
+            [
+                "The threat actors",
+                "tools to use",
+                "SWCs"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors appear to have leveraged publicly available exploit code that can be found on Github at the URL: https://github.com/rxwx/CVE-2017-8570.",
+        "triple_list": [
+            [
+                "The threat actors",
+                "target industry",
+                "CVE-2017-8570"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors are also fluent in Japanese, crafting phishing emails in native Japanese and operating successfully within a Japanese-language environment.",
+        "triple_list": [
+            [
+                "threat actors",
+                "language used",
+                "Japanese"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors associated with DRAGONFISH have previously focused their campaigns on targets in Southeast Asia, specifically those located in countries near the South China Sea.",
+        "triple_list": [
+            [
+                "DRAGONFISH",
+                "target location",
+                "Southeast Asia"
+            ],
+            [
+                "DRAGONFISH",
+                "target location",
+                "countries near the South China Sea"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors behind the Sea Turtle campaign show clear signs of being highly capable and brazen in their endeavors.",
+        "triple_list": [
+            [
+                "threat actors",
+                "attack operation name",
+                " Sea Turtle"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors behind the Sea Turtle campaign were successful in compromising entities by manipulating and falsifying DNS records at various levels in the domain name space.",
+        "triple_list": [
+            [
+                "threat actors",
+                "tools to use",
+                "Sea Turtle"
+            ],
+            [
+                "threat actors",
+                "purpose of attack",
+                "compromising entities"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors create PlugX DLL stub loaders that will run only after a specific date.",
+        "triple_list": [
+            [
+                "threat actors",
+                "tools to use",
+                "PlugX DLL"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors have used the Baidu search engine, which is only available in Chinese, to conduct reconnaissance activities.",
+        "triple_list": [
+            [
+                "The threat actors",
+                "tools to use",
+                "the Baidu search"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors target a wide range of organizations: CTU researchers have observed TG-3390 actors obtaining confidential data on defense manufacturing projects, but also targeting other industry verticals and attacking organizations involved in international relations.",
+        "triple_list": [
+            [
+                "CTU",
+                "investigate hacker group",
+                "TG-3390"
+            ],
+            [
+                "TG-3390",
+                "target industry",
+                "defense manufacturing projects"
+            ],
+            [
+                "TG-3390",
+                "target industry",
+                "industry verticals"
+            ],
+            [
+                "TG-3390",
+                "target industry",
+                "organizations involved in international relations"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors use a commercial installation tool called Smart Installer Maker to encapsulate and execute a self-extracting RAR archive and in some cases a decoy slideshow or Flash installation application.",
+        "triple_list": [
+            [
+                "threat actors",
+                "tools to use",
+                "Smart Installer Maker"
+            ],
+            [
+                "threat actors",
+                "tools to use",
+                "decoy slideshow"
+            ],
+            [
+                "threat actors",
+                "tools to use",
+                "Flash installation application"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors used the appcmd command-line tool to unlock and disable the default logging component on the server (systsm.webServer/httplogging) and then delete existing logs from the system (see Figure 4).",
+        "triple_list": [
+            [
+                "threat actors",
+                "attack method",
+                "used the appcmd command-line tool to unlock and disable the default logging component"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors were able to maintain long term persistent access to many of these networks by utilizing compromised credentials.",
+        "triple_list": [
+            [
+                "threat actors",
+                "attack method",
+                "maintain long term persistent"
+            ],
+            [
+                "threat actors",
+                "attack method",
+                "utilizing compromised credentials"
+            ]
+        ]
+    },
+    {
+        "text": "The threat actors, observed by FireEye Labs, use a variety of different methods to either compromise or acquire already compromised payment card credentials, including sharing or purchasing dumps online, hacking vulnerable merchant websites and compromising payment card processing devices.",
+        "triple_list": [
+            [
+                "threat actors",
+                "attack method",
+                "compromise or acquire already compromised payment card credentials"
+            ]
+        ]
+    },
+    {
+        "text": "The threat group in this recently observed campaign - TEMP.Zagros - weaponized their malware using the following techniques.",
+        "triple_list": [
+            [
+                "TEMP.Zagros",
+                "tools to use",
+                "following techniques"
+            ]
+        ]
+    },
+    {
+        "text": "The threat group in this recently observed campaign a?? TEMP.Zagros a?? weaponized their malware using the following techniques.",
+        "triple_list": [
+            [
+                "TEMP.Zagros",
+                "tools to use",
+                "following techniques"
+            ]
+        ]
+    },
+    {
+        "text": "The threat group using these implants has been active since at least 2014 and has been seen targeting individuals likely involved in the Ukrainian government.",
+        "triple_list": [
+            [
+                "threat group",
+                "background",
+                "Ukrainian government"
+            ]
+        ]
+    },
+    {
+        "text": "The threat is likely targeting employees of various Palestinian government agencies, security services, Palestinian students, and those affiliated with the Fatah political party.",
+        "triple_list": [
+            [
+                "threat",
+                "target location",
+                "Palestinian government agencies"
+            ],
+            [
+                "threat",
+                "target industry",
+                "security services"
+            ],
+            [
+                "threat",
+                "target user",
+                "Palestinian students"
+            ],
+            [
+                "threat",
+                "target user",
+                "those affiliated with the Fatah political party"
+            ]
+        ]
+    },
+    {
+        "text": "The threat then executes \"svchost.exe\"",
+        "triple_list": [
+            [
+                "The threat",
+                "tools to use",
+                "svchost.exe"
+            ]
+        ]
+    },
+    {
+        "text": "The timeline details events related to the three previously cited IPs - 58.65[.]143[.]244, 66[.]153[.]86[.]14, and 111[.]68[.]9[.]93 - used in both the Bit9 attacks and either DeputyDog or Ephemeral Hydra.",
+        "triple_list": [
+            [
+                "The timeline details events",
+                "IP address used",
+                "58.65[.]143[.]244"
+            ],
+            [
+                "The timeline details events",
+                "IP address used",
+                "66[.]153[.]86[.]14"
+            ],
+            [
+                "The timeline details events",
+                "IP address used",
+                "111[.]68[.]9[.]93"
+            ]
+        ]
+    },
+    {
+        "text": "The times of day the group is active also suggests that it is based near Beijing and the group has reportedly used malware that has been observed in other Chinese operations, indicating some level of collaboration.",
+        "triple_list": [
+            [
+                "the group",
+                "background",
+                "Beijing"
+            ]
+        ]
+    },
+    {
+        "text": "The titles and contents of these files suggest that the actor targeted individuals affiliated with these government agencies and the Fatah political party.",
+        "triple_list": [
+            [
+                "actor",
+                "target industry",
+                "government agencies"
+            ],
+            [
+                "actor",
+                "target industry",
+                "Fatah political party"
+            ],
+            [
+                "actor",
+                "target industry",
+                "government agencies"
+            ],
+            [
+                "actor",
+                "target user",
+                "Fatah political party."
+            ]
+        ]
+    },
+    {
+        "text": "The tool was written by sta of Thyssenkrupp, because the industrial giantÂ¡Âªcompany number elevenÂ¡Âªhad been spied on by Winnti.",
+        "triple_list": [
+            [
+                "Winnti",
+                "target group",
+                "company number eleven"
+            ]
+        ]
+    },
+    {
+        "text": "The ultimate goal of this threat is to mine Monero cryptocurrency in compromised Linux machines.",
+        "triple_list": [
+            [
+                "threat ",
+                "purpose of attack",
+                "mine Monero cryptocurrency "
+            ]
+        ]
+    },
+    {
+        "text": "The ultimate objective of targeted attacks is to acquire sensitive data.",
+        "triple_list": [
+            [
+                "targeted attacks",
+                "attack method",
+                "acquire sensitive data"
+            ]
+        ]
+    },
+    {
+        "text": "The updated tool has only been seen in a handful of victim computers within organizational networks in Southeast AsiaÂ¡ÂªPLATINUM is known to customize tools based on the network architecture of targeted organizations.",
+        "triple_list": [
+            [
+                "PLATINUM",
+                "purpose of attack",
+                "customize tools based on the network architecture of targeted organizations"
+            ],
+            [
+                "PLATINUM",
+                "target location",
+                "Southeast Asia"
+            ]
+        ]
+    },
+    {
+        "text": "The usage of KopiLuwak, a well-known and exclusive artefact previously used by the Turla group, makes us attribute this campaign to this actor with high confidence.",
+        "triple_list": [
+            [
+                "Turla",
+                "tools to use",
+                "KopiLuwak"
+            ]
+        ]
+    },
+    {
+        "text": "The use of BLACKCOFFEE demonstrates APT17's evolving use of public websites to hide in plain sight.",
+        "triple_list": [
+            [
+                "APT17",
+                "tools to use",
+                "BLACKCOFFEE"
+            ]
+        ]
+    },
+    {
+        "text": "The use of decoy documents also reveals some of the potential targets of the Lazarus group's malicious activity, specifically the use  spear phishing attacks observed targeting South Korean government and aerospace organizations.",
+        "triple_list": [
+            [
+                "Lazarus",
+                "target industry",
+                "aerospace organizations"
+            ],
+            [
+                "Lazarus",
+                "target group",
+                "South Korean government"
+            ],
+            [
+                "Lazarus",
+                "attack method",
+                "spear phishing attacks"
+            ]
+        ]
+    },
+    {
+        "text": "The use of infrastructure tied to Iranian operations, timing and alignment with the national interests of Iran also lead FireEye to assess that APT34 acts on behalf of the Iranian government.",
+        "triple_list": [
+            [
+                "FireEye",
+                "investigate hacker group",
+                "APT34"
+            ],
+            [
+                "APT34",
+                "background",
+                "Iranian"
+            ]
+        ]
+    },
+    {
+        "text": "The use of script-based backdoors is a common technique used by the OilRig group as we have previously documented.",
+        "triple_list": [
+            [
+                "the OilRig group",
+                "tools to use",
+                "script-based backdoors"
+            ]
+        ]
+    },
+    {
+        "text": "The use of the CARBANAK malware in FIN7 operations also provides limited evidence that these campaigns are linked to previously observed CARBANAK operations leading to fraudulent banking transactions, ATM compromise, and other monetization schemes.",
+        "triple_list": [
+            [
+                "FIN7",
+                "tools to use",
+                "CARBANAK malware"
+            ]
+        ]
+    },
+    {
+        "text": "The use of the Mia Ash persona demonstrates the creativity and persistence that threat actors employ to compromise targets.",
+        "triple_list": [
+            [
+                "that threat actors",
+                "tools to use",
+                "Mia Ash"
+            ]
+        ]
+    },
+    {
+        "text": "The use of weaponized legitimate documents is a longstanding operational standard of Patchwork.",
+        "triple_list": [
+            [
+                "Patchwork",
+                "tools to use",
+                "weaponized legitimate documents"
+            ]
+        ]
+    },
+    {
+        "text": "The use of weaponized legitimate documents is a longstanding operational standard of this group.",
+        "triple_list": [
+            [
+                "this group",
+                "tools to use",
+                "use of weaponized legitimate documents"
+            ]
+        ]
+    },
+    {
+        "text": "The vast majority of systems communicating with Bookworm C2 servers are within the Bangkok metropolitan area where a majority of the government of Thailand exists.",
+        "triple_list": [
+            [
+                "Bookworm",
+                "background",
+                "Thailand"
+            ],
+            [
+                "Bookworm",
+                "background",
+                "Bangkok"
+            ]
+        ]
+    },
+    {
+        "text": "The victims for the 2014-2015 versions are generally IT and real estate/investment companies and in both cases, a small number of computers have been infected throughout Wild Neutron.",
+        "triple_list": [
+            [
+                "Wild Neutron",
+                "target industry",
+                "IT"
+            ],
+            [
+                "Wild Neutron",
+                "target industry",
+                "real estate/investment companies"
+            ]
+        ]
+    },
+    {
+        "text": "The vulnerability was used to retrieve and execute Cobalt Strike from a remote server they controlled.",
+        "triple_list": [
+            [
+                "they",
+                "tools to use",
+                "Cobalt Strike"
+            ]
+        ]
+    },
+    {
+        "text": "The well-known threat group called DRAGONFISH or Lotus Blossom are distributing a new form of Elise malware targeting organizations for espionage purposes.",
+        "triple_list": [
+            [
+                "DRAGONFISH",
+                "tools to use",
+                "Elise"
+            ],
+            [
+                "Lotus Blossom",
+                "tools to use",
+                "Elise"
+            ]
+        ]
+    },
+    {
+        "text": "The witnessed techniques, tactics and procedures (TTPs) are in-line with what we usuallysee in Turla's operation: a first stage backdoor, such as Skipper, likely delivered through spearphishing followed by the appearance on the compromised system of a second stage backdoor, Gazerin this case.",
+        "triple_list": [
+            [
+                "Turla",
+                "attack method",
+                "spearphishing"
+            ]
+        ]
+    },
+    {
+        "text": "The zip contained a sample of the Poison Ivy malware which is also known to be used by APT10.",
+        "triple_list": [
+            [
+                "APT10",
+                "tools to use",
+                "Poison Ivy"
+            ]
+        ]
+    },
+    {
+        "text": "Their Facebook account appears to be more active, and their LinkedIn profile, has 500+ connections.",
+        "triple_list": [
+            [
+                "Their",
+                "target group",
+                "Facebook"
+            ]
+        ]
+    },
+    {
+        "text": "Their arsenal includes network-driven backdoors, several generations of modular backdoors, harvesting tools, and wipers.",
+        "triple_list": [
+            [
+                "Their arsenal",
+                "tools to use",
+                "network-driven backdoors"
+            ],
+            [
+                "Their arsenal",
+                "tools to use",
+                "harvesting tools"
+            ],
+            [
+                "Their arsenal",
+                "tools to use",
+                "wipers"
+            ]
+        ]
+    },
+    {
+        "text": "Their evolving and modified SPLM, CHOPSTICK, XAgent code is a long-standing part of Sofacy activity, however much of it is changing.",
+        "triple_list": [
+            [
+                "Sofacy",
+                "tools to use",
+                "CHOPSTICK"
+            ],
+            [
+                "Sofacy",
+                "tools to use",
+                "SPLM"
+            ],
+            [
+                "Sofacy",
+                "tools to use",
+                "XAgent"
+            ]
+        ]
+    },
+    {
+        "text": "Their long run of attacks, focused on Latin American countries, has allowed them to collect intelligence and refine their tactics over the years.",
+        "triple_list": [
+            [
+                "Their",
+                "target location",
+                "Latin American countries"
+            ]
+        ]
+    },
+    {
+        "text": "Their next move was to list any remote shared drives and then attempt to access remote shares owned by the specific government office they were targeting, again attempting to extract all Word documents.",
+        "triple_list": [
+            [
+                "Their next move",
+                "attack method",
+                "list any remote shared drives"
+            ],
+            [
+                "Their",
+                "target group",
+                "specific government office"
+            ]
+        ]
+    },
+    {
+        "text": "Their unprecedented campaign against MSPs, alleged to have included some of the largest MSPs in the world, in order to conduct secondary attacks against their clients, grants the Chinese state the ability to potentially access the networks of hundreds (if not thousands) of corporations around the world.",
+        "triple_list": [
+            [
+                "Their",
+                "purpose of attack",
+                "grants the Chinese state the ability to potentially access the networks"
+            ],
+            [
+                "Their",
+                "purpose of attack",
+                "conduct secondary attacks against their clients"
+            ]
+        ]
+    },
+    {
+        "text": "Then pastebin.com, github.com, mailimg.com, upload.cat, dev-point.com and pomf.cat were used as channels for the different malware stages before achieving a full RAT implementation, which then communicates with the corresponding C2 server.",
+        "triple_list": [
+            [
+                "RAT",
+                "domain used",
+                "pastebin.com"
+            ],
+            [
+                "RAT",
+                "domain used",
+                "github.com"
+            ],
+            [
+                "RAT",
+                "domain used",
+                "mailimg.com"
+            ],
+            [
+                "RAT",
+                "domain used",
+                "upload.cat"
+            ],
+            [
+                "RAT",
+                "domain used",
+                "dev-point.com"
+            ],
+            [
+                "RAT",
+                "domain used",
+                "pomf.cat"
+            ]
+        ]
+    },
+    {
+        "text": "There are a number of factors in these groups' campaigns that suggests that the attackers may be based in Iran.",
+        "triple_list": [
+            [
+                "attackers ",
+                "background",
+                "Iran"
+            ]
+        ]
+    },
+    {
+        "text": "There are many articles and researches online about APT15 and their activities, the most recent one by NCC Group.",
+        "triple_list": [
+            [
+                "NCC Group",
+                "investigate hacker group",
+                "APT15"
+            ]
+        ]
+    },
+    {
+        "text": "There are many articles and researches online about APT15 and their activities, the most recent one by NCC Group; although posted in March 2018, it refers to a campaign in 2017.",
+        "triple_list": [
+            [
+                "NCC",
+                "investigate hacker group",
+                "APT15"
+            ]
+        ]
+    },
+    {
+        "text": "There are new TTPs used in this attack - for example Agent_Drable is leveraging the Django python framework for command and control infrastructure, the technical details of which are outlined later in the blog.",
+        "triple_list": [
+            [
+                "Agent_Drable",
+                "tools to use",
+                "Django python"
+            ]
+        ]
+    },
+    {
+        "text": "There are no obvious links between the Eastern European and Middle Eastern targets, but it is clear that Gallmaker is specifically targeting the defense, military, and government sectors.",
+        "triple_list": [
+            [
+                "Gallmaker",
+                "target industry",
+                "defense"
+            ],
+            [
+                "Gallmaker",
+                "target industry",
+                "military"
+            ],
+            [
+                "Gallmaker",
+                "target industry",
+                "government"
+            ],
+            [
+                "Gallmaker",
+                "target location",
+                "Eastern European"
+            ],
+            [
+                "Gallmaker",
+                "target location",
+                "Middle Eastern"
+            ]
+        ]
+    },
+    {
+        "text": "There are previous reports of threat actors including APT10 and APT1 using dynamic DNS.",
+        "triple_list": [
+            [
+                "APT10 ",
+                "tools to use",
+                "dynamic DNS"
+            ],
+            [
+                "APT1 ",
+                "tools to use",
+                "dynamic DNS"
+            ]
+        ]
+    },
+    {
+        "text": "There are several indicators, which have led CTU researchers to believe with high confidence that NICKEL ACADEMY is behind the current spearphishing campaign.",
+        "triple_list": [
+            [
+                "CTU",
+                "investigate hacker group",
+                "NICKEL ACADEMY"
+            ],
+            [
+                "NICKEL ACADEMY",
+                "attack method",
+                "spearphishing campaign"
+            ]
+        ]
+    },
+    {
+        "text": "There has also been at least one victim targeted by a spear-phishing attack.",
+        "triple_list": [
+            [
+                "There",
+                "attack method",
+                "spear-phishing attack"
+            ]
+        ]
+    },
+    {
+        "text": "There have been numerous reports of hTran being used by different Chinese threat actors, including: APT3, APT27 and DragonOK.",
+        "triple_list": [
+            [
+                "APT3",
+                "tools to use",
+                "hTran"
+            ],
+            [
+                "APT27",
+                "tools to use",
+                "hTran"
+            ],
+            [
+                "DragonOK",
+                "tools to use",
+                "hTran"
+            ]
+        ]
+    },
+    {
+        "text": "There is no doubt that BitPaymer ransomware operations are proving successful for Indrik Spider, with an average estimate take of over $200,000 USD per victim, but it is also important to remember that INDRIK SPIDER continues to operate the Dridex banking trojan.",
+        "triple_list": [
+            [
+                "Indrik Spider",
+                "tools to use",
+                "BitPaymer"
+            ],
+            [
+                "Indrik Spider",
+                "attack method",
+                "Dridex banking trojan"
+            ]
+        ]
+    },
+    {
+        "text": "There is no doubt that BitPaymer ransomware operations are proving successful for this criminal group, with an average estimate take of over $200,000 USD per victim, but it is also important to remember that INDRIK SPIDER continues to operate the Dridex banking trojan.",
+        "triple_list": [
+            [
+                "criminal group",
+                "purpose of attack",
+                "$200,000 USD"
+            ],
+            [
+                "criminal group",
+                "target user",
+                "victim"
+            ]
+        ]
+    },
+    {
+        "text": "There is no evidence that Suckfly gained any benefits from attacking the government organizations, but someone else may have benefited from these attacks.",
+        "triple_list": [
+            [
+                "Suckfly",
+                "target industry",
+                "government organizations"
+            ]
+        ]
+    },
+    {
+        "text": "There is not much public information about the APT campaign called menuPass (also known as Stone Panda and APT10).",
+        "triple_list": [
+            [
+                "menuPass",
+                "group alias",
+                "Stone Panda"
+            ],
+            [
+                "menuPass",
+                "group alias",
+                "APT10"
+            ]
+        ]
+    },
+    {
+        "text": "There was a mistake in the original Morphisec analysis which linked these attacks to FIN7.",
+        "triple_list": [
+            [
+                "Morphisec",
+                "investigate hacker group",
+                "FIN7"
+            ],
+            [
+                "Morphisec",
+                "investigate hacker group",
+                "FIN7"
+            ]
+        ]
+    },
+    {
+        "text": "There was a significant increase in SectorJ04's hacking activities in 2019, especially those targeting South Korea.",
+        "triple_list": [
+            [
+                "SectorJ04",
+                "target location",
+                "South Korea"
+            ]
+        ]
+    },
+    {
+        "text": "There was a significant increase in their hacking activities in 2019, especially those targeting South Korea.",
+        "triple_list": [
+            [
+                "hacking activities",
+                "attack time",
+                "in 2019"
+            ]
+        ]
+    },
+    {
+        "text": "There were traces of HyperBro in the infected data center from mid-November 2017.",
+        "triple_list": [
+            [
+                "HyperBro",
+                "first discovered time",
+                "mid-November 2017"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, it is clear that the OceanLotus group works during weekdays and takes a break during the weekends.",
+        "triple_list": [
+            [
+                "OceanLotus",
+                "attack time",
+                "weekdays"
+            ]
+        ]
+    },
+    {
+        "text": "Therefore, the Stuxnet MOF file creation tool that the Shadow Brokers dropped on Friday is possibly the earliest technical evidence that NSA hackers and developers coded Stuxnet, as many suspect.",
+        "triple_list": [
+            [
+                "Shadow Brokers",
+                "tools to use",
+                "Stuxnet MOF"
+            ]
+        ]
+    },
+    {
+        "text": "These RAT families are discussed in Novetta's other report on the Lazarus Group's RAT and Staging capabilities. ",
+        "triple_list": [
+            [
+                "Novetta",
+                "investigate hacker group",
+                "Lazarus Group"
+            ],
+            [
+                "Novetta",
+                "investigate hacker group",
+                "Lazarus Group"
+            ]
+        ]
+    },
+    {
+        "text": "These URIs result in the download of an installer, which creates a PE of the malware typically known as HTTPBrowser, but called Token Control by the Wekby group themselves (based upon the PDB strings found within many of the samples).",
+        "triple_list": [
+            [
+                "Wekby",
+                "tools to use",
+                "HTTPBrowser"
+            ],
+            [
+                "Wekby",
+                "tools to use",
+                "Token Control"
+            ]
+        ]
+    },
+    {
+        "text": "These actors have been more aggressive in their pursuit targeting DNS registries and a number of registrars, including those that manage ccTLDs.",
+        "triple_list": [
+            [
+                "actors",
+                "target group",
+                "manage ccTLDs"
+            ]
+        ]
+    },
+    {
+        "text": "These and other tools used by the Lazarus group can be mitigated by routinely scanning the network for any malicious activity to help prevent the malware from entering and spreading through an organization.",
+        "triple_list": [
+            [
+                "Lazarus group",
+                "tools to use",
+                "These"
+            ],
+            [
+                "Lazarus group",
+                "tools to use",
+                "other tools"
+            ]
+        ]
+    },
+    {
+        "text": "These archives provide further indication that those entities behind the campaigns are Persian-language speakers, due to the naming of files and folders in Persian.",
+        "triple_list": [
+            [
+                "entities",
+                "background",
+                "Persian-language speakers"
+            ]
+        ]
+    },
+    {
+        "text": "These attackers can potentially grab sensitive online banking information and other personal data, and even provided support for multifactor authentication and OTP.",
+        "triple_list": [
+            [
+                "attackers",
+                "purpose of attack",
+                "sensitive online banking information and other personal data"
+            ]
+        ]
+    },
+    {
+        "text": "These attacks are primarily targeting private industry in search of key intellectual property for competitive advantage, military institutions, and governmental organizations often in search of documents related to current political events and human rights organizations.",
+        "triple_list": [
+            [
+                "attacks",
+                "purpose of attack",
+                "private industry in search of key intellectual property for competitive advantage"
+            ]
+        ]
+    },
+    {
+        "text": "These attacks have included criminal groups responsible for the delivery of NewPosThings, MalumPOS and PoSeidon point of sale Malware, as well as Carbanak from the Russian criminal organization we track as Carbon Spider.",
+        "triple_list": [
+            [
+                "Carbanak",
+                "tools to use",
+                "Carbanak"
+            ],
+            [
+                "Carbon Spider",
+                "tools to use",
+                "Carbanak"
+            ],
+            [
+                "Carbon Spider",
+                "background",
+                "Russian criminal organization"
+            ],
+            [
+                "Carbon Spider",
+                "target group",
+                " criminal groups responsible for the delivery of NewPosThings, MalumPOS and PoSeidon point of sale Malware"
+            ]
+        ]
+    },
+    {
+        "text": "These attacks have involved social engineering, spearphishing attacks, exploitation of Microsoft Windows operating systems vulnerabilities, Microsoft Active Directory compromises, and the use of remote administration tools (RATs) in targeting and harvesting sensitive competitive proprietary operations and project-financing information with regard to oil and gas field bids and operations.",
+        "triple_list": [
+            [
+                "attacks",
+                "target industry",
+                "social engineering"
+            ],
+            [
+                "attacks",
+                "tools to use",
+                "remote administration tools"
+            ],
+            [
+                "attacks",
+                "target industry",
+                "gas field bids and operations"
+            ],
+            [
+                "attacks",
+                "target industry",
+                "oil"
+            ]
+        ]
+    },
+    {
+        "text": "These characteristics suggest that COBALT GYPSY executed the January and February phishing campaigns and that it created the Mia Ash persona.",
+        "triple_list": [
+            [
+                "COBALT GYPSY",
+                "attack time",
+                "January and February"
+            ]
+        ]
+    },
+    {
+        "text": "These compromised servers include Saudi Arabian government servers and other high-value organizational identities relevant to NewsBeef's targets.",
+        "triple_list": [
+            [
+                "NewsBeef",
+                "target location",
+                "Saudi Arabian"
+            ]
+        ]
+    },
+    {
+        "text": "These conflicts have even resulted in Haftar leading an attack on the capital city in April",
+        "triple_list": [
+            [
+                "These conflict",
+                "attack time",
+                " April"
+            ],
+            [
+                "These conflict",
+                "attack time",
+                " April"
+            ]
+        ]
+    },
+    {
+        "text": "These data sets show that APT1 is either operating in China during normal Chinese business hours or that APT1 is intentionally going to painstaking lengths to look like they are.",
+        "triple_list": [
+            [
+                "APT1",
+                "background",
+                "China"
+            ]
+        ]
+    },
+    {
+        "text": "These emails included recruitment-themed lures and links to malicious HTML application (HTA) files.",
+        "triple_list": [
+            [
+                "emails ",
+                "tools to use",
+                "recruitment-themed lures"
+            ],
+            [
+                "emails",
+                "tools to use",
+                "malicious HTML application (HTA) files"
+            ]
+        ]
+    },
+    {
+        "text": "These findings also suggest that the threat groups have robust exploit developing capabilities because CVE-2018-0798 is not widely reported on and it is typically not incorporated into publicly available weaponizers.",
+        "triple_list": [
+            [
+                "threat groups",
+                "target industry",
+                "CVE-2018-0798"
+            ]
+        ]
+    },
+    {
+        "text": "These gtags have been closely associated with LUNAR SPIDER activity.",
+        "triple_list": [
+            [
+                "LUNAR SPIDER",
+                "tools to use",
+                "gtags"
+            ]
+        ]
+    },
+    {
+        "text": "These have been highly active in the Middle East region and unveiled ongoing targeted attacks in multiple regions.",
+        "triple_list": [
+            [
+                "These",
+                "target location",
+                "Middle East region"
+            ]
+        ]
+    },
+    {
+        "text": "These implants are variations of earlier forms of Bankshot, a remote access tool that gives an attacker full capability on a victim's system.",
+        "triple_list": [
+            [
+                "attacker",
+                "tools to use",
+                "implants"
+            ]
+        ]
+    },
+    {
+        "text": "These incidents involved spear-phishing attacks, which characteristic of HELIX KITTEN, included emails containing malicious PowerShell in their macros that connects to known C2 infrastructure.",
+        "triple_list": [
+            [
+                "HELIX KITTEN",
+                "attack method",
+                "spear-phishing"
+            ]
+        ]
+    },
+    {
+        "text": "These include CVE-2010-3962 as part of an attack campaign in 2010 and CVE-2014-1776 in 2014.",
+        "triple_list": [
+            [
+                "an attack campaign",
+                "attack time",
+                "2010"
+            ],
+            [
+                "an attack campaign",
+                "target industry",
+                "CVE-2010-3962"
+            ],
+            [
+                "an attack campaign",
+                "attack time",
+                "2014"
+            ],
+            [
+                "an attack campaign",
+                "target industry",
+                "CVE-2014-1776"
+            ]
+        ]
+    },
+    {
+        "text": "These instances of gh0st RAT are consistently controlled from commercial Internet access accounts located on the island of Hainan, People's Republic of China.",
+        "triple_list": [
+            [
+                "gh0st RAT",
+                "background",
+                "on the island of Hainan, People's Republic of China"
+            ]
+        ]
+    },
+    {
+        "text": "These malware families have a rich history of being used in many targeted attacks against government and private organizations.",
+        "triple_list": [
+            [
+                "These malware families",
+                "target industry",
+                "government"
+            ],
+            [
+                "These malware families",
+                "target industry",
+                "private organizations"
+            ]
+        ]
+    },
+    {
+        "text": "These new tactics of selectively targeting organizations for high ransomware payouts have signaled a shift in INDRIK SPIDER's operation with a new focus on targeted, low-volume, high-return criminal activity: a type of cybercrime operation we refer to as big game hunting.",
+        "triple_list": [
+            [
+                "INDRIK SPIDER",
+                "attack operation name",
+                "big game hunting"
+            ]
+        ]
+    },
+    {
+        "text": "These redactions include ten of thousands of CIA targets and attack machines throughout Latin America, Europe and the United States.",
+        "triple_list": [
+            [
+                "CIA",
+                "target location",
+                "Latin America"
+            ],
+            [
+                "CIA",
+                "target location",
+                "Europe"
+            ],
+            [
+                "CIA",
+                "target location",
+                "United States"
+            ]
+        ]
+    },
+    {
+        "text": "These samples appeared to have been created by OilRig during their development and testing activities, all of which share many similarities with the delivery document used in the recent OilRig attack against a Middle Eastern government, N56.15.doc (7cbad6b3f505a199d6766a86b41ed23786bbb99dab9cae6c18936afdc2512f00) that we have also included in Table 1.",
+        "triple_list": [
+            [
+                "OilRig",
+                "target industry",
+                "Middle Eastern government"
+            ]
+        ]
+    },
+    {
+        "text": "These spear phishing emails were crafted to appear highly convincing, including being sent from legitimate email accounts suspected to have been previously compromised by the Callisto Group via credential phishing.",
+        "triple_list": [
+            [
+                "Callisto",
+                "attack method",
+                "credential phishing"
+            ],
+            [
+                "Callisto Group",
+                "tools to use",
+                "spear phishing emails"
+            ]
+        ]
+    },
+    {
+        "text": "These spearphishing attempts represent an evolution of Iranian actors based on their social engineering tactics and narrow targeting.",
+        "triple_list": [
+            [
+                "Iranian actors",
+                "attack method",
+                "spearphishing"
+            ]
+        ]
+    },
+    {
+        "text": "These supply chain compromise tactics have also been characteristic of APT41's best known and most recent espionage campaigns.",
+        "triple_list": [
+            [
+                "APT41",
+                "attack method",
+                "supply chain compromise tactics"
+            ]
+        ]
+    },
+    {
+        "text": "These techniques permit the CIA to bypass the encryption of WhatsApp, Signal, Telegram, Wiebo, Confide and Cloackman by hacking the \"smart\" phones that they run on and collecting audio and message traffic before encryption is applied.",
+        "triple_list": [
+            [
+                "CIA",
+                "purpose of attack",
+                "collecting audio"
+            ],
+            [
+                "CIA",
+                "purpose of attack",
+                "message traffic"
+            ]
+        ]
+    },
+    {
+        "text": "These threats are capable of opening a back door and stealing information from victims' computers.",
+        "triple_list": [
+            [
+                "threats ",
+                "target user",
+                "victims' computers"
+            ]
+        ]
+    },
+    {
+        "text": "These three recent Waterbug campaigns have seen the group compromise governments and international organizations across the globe in addition to targets in the IT and education sectors.",
+        "triple_list": [
+            [
+                "the group",
+                "attack operation name",
+                "Waterbug"
+            ],
+            [
+                "the group",
+                "target industry",
+                "IT"
+            ],
+            [
+                "the group",
+                "target industry",
+                "education sectors"
+            ],
+            [
+                "the group",
+                "target industry",
+                "governments"
+            ],
+            [
+                "the group",
+                "target industry",
+                " international organizations"
+            ]
+        ]
+    },
+    {
+        "text": "These unknown actors continued launching DDoS attacks over the next few years.",
+        "triple_list": [
+            [
+                "unknown actors",
+                "attack operation name",
+                "DDoS "
+            ]
+        ]
+    },
+    {
+        "text": "They also included Dynamic Data Exchange (DDE) and Windows Script Component (SCT) abuse to their tactics, as well as started exploiting recently reported vulnerabilities.",
+        "triple_list": [
+            [
+                "They ",
+                "attack method",
+                "Dynamic Data Exchange (DDE) and Windows Script Component (SCT)"
+            ]
+        ]
+    },
+    {
+        "text": "They also use AutoIT droppers, password-protected EXE files and even ISO images.",
+        "triple_list": [
+            [
+                "They",
+                "tools to use",
+                "AutoIT droppers"
+            ]
+        ]
+    },
+    {
+        "text": "They also used WinRAR and cURL for Windows, both often renamed, to compress and upload the exfiltrated files from the Visma network to the Dropbox API.",
+        "triple_list": [
+            [
+                "They",
+                "purpose of attack",
+                "upload the exfiltrated files"
+            ]
+        ]
+    },
+    {
+        "text": "They are both targeting businesses using accounting software, are fingerprinting systems of interest similarly, are looking for smart card readers, and finally, they deploy an array of malicious tools to spy on their victims.",
+        "triple_list": [
+            [
+                "They",
+                "target industry",
+                "businesses using accounting software"
+            ]
+        ]
+    },
+    {
+        "text": "They are interested in users of remote banking systems (RBS), mainly in Russia and neighboring countries.",
+        "triple_list": [
+            [
+                "They",
+                "target location",
+                "Russia"
+            ]
+        ]
+    },
+    {
+        "text": "They are often targeted simultaneously with other ethnic minorities and religious groups in China.",
+        "triple_list": [
+            [
+                "They",
+                "target user",
+                "religious groups in China"
+            ]
+        ]
+    },
+    {
+        "text": "They are one of the most active cyber crime groups in 2019, and they often modify and tweak their hacking methods and perform periodic hacking activities.",
+        "triple_list": [
+            [
+                "They",
+                "earliest active time",
+                "2019"
+            ]
+        ]
+    },
+    {
+        "text": "They are selective in their attacks and wait for about three months between incidents, which is approximately three times longer than other financially motivated APT groups, like MoneyTaker, Anunak (Carbanak), Buhtrap or Cobalt.",
+        "triple_list": [
+            [
+                "They",
+                "attack time",
+                "three months "
+            ],
+            [
+                "Anunak",
+                "group alias",
+                "Carbanak"
+            ]
+        ]
+    },
+    {
+        "text": "They first came to light in 2016, when they managed to steal sensitive information from the US Democratic National Committee (DNC).",
+        "triple_list": [
+            [
+                "They",
+                "first discovered time",
+                "2016"
+            ]
+        ]
+    },
+    {
+        "text": "They have also been seen using HeartBleed vulnerability in order to directly get valid credentials.",
+        "triple_list": [
+            [
+                "They",
+                "purpose of attack",
+                "get valid credentials"
+            ]
+        ]
+    },
+    {
+        "text": "They have different functions and ways of spreading, but the same purpose Â¡Âª to steal money from the accounts of businesses.",
+        "triple_list": [
+            [
+                "They",
+                "purpose of attack",
+                "steal money from the accounts of businesses"
+            ]
+        ]
+    },
+    {
+        "text": "They have largely targeted organizations involved in financial, economic and trade policy, typically using publicly available RATs such as Poison Ivy, as well some non-public backdoors.",
+        "triple_list": [
+            [
+                "They",
+                "target industry",
+                "financial"
+            ],
+            [
+                "They ",
+                "target industry",
+                "economic"
+            ],
+            [
+                "They",
+                "target industry",
+                "trade policy"
+            ]
+        ]
+    },
+    {
+        "text": "They have taken interest in subject matter of direct importance to the Democratic People's Republic of Korea (DPRK) such as Korean unification efforts and North Korean defectors.",
+        "triple_list": [
+            [
+                "They",
+                "target location",
+                "Korea"
+            ]
+        ]
+    },
+    {
+        "text": "They most commonly target Brazilian merchants, though others use the same tactics to exploit entities outside Brazil.",
+        "triple_list": [
+            [
+                "They",
+                "target location",
+                "Brazilian"
+            ]
+        ]
+    },
+    {
+        "text": "They move laterally and escalate system privileges to extract sensitive informationÂ¡Âª whenever the attacker wants to do so.4,5 Because some RATs used in targeted attacks are widely available, determining whether an attack is part of a broader APT campaign can be difficult.",
+        "triple_list": [
+            [
+                "attacker",
+                "purpose of attack",
+                "extract sensitive information"
+            ]
+        ]
+    },
+    {
+        "text": "They seem to have specialized knowledge about military operations, as they are focused on stealing specific files such as those that describe navigation routes.",
+        "triple_list": [
+            [
+                "They",
+                "purpose of attack",
+                "describe navigation routes"
+            ]
+        ]
+    },
+    {
+        "text": "They then identify the Exchange server and attempt to install the OwaAuth web shell.",
+        "triple_list": [
+            [
+                "They",
+                "attack method",
+                " identify the Exchange server and attempt to install the OwaAuth web shell"
+            ]
+        ]
+    },
+    {
+        "text": "They then moved on to the motor industry in late May.",
+        "triple_list": [
+            [
+                "They",
+                "attack time",
+                "late May"
+            ]
+        ]
+    },
+    {
+        "text": "They tried new techniques to steal from banking systems, including AWS CBR (the Russian Central Bank's Automated Workstation Client), ATMs, and card processing.",
+        "triple_list": [
+            [
+                "They",
+                "attack operation name",
+                "steal from banking systems"
+            ]
+        ]
+    },
+    {
+        "text": "They used an exploit of Internet Information Server to inject keylogger and backdoor malware onto the Exchange server.",
+        "triple_list": [
+            [
+                "They",
+                "target industry",
+                "Internet Information Server"
+            ]
+        ]
+    },
+    {
+        "text": "They were also behind an attack on the World Anti-Doping Agency (WADA), in which they leaked confidential information about several drug tests.",
+        "triple_list": [
+            [
+                "They ",
+                "target industry",
+                "WADA"
+            ]
+        ]
+    },
+    {
+        "text": "This APT attack was analyzed and attributed upon the detection and 360 Core Security now confirmed its association with the APT-C-06 Group.",
+        "triple_list": [
+            [
+                "360 Core Security",
+                "investigate hacker group",
+                "APT-C-06"
+            ]
+        ]
+    },
+    {
+        "text": "This APT group usually carries out target attacks against government agencies to steal sensitive information.",
+        "triple_list": [
+            [
+                "APT group",
+                "target industry",
+                "government agencies"
+            ]
+        ]
+    },
+    {
+        "text": "This CPE was created to ensure our customers are updated with new discoveries, activity and detection efforts related to this campaign, along with other recent activity from Iranian-nexus threat actors to include APT33, which is mentioned in this updated FireEye blog post.",
+        "triple_list": [
+            [
+                "APT33",
+                "background",
+                " Iranian-nexus"
+            ],
+            [
+                "FireEye",
+                "investigate hacker group",
+                "APT33"
+            ]
+        ]
+    },
+    {
+        "text": "This Gorgon Group campaign leveraged spear phishing emails with Microsoft Word documents exploiting CVE-2017-0199.",
+        "triple_list": [
+            [
+                "Gorgon Group",
+                "attack method",
+                " CVE-2017-0199"
+            ]
+        ]
+    },
+    {
+        "text": "This IP is very interesting because it connects with tele.zyns.com and old infrastructures used by chinese APT or DDOS Chinese team against the ancient soviet republics.",
+        "triple_list": [
+            [
+                "chinese APT",
+                "target industry",
+                "the ancient soviet republics"
+            ],
+            [
+                "chinese APT",
+                "target industry",
+                "the ancient soviet republics"
+            ]
+        ]
+    },
+    {
+        "text": "This Naikon report will be complemented by a follow-on report that will examine the Naikon TTP and the incredible volume of attack activity around the South China Sea that has been going on since at least 2010.",
+        "triple_list": [
+            [
+                "Naikon",
+                "target location",
+                "South China Sea"
+            ],
+            [
+                "Naikon",
+                "attack time",
+                "2010"
+            ]
+        ]
+    },
+    {
+        "text": "This RAT is the origin of the attackers' group name.",
+        "triple_list": [
+            [
+                "RAT",
+                "group alias",
+                "group name"
+            ]
+        ]
+    },
+    {
+        "text": "This activity cluster, which Kaspersky Lab has followed for a few years, uses various implants for targeting mainly banks, and developers of banking and money processing software solutions.",
+        "triple_list": [
+            [
+                "activity cluster",
+                "target group",
+                "mainly banks"
+            ],
+            [
+                "activity cluster",
+                "target user",
+                "developers of banking and money processing software solutions"
+            ]
+        ]
+    },
+    {
+        "text": "This activity is a longer tail for the actor than a spearphish; this is likely based on the Clever Kitten background, which may be focused on web development/application testing.",
+        "triple_list": [
+            [
+                "actor",
+                "target industry",
+                "web development"
+            ],
+            [
+                "actor",
+                "target industry",
+                "application testing"
+            ],
+            [
+                "Clever Kitten",
+                "target industry",
+                "web development"
+            ],
+            [
+                "Clever Kitten",
+                "target industry",
+                "application testing"
+            ]
+        ]
+    },
+    {
+        "text": "This actor has engaged in prolific spear phishing of government and defense entities in Central and Southwest Asia.",
+        "triple_list": [
+            [
+                "actor",
+                "target industry",
+                "government"
+            ],
+            [
+                "actor",
+                "target industry",
+                "defense"
+            ],
+            [
+                "actor",
+                "target location",
+                "Central and Southwest Asia"
+            ]
+        ]
+    },
+    {
+        "text": "This adversary displays a particular focus on targeting entities in the Ukraine and is believed to be behind the Ukrainian energy sector attacks that caused widespread power outages in late 2015.",
+        "triple_list": [
+            [
+                "This adversary",
+                "target industry",
+                "entities in the Ukraine"
+            ],
+            [
+                "This adversary",
+                "attack time",
+                "late 2015"
+            ]
+        ]
+    },
+    {
+        "text": "This adversary has been identified leveraging custom-developed plugins for versions 2 and 3 of the commodity malware Black Energy to target entities associated with energy, government, and media for espionage and destructive purposes, since at least 2011.",
+        "triple_list": [
+            [
+                "adversary",
+                "target industry",
+                "energy"
+            ],
+            [
+                "adversary",
+                "target industry",
+                "government"
+            ],
+            [
+                "adversary",
+                "target industry",
+                "media"
+            ],
+            [
+                "adversary",
+                "attack time",
+                "2011"
+            ]
+        ]
+    },
+    {
+        "text": "This adversary has been identified leveraging custom-developed plugins for versions 2 and 3 of the commodity malware Black Energy to target entities associated with energy, industrial control systems and SCADA, government, and media for espionage and destructive purposes, since at least 2011.",
+        "triple_list": [
+            [
+                "adversary",
+                "tools to use",
+                "Black Energy"
+            ]
+        ]
+    },
+    {
+        "text": "This alert's IOC files provide HIDDEN COBRA indicators related to FALLCHILL.",
+        "triple_list": [
+            [
+                "HIDDEN COBRA",
+                "tools to use",
+                "FALLCHILL"
+            ]
+        ]
+    },
+    {
+        "text": "This algorithm was previously discussed by security researchers in a Confucius-related blog post.",
+        "triple_list": [
+            [
+                "security researchers",
+                "investigate hacker group",
+                "Confucius-related blog post."
+            ],
+            [
+                "security researchers",
+                "investigate hacker group",
+                "Confucius-related blog post."
+            ]
+        ]
+    },
+    {
+        "text": "This allows them to expand their range of targets of hacking activities for financial profit, and in this regard, SectorJ04 group has been found to have hacked into a company's internal network by using a spear phishing email targeting executives and employees of certain South Korean companies around February 2019.",
+        "triple_list": [
+            [
+                "SectorJ04 group",
+                "target user",
+                "targeting executives and employees of certain South Korean companies"
+            ],
+            [
+                "SectorJ04",
+                "attack method",
+                "spear phishing email"
+            ],
+            [
+                "SectorJ04 ",
+                "target location",
+                "South Korean"
+            ]
+        ]
+    },
+    {
+        "text": "This analysis will be revisited below, along with an examination of two other PUTTER PANDA tools: pngdowner and httpclient.",
+        "triple_list": [
+            [
+                "PUTTER PANDA",
+                "tools to use",
+                "pngdowner"
+            ]
+        ]
+    }
+]
