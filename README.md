@@ -1,2 +1,2 @@
 # SyCro
-A Subject-Object Syntactic Feature Interaction and Global Feature Extraction Model for Threat Intelligence Triple Extraction
+A Syntactic Feature Interaction and Cross-table Relation Search Model for Threat Intelligence Triple Extraction
