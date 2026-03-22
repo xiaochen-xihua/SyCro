@@ -1,2 +1,2 @@
-# SGTE
-A Subject-Object Syntactic Feature Interaction and Global Feature Extraction for Threat Intelligence Triple Extraction
+# SyCro
+A Subject-Object Syntactic Feature Interaction and Global Feature Extraction Model for Threat Intelligence Triple Extraction
